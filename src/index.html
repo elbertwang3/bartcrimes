@@ -1,0 +1,46 @@
+<%= t.include("partials/_head.html") %>
+
+  
+
+
+  <div id="map-container">
+  	<div id="map-leaflet"></div>
+  	<div id="map-overlay">
+  		<div class="banner-logo">
+    		<a href="https://www.sfchronicle.com" target="_blank">
+	        <img src="https://projects.sfchronicle.com/shared/logos/sfc_logo_black.png"></img>
+	    	</a>
+	  	</div>
+	  	<div class="title">BART Crime Map</div>
+	  	<%= t.include("partials/_fullwidthmap-social.html") %>
+	  	<div class="deck"> This map developed in The San Francisco Chronicle newsroom provides information about crimes that have occurred at, in, or near BART stations and trains. </div>
+	  	<div class="instructions"><i class="fa fa-hand-o-right"></i> Click on the circles or  search for your station below to view more detailed crime information.
+	  	</div>
+	  	<div class="finder">
+	  		<input id="myinput" placeholder="Enter your station..."></input>
+	  	</div>
+	  
+	  <div id="time-heatmap"><div class="chart-desc when">When do crimes occur? </div></div>
+	  
+	  <div id="weeks-chart"> <div class="chart-desc overtime">Have crimes decreased over time? </div></div>
+
+ 
+  	 
+
+
+
+
+  
+  	
+
+
+  <script>
+
+	var groupbystations_data = <%= JSON.stringify(csv.groupbystations) %>;
+	var time_data = <%= JSON.stringify(csv.byyearbystation) %>;
+	var time_stations_data = <%= JSON.stringify(csv.timesstationsparsed) %>;
+	var stations_data = <%= JSON.stringify(json.stations) %>;
+	
+</script>
+
+  <script src="app.js" async></script>  

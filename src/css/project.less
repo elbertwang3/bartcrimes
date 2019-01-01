@@ -1,0 +1,345 @@
+#map-container {
+  position: relative;
+}
+#map-leaflet { 
+  position: absolute;
+	height: 100vh;
+ 	width: 100%;
+  pointer-events: all;
+}
+
+#map-overlay {
+  position: absolute;
+  width: 40%;
+  top: 2.5vh;
+  left: 20px;
+  bottom: 2.5vh;
+  overflow-y: scroll;
+  z-index: 500;
+  border: 1px solid rgba(193, 193, 193, 0.8);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12);
+  background: rgba(255,255,255,0.9);
+  padding: 1em;
+  height: 95vh;
+
+
+  .title {
+    font-family: @body-bold;
+    font-size: 36px;
+    line-height: 1em;
+  }
+
+  #fullwidth-social{
+    width:100%;
+    text-align:center;
+    margin: 5px auto 5px auto;
+
+    .social{
+      display:inline-block;
+      padding:0 5px;
+
+      @media @mobile{
+        font-size: 17px;
+      }
+    }
+  }
+
+  .deck {
+    font-size: 16px;
+    line-height: 1.5;
+
+  }
+  .instructions {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 5px;
+  }
+}
+
+.banner-logo {
+  max-width: 170px;
+  margin: auto;
+
+  img {
+    width: 100%;
+  }
+}
+
+.chart-desc {
+  font-family: "Source Sans Pro";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1em;
+  color: #353535;
+
+}
+.track {
+	fill: none;
+	stroke-width: 2px;
+}
+
+.volume-text {
+	font-family: "Source Sans Pro";
+	font-size: 10px;
+	text-anchor: middle;
+	alignment-baseline: middle;
+}
+
+.volume-circle {
+	fill: #F7C377;
+  stroke: #E49F4F;
+  stroke-width: 1px;
+  fill-opacity: 0.6;
+  pointer-events: all;
+}
+
+.volume-circle:hover {
+  cursor: pointer;
+  stroke: white;
+  stroke-width: 2px;
+}
+
+.volumetooltip {
+  position: absolute;
+  font-family: 'Source Sans Pro';
+  z-index: 502;
+  text-align: left;
+  color: #353535;
+  visibility: hidden;
+  pointer-events: none;
+  border: 1px solid rgba(193, 193, 193, 0.8);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12);
+  background: rgba(255,255,255,0.9);
+  padding: 0.75em;
+  height: auto;
+  max-width: 350px;
+}
+
+.tooltip-header {
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.avg-weekday-exits {
+	font-size: 12px;
+	color: #404040;
+}
+
+.tooltip-description {
+	margin-top: 10px;
+	font-size: 12px;
+}
+
+.crimesbytype-header {
+	margin-top: 10px;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.table-header {
+	display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  border-bottom: 1px solid #cdcdcd;
+}
+
+.table-header.type {
+	width: 50%;
+}
+.table-header.count{
+	width: 25%;
+}
+.table-header.rank {
+	width: 25%;
+}
+/*.election-label {
+  display: inline-block;
+  font-size: 10px;
+  opacity: 0.8;
+}*/
+
+.table-row .column {
+	display: inline-block;
+  font-size: 12px;
+}
+
+.table-row .type-column {
+	width: 50%;
+}
+
+.table-row .count-column {
+	width: 25%;
+}
+
+.table-row .rank-column {
+	width: 25%;
+}
+
+.timeLabel {
+	font-family: "Source Sans Pro";
+  fill: #353535;
+  font-size: 12px;
+}
+
+.dayLabel {
+	font-family: "Source Sans Pro";
+  text-anchor: start;
+  alignment-baseline: middle;
+  fill: #353535;
+  font-size: 12px;
+}
+
+rect.bordered {
+  stroke: white;
+  stroke-width:1px;
+}
+
+
+rect.bordered:hover {
+  stroke: #353535;
+}
+
+.heat-tooltip {
+	position: absolute;
+  font-family: 'Source Sans Pro';
+  z-index: 501;
+  text-align: left;
+  color: #353535;
+  visibility: hidden;
+  pointer-events: none;
+  border: 1px solid rgba(193, 193, 193, 0.8);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12);
+  background: rgba(255,255,255,0.9);
+  padding: 0.4em;
+  height: auto;
+  max-width: 215px;
+}
+
+.heattooltip-header {
+	 font-weight: 700;
+	 font-size: 18px;
+   line-height: 1em;
+}
+
+
+.incidents {
+	font-size: 12px;
+}
+
+.legend-text {
+	text-anchor: middle;
+  alignment-baseline: middle;
+	font-family: 'Source Sans Pro';
+	font-size: 12px;
+  fill: #353535;
+
+}
+
+.tick-line {
+  stroke: #353535;
+}
+
+.legend-anno {
+	font-family: 'Source Sans Pro';
+	font-size: 12px;
+	text-anchor: start;
+  fill: #353535;
+}
+#weeks-chart {
+  margin-top: 10px;
+}
+.weekssvg {
+  .yaxis {
+    
+    text {
+      font-family: 'Source Sans Pro';
+      font-size: 12px;
+      fill: #353535;
+      text-anchor: end;
+      alignment-baseline: baseline;
+    }
+    .axis__label {
+      text-anchor: middle;
+      alignment-baseline: middle;
+      text-transform: uppercase;
+    }
+  }
+  .xaxis {
+    
+    text {
+      font-family: 'Source Sans Pro';
+      font-size: 12px;
+      fill: #353535;
+    }
+
+    path {
+      stroke: #353535;
+    }
+
+    .tick line {
+      stroke: #353535;
+    }
+  }
+
+  .weeksline {
+    stroke: #EC1C24;
+    stroke-linecap: round;
+    stroke-width: 2px;
+    fill: none;
+
+  }
+}
+
+.finder {
+
+  position: relative;
+  width: 100%;
+  padding: 10px 0 10px;
+}
+
+#myinput {
+  font-family: 'Source Sans Pro';
+  width: 100%;
+  padding: 8px;
+  font-size: 14px;
+  outline: 0;
+  border-radius: 3px;
+  border: 1px solid #ddd;
+  color: #353535;
+}
+
+.awesomplete {
+  display: block;
+  font-family: 'Source Sans Pro';
+  font-size: 14px;
+  color: #353535;
+}
+
+#awesomplete_list_1 {
+  padding: 4px;
+}
+
+.awesomplete mark {
+  background: rgba(211,211,211,0.8) !important;
+}
+
+.awesomplete li:hover mark {
+  background: rgba(211,211,211,0.8) !important;
+}
+
+.awesomplete li[aria-selected="true"] mark {
+  background: rgba(211,211,211,0.8) !important;
+  color: inherit;
+}
+
+
+
+
+
+
+
+
+
+
+

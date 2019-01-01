@@ -1,0 +1,6314 @@
+day,hour,station,value
+1,0,,1
+1,0,12th St. Oakland City Center,5
+1,0,16th St. Mission,5
+1,0,19th St. Oakland,6
+1,0,24th St. Mission,3
+1,0,Ashby,6
+1,0,Bay Fair,10
+1,0,Castro Valley,2
+1,0,Civic Center/UN Plaza,9
+1,0,Coliseum,17
+1,0,Concord,7
+1,0,Daly City,1
+1,0,Downtown Berkeley,2
+1,0,Dublin/Pleasanton,9
+1,0,El Cerrito Plaza,4
+1,0,El Cerrito del Norte,10
+1,0,Embarcadero,3
+1,0,Fremont,5
+1,0,Fruitvale,18
+1,0,Glen Park,2
+1,0,Hayward,8
+1,0,Lafayette,1
+1,0,Lake Merritt,3
+1,0,MacArthur,13
+1,0,Millbrae,1
+1,0,Montgomery St.,2
+1,0,North Berkeley,3
+1,0,North Concord/Martinez,2
+1,0,Orinda,1
+1,0,Pittsburg/Bay Point,8
+1,0,Pleasant Hill/Contra Costa Centre,3
+1,0,Powell St.,13
+1,0,Richmond,7
+1,0,Rockridge,4
+1,0,San Francisco International Airport,1
+1,0,San Leandro,10
+1,0,South Hayward,1
+1,0,South San Francisco,1
+1,0,Union City,3
+1,0,Walnut Creek,7
+1,0,West Dublin/Pleasanton,2
+1,0,West Oakland,11
+1,1,,5
+1,1,12th St. Oakland City Center,6
+1,1,16th St. Mission,2
+1,1,19th St. Oakland,3
+1,1,24th St. Mission,2
+1,1,Antioch,1
+1,1,Ashby,6
+1,1,Balboa Park,1
+1,1,Bay Fair,14
+1,1,Civic Center/UN Plaza,7
+1,1,Coliseum,9
+1,1,Colma,1
+1,1,Concord,8
+1,1,Daly City,3
+1,1,Downtown Berkeley,4
+1,1,Dublin/Pleasanton,6
+1,1,El Cerrito Plaza,4
+1,1,El Cerrito del Norte,9
+1,1,Embarcadero,4
+1,1,Fremont,6
+1,1,Fruitvale,16
+1,1,Glen Park,2
+1,1,Hayward,6
+1,1,Lafayette,2
+1,1,Lake Merritt,2
+1,1,MacArthur,13
+1,1,Millbrae,2
+1,1,Montgomery St.,2
+1,1,North Berkeley,4
+1,1,North Concord/Martinez,2
+1,1,Orinda,3
+1,1,Pittsburg/Bay Point,7
+1,1,Pleasant Hill/Contra Costa Centre,1
+1,1,Powell St.,9
+1,1,Richmond,9
+1,1,Rockridge,4
+1,1,San Francisco International Airport,1
+1,1,San Leandro,3
+1,1,South Hayward,3
+1,1,Union City,2
+1,1,Walnut Creek,3
+1,1,West Dublin/Pleasanton,2
+1,1,West Oakland,7
+1,2,,3
+1,2,12th St. Oakland City Center,3
+1,2,16th St. Mission,4
+1,2,19th St. Oakland,2
+1,2,24th St. Mission,1
+1,2,Ashby,6
+1,2,Balboa Park,1
+1,2,Bay Fair,18
+1,2,Castro Valley,1
+1,2,Civic Center/UN Plaza,8
+1,2,Coliseum,16
+1,2,Colma,2
+1,2,Concord,4
+1,2,Daly City,7
+1,2,Downtown Berkeley,3
+1,2,Dublin/Pleasanton,4
+1,2,El Cerrito Plaza,1
+1,2,El Cerrito del Norte,5
+1,2,Embarcadero,4
+1,2,Fremont,5
+1,2,Fruitvale,16
+1,2,Glen Park,1
+1,2,Hayward,8
+1,2,Lafayette,1
+1,2,Lake Merritt,4
+1,2,MacArthur,7
+1,2,Montgomery St.,2
+1,2,North Berkeley,2
+1,2,North Concord/Martinez,1
+1,2,Pittsburg/Bay Point,12
+1,2,Pleasant Hill/Contra Costa Centre,4
+1,2,Powell St.,14
+1,2,Richmond,8
+1,2,Rockridge,3
+1,2,San Bruno,1
+1,2,San Leandro,6
+1,2,South Hayward,2
+1,2,Union City,2
+1,2,Walnut Creek,2
+1,2,West Dublin/Pleasanton,2
+1,2,West Oakland,10
+1,3,,1
+1,3,12th St. Oakland City Center,1
+1,3,19th St. Oakland,6
+1,3,24th St. Mission,2
+1,3,Balboa Park,1
+1,3,Bay Fair,8
+1,3,Castro Valley,4
+1,3,Civic Center/UN Plaza,6
+1,3,Coliseum,10
+1,3,Colma,1
+1,3,Concord,7
+1,3,Daly City,6
+1,3,Downtown Berkeley,3
+1,3,Dublin/Pleasanton,3
+1,3,El Cerrito del Norte,3
+1,3,Embarcadero,5
+1,3,Fremont,2
+1,3,Fruitvale,14
+1,3,Glen Park,1
+1,3,Hayward,2
+1,3,Lake Merritt,5
+1,3,MacArthur,12
+1,3,Millbrae,1
+1,3,Montgomery St.,3
+1,3,North Berkeley,2
+1,3,Orinda,2
+1,3,Pittsburg/Bay Point,10
+1,3,Pleasant Hill/Contra Costa Centre,3
+1,3,Powell St.,15
+1,3,Richmond,2
+1,3,Rockridge,1
+1,3,San Bruno,1
+1,3,San Leandro,5
+1,3,South Hayward,5
+1,3,Union City,3
+1,3,Walnut Creek,3
+1,3,West Dublin/Pleasanton,1
+1,3,West Oakland,9
+1,4,,3
+1,4,12th St. Oakland City Center,5
+1,4,16th St. Mission,2
+1,4,19th St. Oakland,4
+1,4,24th St. Mission,4
+1,4,Ashby,4
+1,4,Bay Fair,13
+1,4,Castro Valley,1
+1,4,Civic Center/UN Plaza,4
+1,4,Coliseum,7
+1,4,Colma,1
+1,4,Concord,5
+1,4,Daly City,4
+1,4,Downtown Berkeley,1
+1,4,Dublin/Pleasanton,3
+1,4,El Cerrito Plaza,2
+1,4,El Cerrito del Norte,2
+1,4,Embarcadero,4
+1,4,Fremont,4
+1,4,Fruitvale,7
+1,4,Glen Park,2
+1,4,Hayward,6
+1,4,Lafayette,1
+1,4,Lake Merritt,3
+1,4,MacArthur,8
+1,4,Montgomery St.,2
+1,4,North Berkeley,2
+1,4,North Concord/Martinez,2
+1,4,Orinda,1
+1,4,Pittsburg/Bay Point,12
+1,4,Pleasant Hill/Contra Costa Centre,1
+1,4,Powell St.,13
+1,4,Richmond,6
+1,4,Rockridge,2
+1,4,San Francisco International Airport,1
+1,4,San Leandro,6
+1,4,South Hayward,4
+1,4,South San Francisco,1
+1,4,Walnut Creek,2
+1,4,West Oakland,10
+1,5,,2
+1,5,12th St. Oakland City Center,4
+1,5,16th St. Mission,2
+1,5,19th St. Oakland,2
+1,5,Ashby,2
+1,5,Bay Fair,4
+1,5,Castro Valley,1
+1,5,Civic Center/UN Plaza,4
+1,5,Coliseum,8
+1,5,Colma,1
+1,5,Concord,3
+1,5,Daly City,6
+1,5,Downtown Berkeley,2
+1,5,Dublin/Pleasanton,3
+1,5,El Cerrito del Norte,4
+1,5,Embarcadero,1
+1,5,Fremont,4
+1,5,Fruitvale,10
+1,5,Hayward,6
+1,5,Lafayette,1
+1,5,Lake Merritt,4
+1,5,MacArthur,9
+1,5,Millbrae,2
+1,5,Montgomery St.,1
+1,5,North Berkeley,4
+1,5,Pittsburg/Bay Point,8
+1,5,Pleasant Hill/Contra Costa Centre,3
+1,5,Powell St.,7
+1,5,Richmond,7
+1,5,San Francisco International Airport,2
+1,5,San Leandro,2
+1,5,South Hayward,1
+1,5,Union City,2
+1,5,Walnut Creek,4
+1,5,West Oakland,4
+1,6,,3
+1,6,12th St. Oakland City Center,6
+1,6,19th St. Oakland,2
+1,6,24th St. Mission,2
+1,6,Balboa Park,1
+1,6,Bay Fair,4
+1,6,Castro Valley,1
+1,6,Civic Center/UN Plaza,1
+1,6,Coliseum,7
+1,6,Concord,4
+1,6,Daly City,3
+1,6,Dublin/Pleasanton,4
+1,6,El Cerrito Plaza,1
+1,6,El Cerrito del Norte,3
+1,6,Fremont,2
+1,6,Fruitvale,12
+1,6,Glen Park,1
+1,6,Hayward,5
+1,6,Lafayette,3
+1,6,Lake Merritt,5
+1,6,MacArthur,5
+1,6,Millbrae,1
+1,6,Montgomery St.,1
+1,6,North Berkeley,3
+1,6,Pittsburg/Bay Point,7
+1,6,Powell St.,5
+1,6,Richmond,5
+1,6,Rockridge,2
+1,6,San Francisco International Airport,1
+1,6,San Leandro,2
+1,6,South Hayward,2
+1,6,Union City,2
+1,6,Walnut Creek,3
+1,6,West Oakland,6
+1,7,12th St. Oakland City Center,3
+1,7,16th St. Mission,1
+1,7,19th St. Oakland,1
+1,7,24th St. Mission,1
+1,7,Ashby,4
+1,7,Bay Fair,3
+1,7,Civic Center/UN Plaza,4
+1,7,Coliseum,12
+1,7,Concord,3
+1,7,Daly City,2
+1,7,Downtown Berkeley,1
+1,7,Dublin/Pleasanton,3
+1,7,El Cerrito Plaza,1
+1,7,El Cerrito del Norte,5
+1,7,Embarcadero,2
+1,7,Fremont,4
+1,7,Fruitvale,7
+1,7,Hayward,5
+1,7,Lafayette,2
+1,7,Lake Merritt,4
+1,7,MacArthur,7
+1,7,Millbrae,2
+1,7,North Berkeley,3
+1,7,North Concord/Martinez,1
+1,7,Pittsburg/Bay Point,4
+1,7,Pleasant Hill/Contra Costa Centre,3
+1,7,Powell St.,4
+1,7,Richmond,2
+1,7,San Bruno,1
+1,7,San Leandro,2
+1,7,South Hayward,4
+1,7,Union City,2
+1,7,Walnut Creek,3
+1,7,West Dublin/Pleasanton,2
+1,7,West Oakland,3
+1,8,,1
+1,8,12th St. Oakland City Center,2
+1,8,16th St. Mission,2
+1,8,Bay Fair,5
+1,8,Castro Valley,2
+1,8,Coliseum,2
+1,8,Concord,2
+1,8,Daly City,1
+1,8,Downtown Berkeley,1
+1,8,Dublin/Pleasanton,4
+1,8,El Cerrito Plaza,1
+1,8,El Cerrito del Norte,4
+1,8,Fremont,1
+1,8,Fruitvale,6
+1,8,Hayward,1
+1,8,Lake Merritt,3
+1,8,MacArthur,3
+1,8,Millbrae,4
+1,8,North Concord/Martinez,2
+1,8,Pittsburg/Bay Point,8
+1,8,Pleasant Hill/Contra Costa Centre,1
+1,8,Powell St.,3
+1,8,Richmond,5
+1,8,San Bruno,1
+1,8,San Francisco International Airport,7
+1,8,San Leandro,3
+1,8,South Hayward,1
+1,8,West Oakland,4
+1,9,12th St. Oakland City Center,1
+1,9,16th St. Mission,2
+1,9,19th St. Oakland,2
+1,9,Ashby,1
+1,9,Bay Fair,3
+1,9,Coliseum,1
+1,9,Colma,1
+1,9,Daly City,2
+1,9,Dublin/Pleasanton,1
+1,9,Fremont,1
+1,9,Fruitvale,3
+1,9,Hayward,3
+1,9,Millbrae,2
+1,9,North Concord/Martinez,1
+1,9,Pittsburg/Bay Point,2
+1,9,Powell St.,1
+1,9,Richmond,1
+1,9,San Leandro,1
+1,9,South Hayward,1
+1,10,19th St. Oakland,2
+1,10,Antioch,1
+1,10,Bay Fair,3
+1,10,Civic Center/UN Plaza,4
+1,10,Coliseum,4
+1,10,Colma,1
+1,10,Concord,2
+1,10,Daly City,1
+1,10,Dublin/Pleasanton,2
+1,10,El Cerrito Plaza,1
+1,10,Fremont,1
+1,10,Fruitvale,1
+1,10,Glen Park,1
+1,10,Lake Merritt,1
+1,10,MacArthur,1
+1,10,North Berkeley,1
+1,10,North Concord/Martinez,2
+1,10,Pittsburg/Bay Point,4
+1,10,Pleasant Hill/Contra Costa Centre,1
+1,10,Powell St.,1
+1,10,Richmond,2
+1,10,San Francisco International Airport,2
+1,10,San Leandro,3
+1,10,South Hayward,1
+1,10,Union City,1
+1,10,West Oakland,3
+1,11,,1
+1,11,12th St. Oakland City Center,2
+1,11,16th St. Mission,1
+1,11,19th St. Oakland,2
+1,11,24th St. Mission,1
+1,11,Antioch,1
+1,11,Ashby,1
+1,11,Bay Fair,5
+1,11,Civic Center/UN Plaza,5
+1,11,Coliseum,1
+1,11,Concord,2
+1,11,Daly City,1
+1,11,Downtown Berkeley,2
+1,11,Dublin/Pleasanton,1
+1,11,Fremont,1
+1,11,Fruitvale,2
+1,11,Glen Park,2
+1,11,Hayward,3
+1,11,Lake Merritt,5
+1,11,MacArthur,1
+1,11,Millbrae,2
+1,11,Montgomery St.,1
+1,11,North Concord/Martinez,1
+1,11,Pittsburg/Bay Point,2
+1,11,Pleasant Hill/Contra Costa Centre,1
+1,11,Powell St.,4
+1,11,Richmond,1
+1,11,Rockridge,1
+1,11,San Francisco International Airport,2
+1,11,West Oakland,2
+1,12,,1
+1,12,12th St. Oakland City Center,2
+1,12,16th St. Mission,1
+1,12,19th St. Oakland,1
+1,12,Bay Fair,1
+1,12,Civic Center/UN Plaza,3
+1,12,Concord,1
+1,12,Dublin/Pleasanton,2
+1,12,Embarcadero,3
+1,12,Fremont,2
+1,12,Fruitvale,4
+1,12,Hayward,1
+1,12,Lake Merritt,5
+1,12,North Berkeley,1
+1,12,Pittsburg/Bay Point,3
+1,12,Pleasant Hill/Contra Costa Centre,1
+1,12,Powell St.,8
+1,12,Rockridge,1
+1,12,San Francisco International Airport,3
+1,12,San Leandro,2
+1,13,,1
+1,13,12th St. Oakland City Center,3
+1,13,16th St. Mission,2
+1,13,24th St. Mission,1
+1,13,Ashby,1
+1,13,Bay Fair,4
+1,13,Civic Center/UN Plaza,4
+1,13,Coliseum,7
+1,13,Concord,3
+1,13,Daly City,4
+1,13,Dublin/Pleasanton,3
+1,13,El Cerrito del Norte,1
+1,13,Embarcadero,2
+1,13,Fremont,3
+1,13,Fruitvale,5
+1,13,Hayward,2
+1,13,Lafayette,1
+1,13,Lake Merritt,3
+1,13,MacArthur,3
+1,13,Millbrae,2
+1,13,Montgomery St.,1
+1,13,North Concord/Martinez,2
+1,13,Orinda,3
+1,13,Pittsburg/Bay Point,4
+1,13,Pleasant Hill/Contra Costa Centre,3
+1,13,Powell St.,3
+1,13,Richmond,1
+1,13,Rockridge,1
+1,13,South Hayward,1
+1,13,Union City,1
+1,13,Walnut Creek,1
+1,13,West Oakland,1
+1,14,,1
+1,14,12th St. Oakland City Center,1
+1,14,16th St. Mission,2
+1,14,19th St. Oakland,2
+1,14,24th St. Mission,1
+1,14,Antioch,1
+1,14,Balboa Park,1
+1,14,Bay Fair,2
+1,14,Castro Valley,1
+1,14,Civic Center/UN Plaza,9
+1,14,Coliseum,8
+1,14,Colma,1
+1,14,Concord,3
+1,14,Daly City,1
+1,14,Dublin/Pleasanton,4
+1,14,El Cerrito del Norte,1
+1,14,Embarcadero,2
+1,14,Fremont,1
+1,14,Hayward,5
+1,14,Lafayette,2
+1,14,Lake Merritt,4
+1,14,MacArthur,2
+1,14,Millbrae,1
+1,14,Montgomery St.,1
+1,14,North Berkeley,1
+1,14,North Concord/Martinez,5
+1,14,Orinda,1
+1,14,Pittsburg/Bay Point,13
+1,14,Pleasant Hill/Contra Costa Centre,6
+1,14,Powell St.,9
+1,14,Richmond,4
+1,14,San Leandro,1
+1,14,South Hayward,2
+1,14,Walnut Creek,1
+1,14,West Oakland,7
+1,15,,2
+1,15,12th St. Oakland City Center,3
+1,15,16th St. Mission,1
+1,15,24th St. Mission,1
+1,15,Antioch,1
+1,15,Ashby,2
+1,15,Balboa Park,1
+1,15,Bay Fair,7
+1,15,Castro Valley,2
+1,15,Civic Center/UN Plaza,8
+1,15,Coliseum,8
+1,15,Concord,4
+1,15,Daly City,3
+1,15,Downtown Berkeley,2
+1,15,Dublin/Pleasanton,1
+1,15,El Cerrito Plaza,1
+1,15,El Cerrito del Norte,1
+1,15,Embarcadero,7
+1,15,Fremont,4
+1,15,Fruitvale,10
+1,15,Glen Park,1
+1,15,Hayward,4
+1,15,Lake Merritt,2
+1,15,MacArthur,2
+1,15,Millbrae,2
+1,15,North Berkeley,2
+1,15,North Concord/Martinez,1
+1,15,Orinda,1
+1,15,Pittsburg/Bay Point,5
+1,15,Pleasant Hill/Contra Costa Centre,3
+1,15,Powell St.,13
+1,15,Richmond,3
+1,15,Rockridge,4
+1,15,San Francisco International Airport,2
+1,15,San Leandro,4
+1,15,South Hayward,3
+1,15,Union City,2
+1,15,Walnut Creek,1
+1,15,West Oakland,13
+1,16,,2
+1,16,12th St. Oakland City Center,6
+1,16,19th St. Oakland,6
+1,16,24th St. Mission,4
+1,16,Antioch,2
+1,16,Bay Fair,2
+1,16,Castro Valley,3
+1,16,Civic Center/UN Plaza,8
+1,16,Coliseum,6
+1,16,Colma,1
+1,16,Concord,4
+1,16,Daly City,7
+1,16,Downtown Berkeley,1
+1,16,Dublin/Pleasanton,2
+1,16,El Cerrito Plaza,1
+1,16,El Cerrito del Norte,2
+1,16,Embarcadero,3
+1,16,Fremont,5
+1,16,Fruitvale,4
+1,16,Glen Park,2
+1,16,Hayward,7
+1,16,Lafayette,1
+1,16,Lake Merritt,9
+1,16,MacArthur,6
+1,16,Millbrae,2
+1,16,Montgomery St.,3
+1,16,North Berkeley,6
+1,16,North Concord/Martinez,2
+1,16,Orinda,1
+1,16,Pittsburg/Bay Point,9
+1,16,Pleasant Hill/Contra Costa Centre,2
+1,16,Powell St.,7
+1,16,Richmond,4
+1,16,Rockridge,2
+1,16,San Leandro,3
+1,16,South Hayward,3
+1,16,Union City,2
+1,16,Walnut Creek,2
+1,16,Warm Springs/South Fremont,1
+1,16,West Oakland,7
+1,17,,3
+1,17,12th St. Oakland City Center,6
+1,17,16th St. Mission,4
+1,17,19th St. Oakland,6
+1,17,24th St. Mission,3
+1,17,Antioch,1
+1,17,Ashby,3
+1,17,Balboa Park,3
+1,17,Bay Fair,6
+1,17,Castro Valley,2
+1,17,Civic Center/UN Plaza,7
+1,17,Coliseum,11
+1,17,Colma,1
+1,17,Concord,4
+1,17,Daly City,2
+1,17,Downtown Berkeley,2
+1,17,Dublin/Pleasanton,3
+1,17,El Cerrito Plaza,1
+1,17,El Cerrito del Norte,4
+1,17,Embarcadero,4
+1,17,Fremont,5
+1,17,Fruitvale,10
+1,17,Hayward,5
+1,17,Lafayette,2
+1,17,Lake Merritt,8
+1,17,Millbrae,1
+1,17,North Berkeley,3
+1,17,North Concord/Martinez,2
+1,17,Orinda,1
+1,17,Pittsburg/Bay Point,8
+1,17,Pleasant Hill/Contra Costa Centre,2
+1,17,Powell St.,9
+1,17,Richmond,6
+1,17,Rockridge,1
+1,17,San Leandro,3
+1,17,Union City,3
+1,17,West Oakland,6
+1,18,,2
+1,18,12th St. Oakland City Center,7
+1,18,16th St. Mission,1
+1,18,19th St. Oakland,5
+1,18,24th St. Mission,4
+1,18,Ashby,1
+1,18,Balboa Park,1
+1,18,Bay Fair,10
+1,18,Castro Valley,1
+1,18,Civic Center/UN Plaza,11
+1,18,Coliseum,8
+1,18,Concord,5
+1,18,Daly City,2
+1,18,Downtown Berkeley,4
+1,18,Dublin/Pleasanton,6
+1,18,El Cerrito Plaza,1
+1,18,El Cerrito del Norte,6
+1,18,Embarcadero,5
+1,18,Fremont,3
+1,18,Fruitvale,12
+1,18,Glen Park,2
+1,18,Hayward,7
+1,18,Lafayette,1
+1,18,Lake Merritt,5
+1,18,MacArthur,5
+1,18,Millbrae,1
+1,18,Montgomery St.,4
+1,18,North Concord/Martinez,3
+1,18,Orinda,1
+1,18,Pittsburg/Bay Point,12
+1,18,Pleasant Hill/Contra Costa Centre,6
+1,18,Powell St.,9
+1,18,Richmond,8
+1,18,Rockridge,2
+1,18,San Francisco International Airport,1
+1,18,San Leandro,4
+1,18,South Hayward,1
+1,18,Union City,2
+1,18,Walnut Creek,2
+1,18,West Dublin/Pleasanton,1
+1,18,West Oakland,8
+1,19,,5
+1,19,12th St. Oakland City Center,5
+1,19,16th St. Mission,2
+1,19,19th St. Oakland,3
+1,19,Antioch,1
+1,19,Ashby,3
+1,19,Balboa Park,1
+1,19,Bay Fair,10
+1,19,Civic Center/UN Plaza,4
+1,19,Coliseum,10
+1,19,Concord,6
+1,19,Daly City,3
+1,19,Downtown Berkeley,2
+1,19,Dublin/Pleasanton,2
+1,19,El Cerrito Plaza,1
+1,19,El Cerrito del Norte,2
+1,19,Embarcadero,10
+1,19,Fremont,8
+1,19,Fruitvale,12
+1,19,Hayward,5
+1,19,Lake Merritt,10
+1,19,MacArthur,4
+1,19,Montgomery St.,2
+1,19,North Concord/Martinez,2
+1,19,Orinda,2
+1,19,Pittsburg Center,1
+1,19,Pittsburg/Bay Point,6
+1,19,Pleasant Hill/Contra Costa Centre,1
+1,19,Powell St.,7
+1,19,Richmond,3
+1,19,Rockridge,1
+1,19,San Francisco International Airport,1
+1,19,San Leandro,2
+1,19,South Hayward,2
+1,19,South San Francisco,1
+1,19,Union City,1
+1,19,Walnut Creek,2
+1,19,Warm Springs/South Fremont,1
+1,19,West Oakland,4
+1,20,,1
+1,20,12th St. Oakland City Center,9
+1,20,16th St. Mission,1
+1,20,19th St. Oakland,4
+1,20,24th St. Mission,1
+1,20,Antioch,1
+1,20,Ashby,3
+1,20,Balboa Park,2
+1,20,Bay Fair,4
+1,20,Castro Valley,2
+1,20,Civic Center/UN Plaza,8
+1,20,Coliseum,12
+1,20,Colma,2
+1,20,Concord,9
+1,20,Daly City,3
+1,20,Downtown Berkeley,2
+1,20,Dublin/Pleasanton,1
+1,20,El Cerrito del Norte,2
+1,20,Embarcadero,2
+1,20,Fremont,5
+1,20,Fruitvale,9
+1,20,Glen Park,1
+1,20,Hayward,5
+1,20,Lafayette,2
+1,20,Lake Merritt,7
+1,20,MacArthur,6
+1,20,North Berkeley,4
+1,20,North Concord/Martinez,4
+1,20,Pittsburg/Bay Point,9
+1,20,Pleasant Hill/Contra Costa Centre,3
+1,20,Powell St.,12
+1,20,Richmond,4
+1,20,Rockridge,4
+1,20,San Francisco International Airport,2
+1,20,San Leandro,5
+1,20,South Hayward,4
+1,20,South San Francisco,1
+1,20,Union City,3
+1,20,Walnut Creek,4
+1,20,West Oakland,3
+1,21,,5
+1,21,12th St. Oakland City Center,1
+1,21,16th St. Mission,2
+1,21,19th St. Oakland,1
+1,21,24th St. Mission,1
+1,21,Antioch,1
+1,21,Ashby,3
+1,21,Balboa Park,3
+1,21,Bay Fair,8
+1,21,Castro Valley,1
+1,21,Civic Center/UN Plaza,4
+1,21,Coliseum,10
+1,21,Colma,1
+1,21,Concord,5
+1,21,Daly City,2
+1,21,Downtown Berkeley,4
+1,21,Dublin/Pleasanton,3
+1,21,El Cerrito Plaza,1
+1,21,El Cerrito del Norte,9
+1,21,Embarcadero,1
+1,21,Fremont,3
+1,21,Fruitvale,7
+1,21,Glen Park,2
+1,21,Hayward,7
+1,21,Lake Merritt,12
+1,21,MacArthur,7
+1,21,Montgomery St.,3
+1,21,North Berkeley,2
+1,21,North Concord/Martinez,3
+1,21,Orinda,2
+1,21,Pittsburg/Bay Point,9
+1,21,Pleasant Hill/Contra Costa Centre,3
+1,21,Powell St.,13
+1,21,Richmond,5
+1,21,Rockridge,2
+1,21,San Leandro,2
+1,21,South Hayward,2
+1,21,South San Francisco,1
+1,21,Union City,1
+1,21,Walnut Creek,1
+1,21,West Dublin/Pleasanton,2
+1,21,West Oakland,6
+1,22,,4
+1,22,12th St. Oakland City Center,3
+1,22,16th St. Mission,2
+1,22,19th St. Oakland,3
+1,22,24th St. Mission,3
+1,22,Antioch,2
+1,22,Ashby,4
+1,22,Balboa Park,2
+1,22,Bay Fair,8
+1,22,Castro Valley,1
+1,22,Civic Center/UN Plaza,12
+1,22,Coliseum,15
+1,22,Colma,1
+1,22,Concord,5
+1,22,Daly City,4
+1,22,Downtown Berkeley,1
+1,22,Dublin/Pleasanton,8
+1,22,El Cerrito Plaza,4
+1,22,El Cerrito del Norte,7
+1,22,Embarcadero,3
+1,22,Fremont,2
+1,22,Fruitvale,3
+1,22,Hayward,10
+1,22,Lafayette,2
+1,22,Lake Merritt,7
+1,22,MacArthur,3
+1,22,Montgomery St.,2
+1,22,North Berkeley,1
+1,22,North Concord/Martinez,2
+1,22,Orinda,2
+1,22,Pittsburg/Bay Point,9
+1,22,Pleasant Hill/Contra Costa Centre,2
+1,22,Powell St.,17
+1,22,Richmond,5
+1,22,Rockridge,2
+1,22,San Leandro,6
+1,22,South Hayward,4
+1,22,Union City,2
+1,22,Walnut Creek,2
+1,22,West Dublin/Pleasanton,1
+1,22,West Oakland,8
+1,23,,4
+1,23,12th St. Oakland City Center,1
+1,23,16th St. Mission,5
+1,23,19th St. Oakland,3
+1,23,24th St. Mission,6
+1,23,Antioch,2
+1,23,Ashby,3
+1,23,Balboa Park,1
+1,23,Bay Fair,9
+1,23,Castro Valley,4
+1,23,Civic Center/UN Plaza,16
+1,23,Coliseum,11
+1,23,Concord,21
+1,23,Daly City,7
+1,23,Downtown Berkeley,1
+1,23,Dublin/Pleasanton,8
+1,23,El Cerrito Plaza,5
+1,23,El Cerrito del Norte,14
+1,23,Embarcadero,8
+1,23,Fremont,6
+1,23,Fruitvale,7
+1,23,Glen Park,1
+1,23,Hayward,12
+1,23,Lafayette,8
+1,23,Lake Merritt,12
+1,23,MacArthur,4
+1,23,Montgomery St.,6
+1,23,North Berkeley,5
+1,23,North Concord/Martinez,5
+1,23,Orinda,5
+1,23,Pittsburg/Bay Point,7
+1,23,Pleasant Hill/Contra Costa Centre,7
+1,23,Powell St.,15
+1,23,Richmond,7
+1,23,Rockridge,2
+1,23,San Francisco International Airport,1
+1,23,San Leandro,6
+1,23,South Hayward,2
+1,23,South San Francisco,2
+1,23,Union City,2
+1,23,Walnut Creek,2
+1,23,West Dublin/Pleasanton,1
+1,23,West Oakland,7
+2,0,,5
+2,0,12th St. Oakland City Center,10
+2,0,16th St. Mission,2
+2,0,19th St. Oakland,4
+2,0,24th St. Mission,1
+2,0,Antioch,2
+2,0,Ashby,10
+2,0,Balboa Park,4
+2,0,Bay Fair,13
+2,0,Castro Valley,2
+2,0,Civic Center/UN Plaza,21
+2,0,Coliseum,18
+2,0,Colma,4
+2,0,Concord,13
+2,0,Daly City,7
+2,0,Downtown Berkeley,1
+2,0,Dublin/Pleasanton,12
+2,0,El Cerrito Plaza,8
+2,0,El Cerrito del Norte,12
+2,0,Embarcadero,6
+2,0,Fremont,6
+2,0,Fruitvale,19
+2,0,Hayward,13
+2,0,Lafayette,10
+2,0,Lake Merritt,9
+2,0,MacArthur,7
+2,0,Millbrae,3
+2,0,Montgomery St.,1
+2,0,North Berkeley,5
+2,0,North Concord/Martinez,5
+2,0,Orinda,5
+2,0,Pittsburg/Bay Point,8
+2,0,Pleasant Hill/Contra Costa Centre,8
+2,0,Powell St.,12
+2,0,Richmond,10
+2,0,San Bruno,3
+2,0,San Leandro,8
+2,0,South Hayward,6
+2,0,South San Francisco,1
+2,0,Union City,3
+2,0,Walnut Creek,8
+2,0,West Dublin/Pleasanton,2
+2,0,West Oakland,8
+2,1,,4
+2,1,12th St. Oakland City Center,5
+2,1,16th St. Mission,6
+2,1,19th St. Oakland,4
+2,1,24th St. Mission,1
+2,1,Antioch,1
+2,1,Ashby,10
+2,1,Bay Fair,20
+2,1,Castro Valley,6
+2,1,Civic Center/UN Plaza,9
+2,1,Coliseum,12
+2,1,Colma,1
+2,1,Concord,15
+2,1,Daly City,9
+2,1,Downtown Berkeley,2
+2,1,Dublin/Pleasanton,17
+2,1,El Cerrito Plaza,7
+2,1,El Cerrito del Norte,8
+2,1,Embarcadero,3
+2,1,Fremont,14
+2,1,Fruitvale,17
+2,1,Glen Park,1
+2,1,Hayward,21
+2,1,Lafayette,11
+2,1,Lake Merritt,7
+2,1,MacArthur,8
+2,1,Millbrae,1
+2,1,Montgomery St.,1
+2,1,North Berkeley,10
+2,1,North Concord/Martinez,5
+2,1,Orinda,3
+2,1,Pittsburg/Bay Point,24
+2,1,Pleasant Hill/Contra Costa Centre,5
+2,1,Powell St.,11
+2,1,Richmond,4
+2,1,Rockridge,6
+2,1,San Bruno,1
+2,1,San Leandro,16
+2,1,South Hayward,6
+2,1,South San Francisco,1
+2,1,Union City,7
+2,1,Walnut Creek,4
+2,1,Warm Springs/South Fremont,2
+2,1,West Dublin/Pleasanton,2
+2,1,West Oakland,8
+2,2,,4
+2,2,12th St. Oakland City Center,2
+2,2,16th St. Mission,4
+2,2,19th St. Oakland,6
+2,2,24th St. Mission,2
+2,2,Antioch,1
+2,2,Ashby,8
+2,2,Balboa Park,5
+2,2,Bay Fair,17
+2,2,Castro Valley,3
+2,2,Civic Center/UN Plaza,13
+2,2,Coliseum,20
+2,2,Colma,2
+2,2,Concord,1
+2,2,Daly City,7
+2,2,Downtown Berkeley,8
+2,2,Dublin/Pleasanton,13
+2,2,El Cerrito Plaza,4
+2,2,El Cerrito del Norte,14
+2,2,Embarcadero,3
+2,2,Fremont,12
+2,2,Fruitvale,14
+2,2,Hayward,17
+2,2,Lafayette,2
+2,2,Lake Merritt,7
+2,2,MacArthur,7
+2,2,Montgomery St.,1
+2,2,North Berkeley,6
+2,2,North Concord/Martinez,7
+2,2,Orinda,4
+2,2,Pittsburg/Bay Point,7
+2,2,Pleasant Hill/Contra Costa Centre,8
+2,2,Powell St.,12
+2,2,Richmond,5
+2,2,Rockridge,5
+2,2,San Leandro,10
+2,2,South Hayward,6
+2,2,South San Francisco,1
+2,2,Union City,7
+2,2,Walnut Creek,4
+2,2,West Dublin/Pleasanton,2
+2,2,West Oakland,7
+2,3,,6
+2,3,12th St. Oakland City Center,7
+2,3,19th St. Oakland,7
+2,3,24th St. Mission,3
+2,3,Antioch,2
+2,3,Ashby,10
+2,3,Balboa Park,1
+2,3,Bay Fair,8
+2,3,Castro Valley,5
+2,3,Civic Center/UN Plaza,9
+2,3,Coliseum,13
+2,3,Concord,10
+2,3,Daly City,5
+2,3,Downtown Berkeley,5
+2,3,Dublin/Pleasanton,8
+2,3,El Cerrito del Norte,16
+2,3,Embarcadero,4
+2,3,Fremont,8
+2,3,Fruitvale,15
+2,3,Glen Park,1
+2,3,Hayward,7
+2,3,Lafayette,6
+2,3,Lake Merritt,2
+2,3,MacArthur,6
+2,3,Montgomery St.,3
+2,3,North Berkeley,5
+2,3,North Concord/Martinez,3
+2,3,Orinda,5
+2,3,Pittsburg/Bay Point,14
+2,3,Pleasant Hill/Contra Costa Centre,5
+2,3,Powell St.,15
+2,3,Richmond,6
+2,3,Rockridge,2
+2,3,San Bruno,3
+2,3,San Leandro,5
+2,3,South Hayward,1
+2,3,South San Francisco,2
+2,3,Union City,2
+2,3,Walnut Creek,7
+2,3,West Dublin/Pleasanton,3
+2,3,West Oakland,8
+2,4,,3
+2,4,12th St. Oakland City Center,8
+2,4,16th St. Mission,2
+2,4,19th St. Oakland,7
+2,4,24th St. Mission,2
+2,4,Antioch,3
+2,4,Ashby,2
+2,4,Balboa Park,2
+2,4,Bay Fair,11
+2,4,Castro Valley,4
+2,4,Civic Center/UN Plaza,9
+2,4,Coliseum,13
+2,4,Concord,5
+2,4,Daly City,4
+2,4,Downtown Berkeley,2
+2,4,Dublin/Pleasanton,5
+2,4,El Cerrito Plaza,2
+2,4,El Cerrito del Norte,7
+2,4,Embarcadero,2
+2,4,Fremont,3
+2,4,Fruitvale,10
+2,4,Glen Park,1
+2,4,Hayward,8
+2,4,Lafayette,1
+2,4,Lake Merritt,7
+2,4,MacArthur,14
+2,4,Millbrae,1
+2,4,Montgomery St.,1
+2,4,North Berkeley,2
+2,4,North Concord/Martinez,5
+2,4,Orinda,2
+2,4,Pittsburg/Bay Point,6
+2,4,Pleasant Hill/Contra Costa Centre,2
+2,4,Powell St.,14
+2,4,Richmond,7
+2,4,Rockridge,3
+2,4,San Leandro,4
+2,4,South Hayward,2
+2,4,Union City,2
+2,4,Walnut Creek,3
+2,4,West Dublin/Pleasanton,2
+2,4,West Oakland,4
+2,5,,1
+2,5,12th St. Oakland City Center,1
+2,5,16th St. Mission,1
+2,5,19th St. Oakland,6
+2,5,24th St. Mission,2
+2,5,Ashby,4
+2,5,Balboa Park,1
+2,5,Bay Fair,9
+2,5,Castro Valley,4
+2,5,Civic Center/UN Plaza,9
+2,5,Coliseum,9
+2,5,Colma,2
+2,5,Concord,3
+2,5,Daly City,4
+2,5,Downtown Berkeley,2
+2,5,Dublin/Pleasanton,4
+2,5,El Cerrito Plaza,3
+2,5,El Cerrito del Norte,5
+2,5,Embarcadero,1
+2,5,Fremont,3
+2,5,Fruitvale,7
+2,5,Glen Park,1
+2,5,Hayward,5
+2,5,Lake Merritt,4
+2,5,MacArthur,8
+2,5,Millbrae,2
+2,5,Montgomery St.,2
+2,5,North Berkeley,3
+2,5,Pittsburg/Bay Point,3
+2,5,Pleasant Hill/Contra Costa Centre,1
+2,5,Powell St.,7
+2,5,Richmond,8
+2,5,Rockridge,1
+2,5,San Bruno,1
+2,5,San Francisco International Airport,2
+2,5,San Leandro,8
+2,5,South Hayward,4
+2,5,Union City,1
+2,5,Walnut Creek,3
+2,5,Warm Springs/South Fremont,1
+2,5,West Oakland,2
+2,6,,3
+2,6,12th St. Oakland City Center,2
+2,6,19th St. Oakland,1
+2,6,Ashby,5
+2,6,Balboa Park,3
+2,6,Bay Fair,7
+2,6,Castro Valley,4
+2,6,Civic Center/UN Plaza,3
+2,6,Coliseum,8
+2,6,Concord,3
+2,6,Daly City,2
+2,6,Downtown Berkeley,1
+2,6,Dublin/Pleasanton,4
+2,6,El Cerrito del Norte,6
+2,6,Embarcadero,2
+2,6,Fremont,1
+2,6,Fruitvale,9
+2,6,Glen Park,2
+2,6,Hayward,6
+2,6,Lake Merritt,4
+2,6,MacArthur,7
+2,6,Millbrae,1
+2,6,Montgomery St.,2
+2,6,North Berkeley,1
+2,6,North Concord/Martinez,1
+2,6,Orinda,1
+2,6,Pittsburg/Bay Point,5
+2,6,Pleasant Hill/Contra Costa Centre,2
+2,6,Powell St.,9
+2,6,Richmond,4
+2,6,Rockridge,1
+2,6,San Leandro,5
+2,6,South San Francisco,1
+2,6,Union City,2
+2,6,Walnut Creek,4
+2,6,West Oakland,4
+2,7,,1
+2,7,12th St. Oakland City Center,7
+2,7,16th St. Mission,1
+2,7,19th St. Oakland,4
+2,7,24th St. Mission,3
+2,7,Bay Fair,7
+2,7,Castro Valley,1
+2,7,Civic Center/UN Plaza,5
+2,7,Coliseum,2
+2,7,Concord,8
+2,7,Daly City,3
+2,7,Downtown Berkeley,1
+2,7,Dublin/Pleasanton,2
+2,7,El Cerrito Plaza,1
+2,7,El Cerrito del Norte,5
+2,7,Embarcadero,2
+2,7,Fremont,2
+2,7,Fruitvale,14
+2,7,Glen Park,1
+2,7,Hayward,2
+2,7,Lake Merritt,3
+2,7,MacArthur,5
+2,7,Millbrae,1
+2,7,Montgomery St.,1
+2,7,North Berkeley,3
+2,7,North Concord/Martinez,7
+2,7,Orinda,3
+2,7,Pittsburg/Bay Point,8
+2,7,Pleasant Hill/Contra Costa Centre,2
+2,7,Powell St.,3
+2,7,Richmond,5
+2,7,Rockridge,2
+2,7,San Bruno,1
+2,7,San Leandro,4
+2,7,South Hayward,3
+2,7,South San Francisco,2
+2,7,Walnut Creek,3
+2,7,West Oakland,5
+2,8,,2
+2,8,12th St. Oakland City Center,2
+2,8,24th St. Mission,1
+2,8,Ashby,1
+2,8,Balboa Park,2
+2,8,Bay Fair,4
+2,8,Civic Center/UN Plaza,3
+2,8,Coliseum,2
+2,8,Concord,1
+2,8,Daly City,1
+2,8,Dublin/Pleasanton,3
+2,8,Embarcadero,1
+2,8,Fremont,2
+2,8,Fruitvale,8
+2,8,Glen Park,1
+2,8,Hayward,3
+2,8,Lake Merritt,1
+2,8,MacArthur,5
+2,8,Millbrae,1
+2,8,North Concord/Martinez,1
+2,8,Orinda,1
+2,8,Pittsburg/Bay Point,7
+2,8,Pleasant Hill/Contra Costa Centre,2
+2,8,Powell St.,4
+2,8,Richmond,4
+2,8,San Bruno,1
+2,8,San Francisco International Airport,2
+2,8,San Leandro,6
+2,8,South Hayward,1
+2,8,South San Francisco,1
+2,8,Union City,2
+2,8,Walnut Creek,4
+2,8,West Oakland,4
+2,9,,3
+2,9,16th St. Mission,1
+2,9,Bay Fair,1
+2,9,Coliseum,4
+2,9,Daly City,2
+2,9,Downtown Berkeley,1
+2,9,Dublin/Pleasanton,3
+2,9,El Cerrito del Norte,1
+2,9,Fruitvale,1
+2,9,Hayward,3
+2,9,Millbrae,2
+2,9,North Concord/Martinez,1
+2,9,Pittsburg/Bay Point,5
+2,9,Pleasant Hill/Contra Costa Centre,3
+2,9,Powell St.,2
+2,9,San Francisco International Airport,1
+2,9,Walnut Creek,2
+2,9,West Oakland,2
+2,10,12th St. Oakland City Center,1
+2,10,Balboa Park,1
+2,10,Bay Fair,1
+2,10,Coliseum,3
+2,10,Concord,1
+2,10,Dublin/Pleasanton,1
+2,10,El Cerrito del Norte,2
+2,10,Embarcadero,1
+2,10,Fremont,2
+2,10,Lake Merritt,1
+2,10,MacArthur,1
+2,10,Millbrae,1
+2,10,North Berkeley,1
+2,10,North Concord/Martinez,1
+2,10,Pittsburg/Bay Point,1
+2,10,Powell St.,1
+2,10,Richmond,1
+2,10,San Francisco International Airport,2
+2,10,Walnut Creek,1
+2,11,,1
+2,11,Bay Fair,1
+2,11,Civic Center/UN Plaza,1
+2,11,Coliseum,1
+2,11,Colma,1
+2,11,El Cerrito Plaza,2
+2,11,Embarcadero,1
+2,11,Fruitvale,1
+2,11,MacArthur,1
+2,11,North Berkeley,1
+2,11,Orinda,1
+2,11,Pittsburg/Bay Point,2
+2,11,Pleasant Hill/Contra Costa Centre,1
+2,11,Powell St.,1
+2,11,Richmond,2
+2,11,San Bruno,1
+2,11,San Leandro,3
+2,11,South Hayward,2
+2,11,West Oakland,2
+2,12,,1
+2,12,12th St. Oakland City Center,2
+2,12,24th St. Mission,2
+2,12,Ashby,1
+2,12,Balboa Park,1
+2,12,Bay Fair,5
+2,12,Castro Valley,2
+2,12,Civic Center/UN Plaza,1
+2,12,Coliseum,9
+2,12,Concord,2
+2,12,Daly City,4
+2,12,Dublin/Pleasanton,5
+2,12,El Cerrito Plaza,1
+2,12,El Cerrito del Norte,3
+2,12,Embarcadero,1
+2,12,Fremont,2
+2,12,Fruitvale,2
+2,12,Hayward,3
+2,12,Lafayette,2
+2,12,Lake Merritt,6
+2,12,MacArthur,1
+2,12,Millbrae,1
+2,12,Montgomery St.,1
+2,12,Pittsburg/Bay Point,8
+2,12,Pleasant Hill/Contra Costa Centre,2
+2,12,Powell St.,3
+2,12,Richmond,2
+2,12,Rockridge,1
+2,12,San Bruno,1
+2,12,San Leandro,1
+2,12,South Hayward,3
+2,12,South San Francisco,1
+2,12,Union City,2
+2,12,Walnut Creek,4
+2,12,Warm Springs/South Fremont,1
+2,12,West Dublin/Pleasanton,1
+2,12,West Oakland,5
+2,13,,2
+2,13,12th St. Oakland City Center,5
+2,13,19th St. Oakland,3
+2,13,24th St. Mission,1
+2,13,Ashby,1
+2,13,Balboa Park,1
+2,13,Bay Fair,3
+2,13,Civic Center/UN Plaza,4
+2,13,Coliseum,13
+2,13,Concord,2
+2,13,Daly City,1
+2,13,Downtown Berkeley,1
+2,13,Dublin/Pleasanton,1
+2,13,El Cerrito del Norte,1
+2,13,Embarcadero,2
+2,13,Fruitvale,3
+2,13,Lafayette,1
+2,13,Lake Merritt,3
+2,13,MacArthur,4
+2,13,Montgomery St.,3
+2,13,North Berkeley,2
+2,13,North Concord/Martinez,1
+2,13,Pittsburg/Bay Point,2
+2,13,Pleasant Hill/Contra Costa Centre,3
+2,13,Powell St.,15
+2,13,Richmond,4
+2,13,Rockridge,1
+2,13,San Francisco International Airport,2
+2,13,San Leandro,2
+2,13,Union City,1
+2,13,Walnut Creek,1
+2,13,Warm Springs/South Fremont,1
+2,13,West Oakland,4
+2,14,,4
+2,14,12th St. Oakland City Center,3
+2,14,19th St. Oakland,2
+2,14,Ashby,2
+2,14,Balboa Park,2
+2,14,Bay Fair,2
+2,14,Castro Valley,1
+2,14,Civic Center/UN Plaza,5
+2,14,Coliseum,6
+2,14,Colma,4
+2,14,Dublin/Pleasanton,4
+2,14,El Cerrito del Norte,2
+2,14,Embarcadero,2
+2,14,Fremont,1
+2,14,Fruitvale,4
+2,14,Lafayette,2
+2,14,Lake Merritt,6
+2,14,MacArthur,1
+2,14,Millbrae,2
+2,14,Montgomery St.,2
+2,14,North Concord/Martinez,2
+2,14,Orinda,1
+2,14,Pittsburg/Bay Point,6
+2,14,Pleasant Hill/Contra Costa Centre,1
+2,14,Powell St.,6
+2,14,Rockridge,2
+2,14,San Francisco International Airport,1
+2,14,San Leandro,4
+2,14,South San Francisco,1
+2,14,Union City,1
+2,14,West Oakland,5
+2,15,,3
+2,15,12th St. Oakland City Center,3
+2,15,19th St. Oakland,5
+2,15,24th St. Mission,1
+2,15,Antioch,1
+2,15,Ashby,2
+2,15,Balboa Park,2
+2,15,Bay Fair,4
+2,15,Castro Valley,1
+2,15,Civic Center/UN Plaza,14
+2,15,Coliseum,19
+2,15,Concord,2
+2,15,Daly City,2
+2,15,Downtown Berkeley,1
+2,15,Dublin/Pleasanton,7
+2,15,El Cerrito Plaza,1
+2,15,El Cerrito del Norte,3
+2,15,Embarcadero,2
+2,15,Fremont,2
+2,15,Fruitvale,10
+2,15,Glen Park,1
+2,15,Hayward,3
+2,15,Lake Merritt,9
+2,15,MacArthur,1
+2,15,Millbrae,1
+2,15,Montgomery St.,5
+2,15,North Berkeley,1
+2,15,North Concord/Martinez,2
+2,15,Orinda,1
+2,15,Pittsburg/Bay Point,4
+2,15,Pleasant Hill/Contra Costa Centre,4
+2,15,Powell St.,5
+2,15,Richmond,2
+2,15,Rockridge,1
+2,15,San Bruno,1
+2,15,San Francisco International Airport,2
+2,15,San Leandro,2
+2,15,South Hayward,4
+2,15,South San Francisco,2
+2,15,Union City,3
+2,15,Walnut Creek,3
+2,15,West Oakland,4
+2,16,,3
+2,16,12th St. Oakland City Center,6
+2,16,16th St. Mission,2
+2,16,19th St. Oakland,9
+2,16,Ashby,1
+2,16,Balboa Park,2
+2,16,Bay Fair,2
+2,16,Castro Valley,1
+2,16,Civic Center/UN Plaza,9
+2,16,Coliseum,11
+2,16,Colma,1
+2,16,Concord,2
+2,16,Daly City,2
+2,16,Downtown Berkeley,4
+2,16,Dublin/Pleasanton,3
+2,16,El Cerrito Plaza,2
+2,16,El Cerrito del Norte,1
+2,16,Embarcadero,3
+2,16,Fremont,4
+2,16,Fruitvale,8
+2,16,Glen Park,3
+2,16,Hayward,1
+2,16,Lafayette,1
+2,16,Lake Merritt,7
+2,16,MacArthur,7
+2,16,Millbrae,2
+2,16,Montgomery St.,1
+2,16,North Berkeley,1
+2,16,North Concord/Martinez,1
+2,16,Orinda,1
+2,16,Pittsburg/Bay Point,6
+2,16,Powell St.,11
+2,16,Richmond,4
+2,16,San Bruno,2
+2,16,San Francisco International Airport,2
+2,16,San Leandro,6
+2,16,South Hayward,1
+2,16,South San Francisco,1
+2,16,Union City,1
+2,16,Walnut Creek,2
+2,16,West Oakland,3
+2,17,,2
+2,17,12th St. Oakland City Center,6
+2,17,16th St. Mission,4
+2,17,19th St. Oakland,7
+2,17,24th St. Mission,2
+2,17,Antioch,2
+2,17,Ashby,1
+2,17,Balboa Park,4
+2,17,Bay Fair,5
+2,17,Civic Center/UN Plaza,10
+2,17,Coliseum,7
+2,17,Concord,2
+2,17,Daly City,2
+2,17,Downtown Berkeley,3
+2,17,Dublin/Pleasanton,5
+2,17,El Cerrito Plaza,2
+2,17,El Cerrito del Norte,3
+2,17,Embarcadero,2
+2,17,Fremont,3
+2,17,Fruitvale,6
+2,17,Hayward,4
+2,17,Lafayette,1
+2,17,Lake Merritt,8
+2,17,MacArthur,6
+2,17,Millbrae,1
+2,17,Montgomery St.,2
+2,17,North Berkeley,2
+2,17,North Concord/Martinez,2
+2,17,Orinda,1
+2,17,Pittsburg/Bay Point,3
+2,17,Pleasant Hill/Contra Costa Centre,1
+2,17,Powell St.,8
+2,17,Richmond,5
+2,17,Rockridge,3
+2,17,San Leandro,2
+2,17,South Hayward,2
+2,17,Union City,2
+2,17,Walnut Creek,4
+2,17,West Oakland,9
+2,18,,4
+2,18,12th St. Oakland City Center,3
+2,18,16th St. Mission,3
+2,18,19th St. Oakland,8
+2,18,24th St. Mission,1
+2,18,Antioch,1
+2,18,Ashby,3
+2,18,Balboa Park,3
+2,18,Bay Fair,6
+2,18,Civic Center/UN Plaza,7
+2,18,Coliseum,10
+2,18,Concord,2
+2,18,Daly City,2
+2,18,Downtown Berkeley,1
+2,18,El Cerrito del Norte,4
+2,18,Embarcadero,1
+2,18,Fremont,1
+2,18,Fruitvale,9
+2,18,Glen Park,1
+2,18,Hayward,5
+2,18,Lake Merritt,2
+2,18,MacArthur,3
+2,18,Millbrae,1
+2,18,Montgomery St.,3
+2,18,North Concord/Martinez,1
+2,18,Orinda,2
+2,18,Pittsburg/Bay Point,2
+2,18,Pleasant Hill/Contra Costa Centre,1
+2,18,Powell St.,6
+2,18,Richmond,3
+2,18,Rockridge,1
+2,18,San Francisco International Airport,1
+2,18,San Leandro,3
+2,18,South Hayward,1
+2,18,Union City,3
+2,18,Walnut Creek,3
+2,18,West Oakland,4
+2,19,,3
+2,19,12th St. Oakland City Center,2
+2,19,16th St. Mission,2
+2,19,19th St. Oakland,4
+2,19,Antioch,1
+2,19,Ashby,4
+2,19,Bay Fair,3
+2,19,Civic Center/UN Plaza,3
+2,19,Coliseum,11
+2,19,Colma,2
+2,19,Concord,2
+2,19,Daly City,1
+2,19,Downtown Berkeley,3
+2,19,Dublin/Pleasanton,5
+2,19,El Cerrito Plaza,1
+2,19,El Cerrito del Norte,1
+2,19,Embarcadero,5
+2,19,Fremont,3
+2,19,Fruitvale,9
+2,19,Hayward,4
+2,19,Lafayette,4
+2,19,Lake Merritt,6
+2,19,MacArthur,6
+2,19,North Berkeley,1
+2,19,North Concord/Martinez,2
+2,19,Pittsburg/Bay Point,6
+2,19,Pleasant Hill/Contra Costa Centre,2
+2,19,Powell St.,5
+2,19,Richmond,2
+2,19,San Bruno,3
+2,19,San Leandro,1
+2,19,South Hayward,1
+2,19,South San Francisco,1
+2,19,Union City,1
+2,19,West Oakland,4
+2,20,,2
+2,20,12th St. Oakland City Center,4
+2,20,19th St. Oakland,5
+2,20,24th St. Mission,2
+2,20,Ashby,1
+2,20,Castro Valley,1
+2,20,Civic Center/UN Plaza,5
+2,20,Coliseum,1
+2,20,Colma,1
+2,20,Concord,2
+2,20,Daly City,1
+2,20,El Cerrito del Norte,5
+2,20,Embarcadero,5
+2,20,Fremont,1
+2,20,Fruitvale,4
+2,20,Hayward,7
+2,20,Lake Merritt,4
+2,20,MacArthur,2
+2,20,Montgomery St.,2
+2,20,North Berkeley,1
+2,20,North Concord/Martinez,2
+2,20,Orinda,3
+2,20,Pittsburg/Bay Point,4
+2,20,Pleasant Hill/Contra Costa Centre,1
+2,20,Powell St.,9
+2,20,Richmond,2
+2,20,Rockridge,1
+2,20,San Bruno,2
+2,20,San Leandro,3
+2,20,South Hayward,1
+2,20,Union City,3
+2,20,Walnut Creek,3
+2,20,Warm Springs/South Fremont,1
+2,20,West Oakland,6
+2,21,,1
+2,21,12th St. Oakland City Center,3
+2,21,19th St. Oakland,2
+2,21,24th St. Mission,2
+2,21,Antioch,2
+2,21,Ashby,1
+2,21,Balboa Park,2
+2,21,Bay Fair,7
+2,21,Castro Valley,2
+2,21,Civic Center/UN Plaza,7
+2,21,Coliseum,11
+2,21,Colma,2
+2,21,Concord,1
+2,21,Daly City,4
+2,21,Downtown Berkeley,1
+2,21,Dublin/Pleasanton,1
+2,21,El Cerrito Plaza,1
+2,21,El Cerrito del Norte,3
+2,21,Embarcadero,1
+2,21,Fremont,6
+2,21,Fruitvale,5
+2,21,Hayward,8
+2,21,Lake Merritt,3
+2,21,MacArthur,6
+2,21,North Berkeley,4
+2,21,North Concord/Martinez,3
+2,21,Orinda,1
+2,21,Pittsburg/Bay Point,5
+2,21,Pleasant Hill/Contra Costa Centre,2
+2,21,Powell St.,7
+2,21,Richmond,1
+2,21,Rockridge,1
+2,21,San Bruno,1
+2,21,San Francisco International Airport,1
+2,21,San Leandro,3
+2,21,South Hayward,1
+2,21,South San Francisco,2
+2,21,Union City,2
+2,21,West Dublin/Pleasanton,1
+2,21,West Oakland,3
+2,22,,2
+2,22,12th St. Oakland City Center,5
+2,22,16th St. Mission,5
+2,22,19th St. Oakland,6
+2,22,24th St. Mission,1
+2,22,Ashby,2
+2,22,Balboa Park,1
+2,22,Bay Fair,3
+2,22,Castro Valley,1
+2,22,Civic Center/UN Plaza,10
+2,22,Coliseum,9
+2,22,Colma,2
+2,22,Concord,8
+2,22,Daly City,3
+2,22,Dublin/Pleasanton,4
+2,22,El Cerrito del Norte,8
+2,22,Embarcadero,4
+2,22,Fremont,4
+2,22,Fruitvale,8
+2,22,Glen Park,2
+2,22,Hayward,6
+2,22,Lafayette,1
+2,22,Lake Merritt,5
+2,22,MacArthur,3
+2,22,Millbrae,1
+2,22,Montgomery St.,3
+2,22,North Berkeley,4
+2,22,North Concord/Martinez,3
+2,22,Pittsburg/Bay Point,8
+2,22,Pleasant Hill/Contra Costa Centre,2
+2,22,Powell St.,14
+2,22,Richmond,2
+2,22,Rockridge,1
+2,22,San Bruno,1
+2,22,San Leandro,5
+2,22,South Hayward,3
+2,22,Walnut Creek,4
+2,22,West Oakland,4
+2,23,,4
+2,23,12th St. Oakland City Center,1
+2,23,19th St. Oakland,2
+2,23,24th St. Mission,1
+2,23,Antioch,1
+2,23,Ashby,4
+2,23,Balboa Park,3
+2,23,Bay Fair,11
+2,23,Castro Valley,3
+2,23,Civic Center/UN Plaza,12
+2,23,Coliseum,22
+2,23,Colma,2
+2,23,Concord,8
+2,23,Daly City,3
+2,23,Downtown Berkeley,3
+2,23,Dublin/Pleasanton,3
+2,23,El Cerrito Plaza,2
+2,23,El Cerrito del Norte,12
+2,23,Embarcadero,5
+2,23,Fremont,5
+2,23,Fruitvale,9
+2,23,Glen Park,1
+2,23,Hayward,9
+2,23,Lafayette,7
+2,23,Lake Merritt,8
+2,23,MacArthur,5
+2,23,Millbrae,3
+2,23,Montgomery St.,4
+2,23,North Berkeley,2
+2,23,North Concord/Martinez,6
+2,23,Orinda,3
+2,23,Pittsburg/Bay Point,8
+2,23,Pleasant Hill/Contra Costa Centre,7
+2,23,Powell St.,10
+2,23,Richmond,13
+2,23,Rockridge,10
+2,23,San Bruno,2
+2,23,San Leandro,4
+2,23,South Hayward,2
+2,23,South San Francisco,1
+2,23,Union City,3
+2,23,Walnut Creek,4
+2,23,West Dublin/Pleasanton,3
+2,23,West Oakland,13
+3,0,,3
+3,0,12th St. Oakland City Center,4
+3,0,16th St. Mission,2
+3,0,19th St. Oakland,10
+3,0,24th St. Mission,6
+3,0,Antioch,1
+3,0,Ashby,4
+3,0,Balboa Park,3
+3,0,Bay Fair,16
+3,0,Castro Valley,2
+3,0,Civic Center/UN Plaza,13
+3,0,Coliseum,32
+3,0,Colma,3
+3,0,Concord,13
+3,0,Daly City,6
+3,0,Dublin/Pleasanton,14
+3,0,El Cerrito Plaza,2
+3,0,El Cerrito del Norte,13
+3,0,Embarcadero,6
+3,0,Fremont,9
+3,0,Fruitvale,17
+3,0,Glen Park,3
+3,0,Hayward,10
+3,0,Lafayette,8
+3,0,Lake Merritt,8
+3,0,MacArthur,15
+3,0,Millbrae,3
+3,0,Montgomery St.,2
+3,0,North Berkeley,5
+3,0,North Concord/Martinez,7
+3,0,Orinda,8
+3,0,Pittsburg/Bay Point,11
+3,0,Pleasant Hill/Contra Costa Centre,2
+3,0,Powell St.,19
+3,0,Richmond,7
+3,0,Rockridge,4
+3,0,San Bruno,1
+3,0,San Leandro,9
+3,0,South Hayward,11
+3,0,South San Francisco,1
+3,0,Union City,5
+3,0,Walnut Creek,10
+3,0,West Dublin/Pleasanton,2
+3,0,West Oakland,9
+3,1,,4
+3,1,12th St. Oakland City Center,5
+3,1,16th St. Mission,2
+3,1,19th St. Oakland,7
+3,1,24th St. Mission,1
+3,1,Antioch,3
+3,1,Ashby,8
+3,1,Balboa Park,4
+3,1,Bay Fair,15
+3,1,Castro Valley,6
+3,1,Civic Center/UN Plaza,17
+3,1,Coliseum,25
+3,1,Colma,1
+3,1,Concord,11
+3,1,Daly City,9
+3,1,Downtown Berkeley,3
+3,1,Dublin/Pleasanton,13
+3,1,El Cerrito Plaza,4
+3,1,El Cerrito del Norte,9
+3,1,Embarcadero,8
+3,1,Fremont,9
+3,1,Fruitvale,22
+3,1,Hayward,17
+3,1,Lafayette,7
+3,1,Lake Merritt,4
+3,1,MacArthur,10
+3,1,Millbrae,5
+3,1,Montgomery St.,1
+3,1,North Berkeley,7
+3,1,North Concord/Martinez,5
+3,1,Orinda,8
+3,1,Pittsburg Center,1
+3,1,Pittsburg/Bay Point,14
+3,1,Pleasant Hill/Contra Costa Centre,8
+3,1,Powell St.,16
+3,1,Richmond,7
+3,1,Rockridge,4
+3,1,San Bruno,4
+3,1,San Leandro,11
+3,1,South Hayward,10
+3,1,Union City,2
+3,1,Walnut Creek,7
+3,1,West Dublin/Pleasanton,3
+3,1,West Oakland,10
+3,2,,6
+3,2,12th St. Oakland City Center,5
+3,2,16th St. Mission,4
+3,2,19th St. Oakland,8
+3,2,Antioch,3
+3,2,Ashby,7
+3,2,Balboa Park,1
+3,2,Bay Fair,14
+3,2,Castro Valley,5
+3,2,Civic Center/UN Plaza,13
+3,2,Coliseum,28
+3,2,Colma,2
+3,2,Concord,13
+3,2,Daly City,7
+3,2,Downtown Berkeley,7
+3,2,Dublin/Pleasanton,11
+3,2,El Cerrito Plaza,3
+3,2,El Cerrito del Norte,12
+3,2,Embarcadero,5
+3,2,Fremont,13
+3,2,Fruitvale,17
+3,2,Glen Park,1
+3,2,Hayward,21
+3,2,Lafayette,7
+3,2,Lake Merritt,11
+3,2,MacArthur,7
+3,2,Millbrae,3
+3,2,Montgomery St.,1
+3,2,North Berkeley,8
+3,2,North Concord/Martinez,12
+3,2,Orinda,9
+3,2,Pittsburg/Bay Point,6
+3,2,Pleasant Hill/Contra Costa Centre,10
+3,2,Powell St.,10
+3,2,Richmond,8
+3,2,Rockridge,4
+3,2,San Leandro,9
+3,2,South Hayward,11
+3,2,South San Francisco,2
+3,2,Union City,6
+3,2,Walnut Creek,6
+3,2,Warm Springs/South Fremont,1
+3,2,West Dublin/Pleasanton,2
+3,2,West Oakland,6
+3,3,12th St. Oakland City Center,4
+3,3,16th St. Mission,2
+3,3,19th St. Oakland,5
+3,3,Antioch,1
+3,3,Ashby,5
+3,3,Balboa Park,1
+3,3,Bay Fair,15
+3,3,Castro Valley,4
+3,3,Civic Center/UN Plaza,9
+3,3,Coliseum,15
+3,3,Colma,2
+3,3,Concord,6
+3,3,Daly City,6
+3,3,Downtown Berkeley,1
+3,3,Dublin/Pleasanton,3
+3,3,El Cerrito Plaza,1
+3,3,El Cerrito del Norte,7
+3,3,Embarcadero,6
+3,3,Fremont,8
+3,3,Fruitvale,15
+3,3,Glen Park,3
+3,3,Hayward,12
+3,3,Lafayette,7
+3,3,Lake Merritt,3
+3,3,MacArthur,4
+3,3,Millbrae,3
+3,3,Montgomery St.,3
+3,3,North Berkeley,7
+3,3,North Concord/Martinez,1
+3,3,Orinda,11
+3,3,Pittsburg/Bay Point,5
+3,3,Pleasant Hill/Contra Costa Centre,6
+3,3,Powell St.,11
+3,3,Richmond,4
+3,3,Rockridge,4
+3,3,San Bruno,1
+3,3,San Leandro,11
+3,3,South Hayward,6
+3,3,South San Francisco,2
+3,3,Union City,1
+3,3,Walnut Creek,6
+3,3,West Dublin/Pleasanton,2
+3,3,West Oakland,9
+3,4,,2
+3,4,12th St. Oakland City Center,3
+3,4,16th St. Mission,1
+3,4,19th St. Oakland,4
+3,4,Ashby,8
+3,4,Bay Fair,6
+3,4,Castro Valley,5
+3,4,Civic Center/UN Plaza,6
+3,4,Coliseum,9
+3,4,Colma,1
+3,4,Concord,6
+3,4,Daly City,5
+3,4,Downtown Berkeley,3
+3,4,Dublin/Pleasanton,10
+3,4,El Cerrito Plaza,3
+3,4,El Cerrito del Norte,5
+3,4,Embarcadero,3
+3,4,Fremont,3
+3,4,Fruitvale,13
+3,4,Glen Park,1
+3,4,Hayward,12
+3,4,Lafayette,2
+3,4,Lake Merritt,6
+3,4,MacArthur,7
+3,4,Millbrae,1
+3,4,Montgomery St.,2
+3,4,North Berkeley,4
+3,4,North Concord/Martinez,1
+3,4,Orinda,1
+3,4,Pittsburg/Bay Point,7
+3,4,Pleasant Hill/Contra Costa Centre,6
+3,4,Powell St.,9
+3,4,Richmond,7
+3,4,Rockridge,2
+3,4,San Bruno,2
+3,4,San Leandro,7
+3,4,South Hayward,5
+3,4,South San Francisco,2
+3,4,Union City,4
+3,4,Walnut Creek,5
+3,4,West Dublin/Pleasanton,1
+3,4,West Oakland,9
+3,5,,1
+3,5,16th St. Mission,1
+3,5,19th St. Oakland,5
+3,5,24th St. Mission,3
+3,5,Antioch,3
+3,5,Ashby,6
+3,5,Balboa Park,4
+3,5,Bay Fair,9
+3,5,Castro Valley,1
+3,5,Civic Center/UN Plaza,7
+3,5,Coliseum,20
+3,5,Concord,3
+3,5,Daly City,4
+3,5,Downtown Berkeley,3
+3,5,Dublin/Pleasanton,7
+3,5,El Cerrito Plaza,2
+3,5,El Cerrito del Norte,6
+3,5,Embarcadero,3
+3,5,Fremont,4
+3,5,Fruitvale,15
+3,5,Glen Park,1
+3,5,Hayward,10
+3,5,Lake Merritt,3
+3,5,MacArthur,5
+3,5,Millbrae,2
+3,5,Montgomery St.,2
+3,5,North Berkeley,4
+3,5,North Concord/Martinez,3
+3,5,Orinda,3
+3,5,Pittsburg/Bay Point,7
+3,5,Pleasant Hill/Contra Costa Centre,1
+3,5,Powell St.,14
+3,5,Richmond,4
+3,5,Rockridge,1
+3,5,San Bruno,2
+3,5,San Francisco International Airport,1
+3,5,San Leandro,4
+3,5,South Hayward,3
+3,5,South San Francisco,2
+3,5,Union City,2
+3,5,Walnut Creek,3
+3,5,West Oakland,6
+3,6,,3
+3,6,12th St. Oakland City Center,4
+3,6,16th St. Mission,2
+3,6,19th St. Oakland,5
+3,6,24th St. Mission,2
+3,6,Ashby,5
+3,6,Balboa Park,2
+3,6,Bay Fair,16
+3,6,Castro Valley,3
+3,6,Civic Center/UN Plaza,7
+3,6,Coliseum,22
+3,6,Concord,9
+3,6,Daly City,2
+3,6,Dublin/Pleasanton,4
+3,6,El Cerrito Plaza,2
+3,6,El Cerrito del Norte,4
+3,6,Embarcadero,2
+3,6,Fremont,6
+3,6,Fruitvale,5
+3,6,Hayward,8
+3,6,Lafayette,2
+3,6,Lake Merritt,4
+3,6,MacArthur,5
+3,6,Millbrae,2
+3,6,Montgomery St.,2
+3,6,North Berkeley,7
+3,6,North Concord/Martinez,2
+3,6,Orinda,4
+3,6,Pittsburg/Bay Point,9
+3,6,Pleasant Hill/Contra Costa Centre,5
+3,6,Powell St.,2
+3,6,Richmond,3
+3,6,Rockridge,3
+3,6,San Bruno,1
+3,6,San Francisco International Airport,1
+3,6,San Leandro,6
+3,6,South Hayward,5
+3,6,Union City,5
+3,6,Walnut Creek,4
+3,6,West Dublin/Pleasanton,3
+3,6,West Oakland,4
+3,7,,6
+3,7,12th St. Oakland City Center,2
+3,7,16th St. Mission,1
+3,7,19th St. Oakland,2
+3,7,24th St. Mission,1
+3,7,Antioch,2
+3,7,Ashby,1
+3,7,Balboa Park,2
+3,7,Bay Fair,6
+3,7,Castro Valley,1
+3,7,Civic Center/UN Plaza,7
+3,7,Coliseum,13
+3,7,Colma,1
+3,7,Concord,5
+3,7,Daly City,2
+3,7,Dublin/Pleasanton,1
+3,7,El Cerrito Plaza,2
+3,7,El Cerrito del Norte,4
+3,7,Embarcadero,1
+3,7,Fremont,2
+3,7,Fruitvale,4
+3,7,Glen Park,1
+3,7,Hayward,7
+3,7,Lafayette,1
+3,7,Lake Merritt,4
+3,7,MacArthur,10
+3,7,Millbrae,2
+3,7,North Concord/Martinez,1
+3,7,Orinda,1
+3,7,Pittsburg/Bay Point,11
+3,7,Pleasant Hill/Contra Costa Centre,2
+3,7,Powell St.,6
+3,7,Richmond,2
+3,7,Rockridge,1
+3,7,San Leandro,6
+3,7,South Hayward,1
+3,7,South San Francisco,1
+3,7,Walnut Creek,3
+3,7,West Dublin/Pleasanton,1
+3,7,West Oakland,6
+3,8,,2
+3,8,12th St. Oakland City Center,1
+3,8,16th St. Mission,1
+3,8,19th St. Oakland,2
+3,8,24th St. Mission,2
+3,8,Ashby,1
+3,8,Bay Fair,8
+3,8,Civic Center/UN Plaza,5
+3,8,Coliseum,6
+3,8,Colma,1
+3,8,Concord,3
+3,8,Downtown Berkeley,1
+3,8,Dublin/Pleasanton,3
+3,8,El Cerrito del Norte,3
+3,8,Fremont,4
+3,8,Fruitvale,1
+3,8,Hayward,3
+3,8,Lake Merritt,1
+3,8,MacArthur,8
+3,8,Millbrae,2
+3,8,Montgomery St.,2
+3,8,Oakland International Airport,1
+3,8,Orinda,1
+3,8,Pittsburg/Bay Point,4
+3,8,Pleasant Hill/Contra Costa Centre,2
+3,8,Powell St.,3
+3,8,Richmond,1
+3,8,San Bruno,1
+3,8,San Francisco International Airport,5
+3,8,San Leandro,4
+3,8,South Hayward,4
+3,8,Union City,1
+3,8,Walnut Creek,1
+3,8,West Dublin/Pleasanton,1
+3,8,West Oakland,2
+3,9,Antioch,1
+3,9,Ashby,2
+3,9,Bay Fair,2
+3,9,Coliseum,5
+3,9,Concord,1
+3,9,Fremont,3
+3,9,Glen Park,1
+3,9,Hayward,1
+3,9,MacArthur,1
+3,9,Millbrae,3
+3,9,North Concord/Martinez,1
+3,9,Powell St.,3
+3,9,Richmond,2
+3,9,Rockridge,1
+3,9,San Bruno,1
+3,9,San Francisco International Airport,3
+3,9,San Leandro,1
+3,10,Balboa Park,1
+3,10,Civic Center/UN Plaza,1
+3,10,Dublin/Pleasanton,1
+3,10,El Cerrito Plaza,1
+3,10,El Cerrito del Norte,2
+3,10,Embarcadero,1
+3,10,Lafayette,1
+3,10,Lake Merritt,1
+3,10,MacArthur,2
+3,10,Pittsburg/Bay Point,1
+3,10,Powell St.,1
+3,10,Richmond,2
+3,10,San Francisco International Airport,1
+3,10,South Hayward,2
+3,11,,1
+3,11,12th St. Oakland City Center,1
+3,11,19th St. Oakland,1
+3,11,Ashby,1
+3,11,Castro Valley,1
+3,11,Coliseum,8
+3,11,Colma,1
+3,11,Concord,1
+3,11,Daly City,2
+3,11,Dublin/Pleasanton,2
+3,11,El Cerrito del Norte,1
+3,11,Fremont,1
+3,11,Fruitvale,3
+3,11,Hayward,2
+3,11,Lake Merritt,1
+3,11,Pittsburg/Bay Point,3
+3,11,Pleasant Hill/Contra Costa Centre,1
+3,11,Powell St.,2
+3,11,Richmond,2
+3,11,San Leandro,1
+3,11,South San Francisco,1
+3,11,West Oakland,2
+3,12,12th St. Oakland City Center,3
+3,12,16th St. Mission,1
+3,12,24th St. Mission,1
+3,12,Ashby,2
+3,12,Bay Fair,2
+3,12,Castro Valley,1
+3,12,Civic Center/UN Plaza,1
+3,12,Coliseum,4
+3,12,Concord,2
+3,12,Daly City,1
+3,12,Downtown Berkeley,1
+3,12,Dublin/Pleasanton,2
+3,12,El Cerrito del Norte,3
+3,12,Embarcadero,1
+3,12,Fremont,1
+3,12,Fruitvale,4
+3,12,Hayward,2
+3,12,Lafayette,1
+3,12,Lake Merritt,2
+3,12,MacArthur,5
+3,12,Millbrae,1
+3,12,Montgomery St.,4
+3,12,North Berkeley,3
+3,12,North Concord/Martinez,1
+3,12,Pittsburg/Bay Point,4
+3,12,Pleasant Hill/Contra Costa Centre,2
+3,12,Powell St.,6
+3,12,Richmond,6
+3,12,Rockridge,2
+3,12,San Francisco International Airport,2
+3,12,South Hayward,1
+3,12,South San Francisco,1
+3,12,Warm Springs/South Fremont,1
+3,12,West Oakland,3
+3,13,,3
+3,13,12th St. Oakland City Center,2
+3,13,19th St. Oakland,1
+3,13,24th St. Mission,1
+3,13,Antioch,1
+3,13,Ashby,1
+3,13,Balboa Park,1
+3,13,Castro Valley,1
+3,13,Civic Center/UN Plaza,3
+3,13,Coliseum,7
+3,13,Daly City,2
+3,13,Dublin/Pleasanton,6
+3,13,El Cerrito Plaza,1
+3,13,El Cerrito del Norte,4
+3,13,Embarcadero,4
+3,13,Fremont,2
+3,13,Fruitvale,1
+3,13,Glen Park,1
+3,13,Hayward,5
+3,13,Lake Merritt,4
+3,13,MacArthur,4
+3,13,Millbrae,1
+3,13,Montgomery St.,2
+3,13,North Berkeley,2
+3,13,North Concord/Martinez,1
+3,13,Pittsburg/Bay Point,3
+3,13,Pleasant Hill/Contra Costa Centre,1
+3,13,Powell St.,7
+3,13,Richmond,2
+3,13,San Bruno,2
+3,13,San Francisco International Airport,1
+3,13,San Leandro,1
+3,13,Warm Springs/South Fremont,1
+3,13,West Dublin/Pleasanton,1
+3,13,West Oakland,5
+3,14,12th St. Oakland City Center,2
+3,14,16th St. Mission,1
+3,14,19th St. Oakland,3
+3,14,24th St. Mission,1
+3,14,Balboa Park,2
+3,14,Bay Fair,1
+3,14,Castro Valley,1
+3,14,Civic Center/UN Plaza,4
+3,14,Coliseum,10
+3,14,Colma,1
+3,14,Daly City,1
+3,14,Downtown Berkeley,1
+3,14,Dublin/Pleasanton,1
+3,14,El Cerrito del Norte,3
+3,14,Embarcadero,1
+3,14,Fremont,2
+3,14,Fruitvale,2
+3,14,Glen Park,1
+3,14,Hayward,5
+3,14,Lafayette,1
+3,14,Lake Merritt,3
+3,14,MacArthur,5
+3,14,Millbrae,2
+3,14,Montgomery St.,2
+3,14,Orinda,1
+3,14,Pittsburg/Bay Point,6
+3,14,Pleasant Hill/Contra Costa Centre,1
+3,14,Powell St.,10
+3,14,Richmond,5
+3,14,San Francisco International Airport,1
+3,14,San Leandro,2
+3,14,South Hayward,1
+3,14,Union City,2
+3,14,Walnut Creek,1
+3,14,Warm Springs/South Fremont,1
+3,14,West Dublin/Pleasanton,2
+3,14,West Oakland,4
+3,15,,2
+3,15,12th St. Oakland City Center,5
+3,15,19th St. Oakland,2
+3,15,Antioch,1
+3,15,Ashby,2
+3,15,Balboa Park,1
+3,15,Bay Fair,6
+3,15,Civic Center/UN Plaza,7
+3,15,Coliseum,7
+3,15,Colma,1
+3,15,Concord,4
+3,15,Daly City,5
+3,15,Downtown Berkeley,3
+3,15,Dublin/Pleasanton,6
+3,15,El Cerrito del Norte,5
+3,15,Fremont,4
+3,15,Fruitvale,10
+3,15,Hayward,4
+3,15,Lafayette,2
+3,15,Lake Merritt,4
+3,15,MacArthur,5
+3,15,Millbrae,3
+3,15,Montgomery St.,1
+3,15,North Concord/Martinez,2
+3,15,Pittsburg/Bay Point,8
+3,15,Pleasant Hill/Contra Costa Centre,3
+3,15,Powell St.,10
+3,15,Richmond,3
+3,15,Rockridge,2
+3,15,San Francisco International Airport,1
+3,15,San Leandro,1
+3,15,South Hayward,2
+3,15,Union City,1
+3,15,Walnut Creek,1
+3,15,Warm Springs/South Fremont,1
+3,15,West Dublin/Pleasanton,2
+3,15,West Oakland,3
+3,16,,1
+3,16,12th St. Oakland City Center,6
+3,16,16th St. Mission,2
+3,16,19th St. Oakland,2
+3,16,24th St. Mission,1
+3,16,Ashby,4
+3,16,Balboa Park,2
+3,16,Bay Fair,11
+3,16,Civic Center/UN Plaza,10
+3,16,Coliseum,9
+3,16,Concord,1
+3,16,Daly City,4
+3,16,Downtown Berkeley,2
+3,16,Dublin/Pleasanton,1
+3,16,El Cerrito Plaza,1
+3,16,El Cerrito del Norte,6
+3,16,Embarcadero,2
+3,16,Fremont,2
+3,16,Fruitvale,5
+3,16,Glen Park,4
+3,16,Hayward,4
+3,16,Lake Merritt,5
+3,16,MacArthur,5
+3,16,Millbrae,3
+3,16,Montgomery St.,1
+3,16,North Berkeley,6
+3,16,North Concord/Martinez,1
+3,16,Orinda,2
+3,16,Pittsburg/Bay Point,3
+3,16,Pleasant Hill/Contra Costa Centre,2
+3,16,Powell St.,5
+3,16,Richmond,4
+3,16,Rockridge,1
+3,16,San Bruno,2
+3,16,San Francisco International Airport,1
+3,16,San Leandro,3
+3,16,South Hayward,7
+3,16,Union City,1
+3,16,Walnut Creek,2
+3,16,Warm Springs/South Fremont,1
+3,16,West Dublin/Pleasanton,1
+3,16,West Oakland,11
+3,17,,3
+3,17,12th St. Oakland City Center,4
+3,17,16th St. Mission,2
+3,17,19th St. Oakland,3
+3,17,24th St. Mission,2
+3,17,Antioch,2
+3,17,Ashby,2
+3,17,Balboa Park,1
+3,17,Bay Fair,7
+3,17,Civic Center/UN Plaza,7
+3,17,Coliseum,13
+3,17,Colma,1
+3,17,Concord,3
+3,17,Daly City,3
+3,17,Downtown Berkeley,4
+3,17,Dublin/Pleasanton,1
+3,17,El Cerrito Plaza,2
+3,17,El Cerrito del Norte,5
+3,17,Embarcadero,1
+3,17,Fremont,3
+3,17,Fruitvale,5
+3,17,Glen Park,2
+3,17,Hayward,3
+3,17,Lafayette,1
+3,17,Lake Merritt,4
+3,17,MacArthur,6
+3,17,Millbrae,3
+3,17,Montgomery St.,1
+3,17,North Berkeley,3
+3,17,North Concord/Martinez,1
+3,17,Orinda,1
+3,17,Pittsburg/Bay Point,6
+3,17,Pleasant Hill/Contra Costa Centre,5
+3,17,Powell St.,14
+3,17,Richmond,5
+3,17,San Leandro,4
+3,17,South Hayward,4
+3,17,Union City,2
+3,17,Walnut Creek,4
+3,17,Warm Springs/South Fremont,1
+3,17,West Oakland,8
+3,18,,1
+3,18,12th St. Oakland City Center,10
+3,18,16th St. Mission,1
+3,18,19th St. Oakland,7
+3,18,24th St. Mission,3
+3,18,Antioch,1
+3,18,Ashby,3
+3,18,Balboa Park,2
+3,18,Bay Fair,4
+3,18,Castro Valley,1
+3,18,Civic Center/UN Plaza,3
+3,18,Coliseum,10
+3,18,Colma,2
+3,18,Concord,3
+3,18,Daly City,3
+3,18,Downtown Berkeley,1
+3,18,Dublin/Pleasanton,4
+3,18,El Cerrito Plaza,1
+3,18,El Cerrito del Norte,2
+3,18,Embarcadero,2
+3,18,Fremont,2
+3,18,Fruitvale,5
+3,18,Glen Park,2
+3,18,Hayward,6
+3,18,Lafayette,1
+3,18,Lake Merritt,4
+3,18,MacArthur,5
+3,18,Millbrae,1
+3,18,Montgomery St.,1
+3,18,North Berkeley,2
+3,18,North Concord/Martinez,2
+3,18,Orinda,1
+3,18,Pittsburg/Bay Point,3
+3,18,Pleasant Hill/Contra Costa Centre,1
+3,18,Powell St.,6
+3,18,Richmond,2
+3,18,Rockridge,2
+3,18,San Bruno,1
+3,18,San Francisco International Airport,3
+3,18,San Leandro,1
+3,18,South Hayward,2
+3,18,South San Francisco,1
+3,18,Union City,1
+3,18,West Oakland,9
+3,19,,1
+3,19,12th St. Oakland City Center,10
+3,19,19th St. Oakland,1
+3,19,24th St. Mission,3
+3,19,Antioch,1
+3,19,Ashby,2
+3,19,Balboa Park,3
+3,19,Bay Fair,4
+3,19,Civic Center/UN Plaza,6
+3,19,Coliseum,9
+3,19,Concord,5
+3,19,Daly City,1
+3,19,Downtown Berkeley,2
+3,19,Dublin/Pleasanton,2
+3,19,El Cerrito Plaza,3
+3,19,El Cerrito del Norte,3
+3,19,Embarcadero,3
+3,19,Fremont,1
+3,19,Fruitvale,5
+3,19,Glen Park,1
+3,19,Hayward,8
+3,19,Lafayette,3
+3,19,Lake Merritt,9
+3,19,MacArthur,5
+3,19,Millbrae,1
+3,19,Montgomery St.,3
+3,19,North Berkeley,2
+3,19,North Concord/Martinez,2
+3,19,Orinda,1
+3,19,Pittsburg/Bay Point,4
+3,19,Pleasant Hill/Contra Costa Centre,4
+3,19,Powell St.,5
+3,19,Richmond,6
+3,19,Rockridge,3
+3,19,San Francisco International Airport,1
+3,19,San Leandro,6
+3,19,West Dublin/Pleasanton,2
+3,19,West Oakland,1
+3,20,12th St. Oakland City Center,3
+3,20,16th St. Mission,2
+3,20,19th St. Oakland,6
+3,20,24th St. Mission,2
+3,20,Antioch,2
+3,20,Ashby,3
+3,20,Balboa Park,4
+3,20,Bay Fair,4
+3,20,Castro Valley,2
+3,20,Civic Center/UN Plaza,8
+3,20,Coliseum,7
+3,20,Concord,2
+3,20,Daly City,3
+3,20,Dublin/Pleasanton,3
+3,20,El Cerrito Plaza,1
+3,20,El Cerrito del Norte,7
+3,20,Embarcadero,4
+3,20,Fremont,2
+3,20,Fruitvale,8
+3,20,Glen Park,1
+3,20,Hayward,15
+3,20,Lake Merritt,9
+3,20,MacArthur,6
+3,20,Millbrae,1
+3,20,North Berkeley,1
+3,20,North Concord/Martinez,1
+3,20,Orinda,1
+3,20,Pittsburg/Bay Point,8
+3,20,Pleasant Hill/Contra Costa Centre,2
+3,20,Powell St.,4
+3,20,Richmond,6
+3,20,Rockridge,1
+3,20,San Bruno,1
+3,20,San Francisco International Airport,1
+3,20,San Leandro,2
+3,20,South Hayward,1
+3,20,Union City,4
+3,20,Walnut Creek,3
+3,20,West Dublin/Pleasanton,1
+3,20,West Oakland,5
+3,21,,2
+3,21,12th St. Oakland City Center,4
+3,21,16th St. Mission,2
+3,21,19th St. Oakland,1
+3,21,24th St. Mission,1
+3,21,Ashby,1
+3,21,Balboa Park,4
+3,21,Bay Fair,5
+3,21,Civic Center/UN Plaza,7
+3,21,Coliseum,5
+3,21,Concord,3
+3,21,Daly City,1
+3,21,Downtown Berkeley,1
+3,21,Dublin/Pleasanton,1
+3,21,El Cerrito Plaza,4
+3,21,El Cerrito del Norte,4
+3,21,Embarcadero,5
+3,21,Fremont,2
+3,21,Fruitvale,7
+3,21,Glen Park,1
+3,21,Hayward,2
+3,21,Lafayette,3
+3,21,Lake Merritt,6
+3,21,MacArthur,3
+3,21,Millbrae,1
+3,21,Montgomery St.,2
+3,21,North Berkeley,1
+3,21,North Concord/Martinez,2
+3,21,Orinda,2
+3,21,Pittsburg/Bay Point,3
+3,21,Pleasant Hill/Contra Costa Centre,1
+3,21,Powell St.,10
+3,21,Richmond,3
+3,21,San Bruno,2
+3,21,San Francisco International Airport,1
+3,21,San Leandro,3
+3,21,South Hayward,4
+3,21,Union City,3
+3,21,Walnut Creek,1
+3,21,West Oakland,6
+3,22,,1
+3,22,12th St. Oakland City Center,4
+3,22,16th St. Mission,1
+3,22,19th St. Oakland,4
+3,22,24th St. Mission,1
+3,22,Ashby,4
+3,22,Balboa Park,1
+3,22,Bay Fair,12
+3,22,Castro Valley,3
+3,22,Civic Center/UN Plaza,20
+3,22,Coliseum,10
+3,22,Concord,6
+3,22,Daly City,4
+3,22,Downtown Berkeley,3
+3,22,Dublin/Pleasanton,3
+3,22,El Cerrito Plaza,1
+3,22,El Cerrito del Norte,5
+3,22,Embarcadero,2
+3,22,Fremont,2
+3,22,Fruitvale,10
+3,22,Glen Park,1
+3,22,Hayward,10
+3,22,Lafayette,2
+3,22,Lake Merritt,7
+3,22,MacArthur,7
+3,22,Millbrae,1
+3,22,Montgomery St.,1
+3,22,North Berkeley,1
+3,22,North Concord/Martinez,2
+3,22,Orinda,4
+3,22,Pittsburg/Bay Point,10
+3,22,Pleasant Hill/Contra Costa Centre,1
+3,22,Powell St.,18
+3,22,Richmond,3
+3,22,Rockridge,2
+3,22,San Bruno,1
+3,22,San Francisco International Airport,2
+3,22,San Leandro,4
+3,22,South Hayward,7
+3,22,Union City,3
+3,22,Walnut Creek,3
+3,22,West Dublin/Pleasanton,2
+3,22,West Oakland,8
+3,23,,7
+3,23,12th St. Oakland City Center,4
+3,23,16th St. Mission,5
+3,23,19th St. Oakland,3
+3,23,24th St. Mission,3
+3,23,Antioch,1
+3,23,Ashby,9
+3,23,Balboa Park,4
+3,23,Bay Fair,10
+3,23,Castro Valley,3
+3,23,Civic Center/UN Plaza,15
+3,23,Coliseum,18
+3,23,Colma,1
+3,23,Concord,3
+3,23,Daly City,7
+3,23,Downtown Berkeley,2
+3,23,Dublin/Pleasanton,6
+3,23,El Cerrito Plaza,3
+3,23,El Cerrito del Norte,12
+3,23,Embarcadero,6
+3,23,Fremont,2
+3,23,Fruitvale,10
+3,23,Hayward,3
+3,23,Lafayette,4
+3,23,Lake Merritt,5
+3,23,MacArthur,7
+3,23,Millbrae,1
+3,23,Montgomery St.,2
+3,23,North Berkeley,4
+3,23,North Concord/Martinez,6
+3,23,Orinda,7
+3,23,Pittsburg/Bay Point,12
+3,23,Pleasant Hill/Contra Costa Centre,5
+3,23,Powell St.,5
+3,23,Richmond,3
+3,23,Rockridge,3
+3,23,San Francisco International Airport,1
+3,23,San Leandro,6
+3,23,South Hayward,3
+3,23,South San Francisco,3
+3,23,Union City,1
+3,23,Walnut Creek,1
+3,23,Warm Springs/South Fremont,1
+3,23,West Dublin/Pleasanton,2
+3,23,West Oakland,13
+4,0,,7
+4,0,12th St. Oakland City Center,3
+4,0,16th St. Mission,4
+4,0,19th St. Oakland,7
+4,0,24th St. Mission,3
+4,0,Antioch,1
+4,0,Ashby,1
+4,0,Balboa Park,2
+4,0,Bay Fair,21
+4,0,Castro Valley,5
+4,0,Civic Center/UN Plaza,10
+4,0,Coliseum,24
+4,0,Concord,7
+4,0,Daly City,8
+4,0,Downtown Berkeley,5
+4,0,Dublin/Pleasanton,13
+4,0,El Cerrito Plaza,5
+4,0,El Cerrito del Norte,10
+4,0,Embarcadero,4
+4,0,Fremont,8
+4,0,Fruitvale,26
+4,0,Glen Park,2
+4,0,Hayward,16
+4,0,Lafayette,7
+4,0,Lake Merritt,9
+4,0,MacArthur,8
+4,0,Millbrae,2
+4,0,Montgomery St.,3
+4,0,North Berkeley,3
+4,0,North Concord/Martinez,8
+4,0,Orinda,8
+4,0,Pittsburg Center,1
+4,0,Pittsburg/Bay Point,5
+4,0,Pleasant Hill/Contra Costa Centre,11
+4,0,Powell St.,12
+4,0,Richmond,7
+4,0,Rockridge,4
+4,0,San Bruno,10
+4,0,San Francisco International Airport,1
+4,0,San Leandro,14
+4,0,South Hayward,8
+4,0,South San Francisco,3
+4,0,Union City,5
+4,0,Walnut Creek,5
+4,0,West Dublin/Pleasanton,4
+4,0,West Oakland,13
+4,1,,6
+4,1,12th St. Oakland City Center,4
+4,1,16th St. Mission,1
+4,1,19th St. Oakland,6
+4,1,24th St. Mission,9
+4,1,Ashby,12
+4,1,Balboa Park,1
+4,1,Bay Fair,17
+4,1,Castro Valley,2
+4,1,Civic Center/UN Plaza,16
+4,1,Coliseum,22
+4,1,Colma,1
+4,1,Concord,21
+4,1,Daly City,12
+4,1,Downtown Berkeley,1
+4,1,Dublin/Pleasanton,15
+4,1,El Cerrito Plaza,1
+4,1,El Cerrito del Norte,8
+4,1,Embarcadero,4
+4,1,Fremont,12
+4,1,Fruitvale,18
+4,1,Glen Park,1
+4,1,Hayward,15
+4,1,Lafayette,16
+4,1,Lake Merritt,4
+4,1,MacArthur,12
+4,1,Millbrae,2
+4,1,Montgomery St.,4
+4,1,North Berkeley,11
+4,1,North Concord/Martinez,7
+4,1,Orinda,7
+4,1,Pittsburg/Bay Point,13
+4,1,Pleasant Hill/Contra Costa Centre,9
+4,1,Powell St.,7
+4,1,Richmond,7
+4,1,Rockridge,6
+4,1,San Bruno,1
+4,1,San Leandro,15
+4,1,South Hayward,13
+4,1,South San Francisco,1
+4,1,Union City,8
+4,1,Walnut Creek,8
+4,1,West Dublin/Pleasanton,1
+4,1,West Oakland,7
+4,2,,2
+4,2,12th St. Oakland City Center,2
+4,2,16th St. Mission,3
+4,2,19th St. Oakland,5
+4,2,Antioch,6
+4,2,Ashby,7
+4,2,Balboa Park,3
+4,2,Bay Fair,17
+4,2,Castro Valley,1
+4,2,Civic Center/UN Plaza,13
+4,2,Coliseum,16
+4,2,Colma,1
+4,2,Concord,12
+4,2,Daly City,3
+4,2,Downtown Berkeley,1
+4,2,Dublin/Pleasanton,8
+4,2,El Cerrito Plaza,5
+4,2,El Cerrito del Norte,8
+4,2,Embarcadero,6
+4,2,Fremont,8
+4,2,Fruitvale,13
+4,2,Hayward,16
+4,2,Lafayette,8
+4,2,Lake Merritt,5
+4,2,MacArthur,16
+4,2,Millbrae,1
+4,2,Montgomery St.,1
+4,2,North Berkeley,9
+4,2,North Concord/Martinez,10
+4,2,Orinda,4
+4,2,Pittsburg/Bay Point,18
+4,2,Pleasant Hill/Contra Costa Centre,8
+4,2,Powell St.,12
+4,2,Richmond,6
+4,2,Rockridge,2
+4,2,San Bruno,3
+4,2,San Leandro,13
+4,2,South Hayward,11
+4,2,Union City,5
+4,2,Walnut Creek,5
+4,2,Warm Springs/South Fremont,1
+4,2,West Dublin/Pleasanton,3
+4,2,West Oakland,5
+4,3,,7
+4,3,12th St. Oakland City Center,6
+4,3,16th St. Mission,1
+4,3,19th St. Oakland,6
+4,3,24th St. Mission,2
+4,3,Ashby,2
+4,3,Balboa Park,3
+4,3,Bay Fair,10
+4,3,Castro Valley,3
+4,3,Civic Center/UN Plaza,8
+4,3,Coliseum,20
+4,3,Concord,7
+4,3,Daly City,1
+4,3,Downtown Berkeley,1
+4,3,Dublin/Pleasanton,11
+4,3,El Cerrito Plaza,3
+4,3,El Cerrito del Norte,10
+4,3,Embarcadero,6
+4,3,Fremont,7
+4,3,Fruitvale,16
+4,3,Hayward,17
+4,3,Lafayette,5
+4,3,Lake Merritt,6
+4,3,MacArthur,10
+4,3,Millbrae,2
+4,3,Montgomery St.,3
+4,3,North Berkeley,11
+4,3,North Concord/Martinez,5
+4,3,Orinda,3
+4,3,Pittsburg/Bay Point,14
+4,3,Pleasant Hill/Contra Costa Centre,5
+4,3,Powell St.,19
+4,3,Richmond,7
+4,3,Rockridge,4
+4,3,San Bruno,1
+4,3,San Leandro,6
+4,3,South Hayward,9
+4,3,South San Francisco,1
+4,3,Union City,1
+4,3,Walnut Creek,8
+4,3,Warm Springs/South Fremont,1
+4,3,West Dublin/Pleasanton,1
+4,3,West Oakland,5
+4,4,,1
+4,4,12th St. Oakland City Center,5
+4,4,16th St. Mission,5
+4,4,19th St. Oakland,2
+4,4,24th St. Mission,2
+4,4,Ashby,7
+4,4,Balboa Park,1
+4,4,Bay Fair,14
+4,4,Castro Valley,1
+4,4,Civic Center/UN Plaza,7
+4,4,Coliseum,11
+4,4,Colma,1
+4,4,Concord,7
+4,4,Daly City,6
+4,4,Downtown Berkeley,3
+4,4,Dublin/Pleasanton,5
+4,4,El Cerrito Plaza,1
+4,4,El Cerrito del Norte,5
+4,4,Embarcadero,1
+4,4,Fremont,6
+4,4,Fruitvale,11
+4,4,Glen Park,1
+4,4,Hayward,8
+4,4,Lafayette,4
+4,4,Lake Merritt,10
+4,4,MacArthur,7
+4,4,Millbrae,1
+4,4,North Berkeley,5
+4,4,North Concord/Martinez,6
+4,4,Pittsburg Center,1
+4,4,Pittsburg/Bay Point,10
+4,4,Pleasant Hill/Contra Costa Centre,3
+4,4,Powell St.,13
+4,4,Richmond,9
+4,4,Rockridge,8
+4,4,San Leandro,6
+4,4,South Hayward,4
+4,4,South San Francisco,1
+4,4,Union City,5
+4,4,Walnut Creek,3
+4,4,West Dublin/Pleasanton,3
+4,4,West Oakland,8
+4,5,,4
+4,5,12th St. Oakland City Center,6
+4,5,16th St. Mission,2
+4,5,19th St. Oakland,5
+4,5,Antioch,1
+4,5,Ashby,8
+4,5,Balboa Park,2
+4,5,Bay Fair,12
+4,5,Castro Valley,2
+4,5,Civic Center/UN Plaza,8
+4,5,Coliseum,17
+4,5,Colma,4
+4,5,Concord,8
+4,5,Daly City,7
+4,5,Downtown Berkeley,3
+4,5,Dublin/Pleasanton,4
+4,5,El Cerrito Plaza,3
+4,5,El Cerrito del Norte,6
+4,5,Embarcadero,1
+4,5,Fremont,2
+4,5,Fruitvale,11
+4,5,Glen Park,2
+4,5,Hayward,6
+4,5,Lafayette,1
+4,5,Lake Merritt,7
+4,5,MacArthur,11
+4,5,Millbrae,2
+4,5,Montgomery St.,1
+4,5,North Berkeley,4
+4,5,North Concord/Martinez,2
+4,5,Orinda,3
+4,5,Pittsburg/Bay Point,5
+4,5,Pleasant Hill/Contra Costa Centre,2
+4,5,Powell St.,10
+4,5,Richmond,6
+4,5,Rockridge,2
+4,5,San Bruno,3
+4,5,San Leandro,10
+4,5,South Hayward,5
+4,5,South San Francisco,4
+4,5,Walnut Creek,9
+4,5,West Oakland,9
+4,6,,1
+4,6,16th St. Mission,2
+4,6,19th St. Oakland,3
+4,6,24th St. Mission,2
+4,6,Antioch,3
+4,6,Balboa Park,2
+4,6,Bay Fair,13
+4,6,Castro Valley,2
+4,6,Civic Center/UN Plaza,8
+4,6,Coliseum,15
+4,6,Colma,1
+4,6,Concord,5
+4,6,Daly City,5
+4,6,Dublin/Pleasanton,3
+4,6,El Cerrito del Norte,4
+4,6,Embarcadero,1
+4,6,Fremont,4
+4,6,Fruitvale,12
+4,6,Hayward,5
+4,6,Lafayette,2
+4,6,Lake Merritt,6
+4,6,MacArthur,8
+4,6,Millbrae,1
+4,6,North Berkeley,1
+4,6,North Concord/Martinez,4
+4,6,Pittsburg/Bay Point,9
+4,6,Pleasant Hill/Contra Costa Centre,2
+4,6,Powell St.,4
+4,6,Richmond,5
+4,6,Rockridge,2
+4,6,San Bruno,1
+4,6,San Francisco International Airport,1
+4,6,San Leandro,4
+4,6,South Hayward,4
+4,6,South San Francisco,1
+4,6,Union City,5
+4,6,Walnut Creek,1
+4,6,West Dublin/Pleasanton,2
+4,6,West Oakland,8
+4,7,,1
+4,7,16th St. Mission,1
+4,7,19th St. Oakland,5
+4,7,24th St. Mission,1
+4,7,Antioch,1
+4,7,Ashby,3
+4,7,Balboa Park,3
+4,7,Bay Fair,6
+4,7,Castro Valley,3
+4,7,Civic Center/UN Plaza,8
+4,7,Coliseum,11
+4,7,Concord,4
+4,7,Daly City,4
+4,7,Downtown Berkeley,3
+4,7,Dublin/Pleasanton,4
+4,7,El Cerrito Plaza,2
+4,7,El Cerrito del Norte,5
+4,7,Embarcadero,1
+4,7,Fremont,3
+4,7,Fruitvale,7
+4,7,Hayward,3
+4,7,Lafayette,3
+4,7,Lake Merritt,1
+4,7,MacArthur,6
+4,7,Millbrae,1
+4,7,Montgomery St.,3
+4,7,North Berkeley,1
+4,7,North Concord/Martinez,1
+4,7,Orinda,1
+4,7,Pittsburg/Bay Point,6
+4,7,Pleasant Hill/Contra Costa Centre,1
+4,7,Powell St.,2
+4,7,Richmond,11
+4,7,San Bruno,1
+4,7,San Leandro,2
+4,7,South Hayward,2
+4,7,South San Francisco,2
+4,7,Union City,1
+4,7,Walnut Creek,2
+4,7,West Oakland,8
+4,8,,1
+4,8,12th St. Oakland City Center,1
+4,8,16th St. Mission,4
+4,8,19th St. Oakland,1
+4,8,24th St. Mission,1
+4,8,Antioch,1
+4,8,Ashby,1
+4,8,Bay Fair,2
+4,8,Civic Center/UN Plaza,2
+4,8,Coliseum,2
+4,8,Concord,1
+4,8,Daly City,5
+4,8,El Cerrito del Norte,3
+4,8,Embarcadero,2
+4,8,Fremont,3
+4,8,Fruitvale,4
+4,8,Hayward,3
+4,8,Lafayette,1
+4,8,Lake Merritt,1
+4,8,MacArthur,2
+4,8,Millbrae,2
+4,8,Montgomery St.,2
+4,8,North Berkeley,1
+4,8,Pittsburg/Bay Point,5
+4,8,Pleasant Hill/Contra Costa Centre,2
+4,8,Powell St.,5
+4,8,Richmond,8
+4,8,Rockridge,1
+4,8,San Bruno,1
+4,8,San Francisco International Airport,4
+4,8,San Leandro,1
+4,8,South Hayward,1
+4,8,Walnut Creek,1
+4,8,West Dublin/Pleasanton,1
+4,8,West Oakland,6
+4,9,,1
+4,9,12th St. Oakland City Center,1
+4,9,Bay Fair,2
+4,9,Civic Center/UN Plaza,3
+4,9,Coliseum,1
+4,9,Dublin/Pleasanton,1
+4,9,Fremont,1
+4,9,Fruitvale,3
+4,9,Hayward,1
+4,9,Lake Merritt,4
+4,9,MacArthur,1
+4,9,Millbrae,1
+4,9,North Berkeley,1
+4,9,Orinda,1
+4,9,Pittsburg/Bay Point,5
+4,9,Powell St.,4
+4,9,Richmond,1
+4,9,San Francisco International Airport,2
+4,9,South Hayward,1
+4,9,West Oakland,2
+4,10,Balboa Park,1
+4,10,Bay Fair,1
+4,10,Civic Center/UN Plaza,1
+4,10,Coliseum,1
+4,10,Daly City,1
+4,10,Downtown Berkeley,1
+4,10,Dublin/Pleasanton,1
+4,10,El Cerrito del Norte,2
+4,10,Fremont,3
+4,10,Fruitvale,1
+4,10,MacArthur,1
+4,10,Pittsburg/Bay Point,2
+4,10,Rockridge,1
+4,10,San Bruno,1
+4,10,San Francisco International Airport,1
+4,10,Union City,3
+4,10,West Oakland,1
+4,11,,2
+4,11,12th St. Oakland City Center,1
+4,11,19th St. Oakland,1
+4,11,Ashby,1
+4,11,Bay Fair,1
+4,11,Civic Center/UN Plaza,1
+4,11,Coliseum,1
+4,11,Daly City,2
+4,11,El Cerrito Plaza,1
+4,11,Fruitvale,1
+4,11,Hayward,3
+4,11,MacArthur,1
+4,11,North Berkeley,2
+4,11,Powell St.,2
+4,11,Richmond,3
+4,11,San Leandro,3
+4,11,South Hayward,1
+4,11,Walnut Creek,2
+4,11,Warm Springs/South Fremont,1
+4,11,West Oakland,1
+4,12,,5
+4,12,16th St. Mission,1
+4,12,19th St. Oakland,2
+4,12,24th St. Mission,1
+4,12,Antioch,2
+4,12,Ashby,4
+4,12,Balboa Park,1
+4,12,Bay Fair,3
+4,12,Castro Valley,1
+4,12,Civic Center/UN Plaza,7
+4,12,Coliseum,5
+4,12,Concord,2
+4,12,Dublin/Pleasanton,3
+4,12,El Cerrito Plaza,2
+4,12,El Cerrito del Norte,2
+4,12,Fremont,1
+4,12,Fruitvale,2
+4,12,Hayward,1
+4,12,Lafayette,1
+4,12,Lake Merritt,1
+4,12,MacArthur,2
+4,12,Montgomery St.,1
+4,12,North Concord/Martinez,1
+4,12,Pittsburg/Bay Point,11
+4,12,Pleasant Hill/Contra Costa Centre,3
+4,12,Powell St.,3
+4,12,Richmond,4
+4,12,San Leandro,2
+4,12,South Hayward,1
+4,12,Warm Springs/South Fremont,3
+4,12,West Dublin/Pleasanton,1
+4,12,West Oakland,4
+4,13,,1
+4,13,12th St. Oakland City Center,1
+4,13,19th St. Oakland,3
+4,13,24th St. Mission,1
+4,13,Ashby,1
+4,13,Balboa Park,2
+4,13,Bay Fair,5
+4,13,Castro Valley,3
+4,13,Civic Center/UN Plaza,1
+4,13,Coliseum,8
+4,13,Colma,1
+4,13,Concord,2
+4,13,Daly City,4
+4,13,Dublin/Pleasanton,3
+4,13,El Cerrito del Norte,1
+4,13,Fremont,1
+4,13,Fruitvale,5
+4,13,Hayward,6
+4,13,Lake Merritt,4
+4,13,MacArthur,3
+4,13,Millbrae,1
+4,13,Montgomery St.,2
+4,13,North Berkeley,1
+4,13,Orinda,1
+4,13,Pittsburg/Bay Point,7
+4,13,Pleasant Hill/Contra Costa Centre,1
+4,13,Powell St.,6
+4,13,Richmond,2
+4,13,Rockridge,1
+4,13,San Francisco International Airport,2
+4,13,San Leandro,3
+4,13,South Hayward,3
+4,13,West Oakland,5
+4,14,,2
+4,14,12th St. Oakland City Center,3
+4,14,16th St. Mission,3
+4,14,19th St. Oakland,1
+4,14,Bay Fair,6
+4,14,Castro Valley,1
+4,14,Civic Center/UN Plaza,2
+4,14,Coliseum,9
+4,14,Colma,2
+4,14,Concord,2
+4,14,Dublin/Pleasanton,6
+4,14,El Cerrito Plaza,1
+4,14,El Cerrito del Norte,8
+4,14,Embarcadero,4
+4,14,Fremont,1
+4,14,Fruitvale,2
+4,14,Hayward,5
+4,14,Lake Merritt,3
+4,14,MacArthur,5
+4,14,Montgomery St.,1
+4,14,North Berkeley,2
+4,14,Orinda,2
+4,14,Pittsburg/Bay Point,7
+4,14,Pleasant Hill/Contra Costa Centre,2
+4,14,Powell St.,13
+4,14,Richmond,2
+4,14,Rockridge,2
+4,14,San Bruno,1
+4,14,San Francisco International Airport,2
+4,14,San Leandro,2
+4,14,South San Francisco,1
+4,14,West Oakland,2
+4,15,,2
+4,15,12th St. Oakland City Center,2
+4,15,19th St. Oakland,2
+4,15,24th St. Mission,1
+4,15,Ashby,1
+4,15,Balboa Park,1
+4,15,Bay Fair,4
+4,15,Castro Valley,1
+4,15,Civic Center/UN Plaza,11
+4,15,Coliseum,14
+4,15,Concord,3
+4,15,Daly City,3
+4,15,Downtown Berkeley,1
+4,15,Dublin/Pleasanton,4
+4,15,El Cerrito Plaza,1
+4,15,El Cerrito del Norte,5
+4,15,Embarcadero,4
+4,15,Fremont,4
+4,15,Fruitvale,8
+4,15,Glen Park,1
+4,15,Hayward,3
+4,15,Lake Merritt,6
+4,15,MacArthur,2
+4,15,Millbrae,1
+4,15,Montgomery St.,2
+4,15,North Berkeley,1
+4,15,North Concord/Martinez,2
+4,15,Orinda,1
+4,15,Pittsburg/Bay Point,4
+4,15,Pleasant Hill/Contra Costa Centre,2
+4,15,Powell St.,8
+4,15,Richmond,5
+4,15,Rockridge,1
+4,15,San Bruno,1
+4,15,San Francisco International Airport,2
+4,15,South San Francisco,1
+4,15,Walnut Creek,2
+4,15,West Dublin/Pleasanton,2
+4,15,West Oakland,4
+4,16,,2
+4,16,12th St. Oakland City Center,3
+4,16,16th St. Mission,3
+4,16,19th St. Oakland,7
+4,16,24th St. Mission,2
+4,16,Bay Fair,7
+4,16,Civic Center/UN Plaza,10
+4,16,Coliseum,9
+4,16,Concord,3
+4,16,Daly City,3
+4,16,Downtown Berkeley,3
+4,16,Dublin/Pleasanton,5
+4,16,El Cerrito Plaza,3
+4,16,El Cerrito del Norte,3
+4,16,Embarcadero,3
+4,16,Fremont,5
+4,16,Fruitvale,9
+4,16,Glen Park,2
+4,16,Hayward,4
+4,16,Lafayette,4
+4,16,Lake Merritt,7
+4,16,MacArthur,8
+4,16,Millbrae,2
+4,16,North Berkeley,3
+4,16,North Concord/Martinez,2
+4,16,Orinda,4
+4,16,Pittsburg/Bay Point,4
+4,16,Pleasant Hill/Contra Costa Centre,2
+4,16,Powell St.,6
+4,16,Richmond,1
+4,16,San Francisco International Airport,1
+4,16,San Leandro,3
+4,16,South Hayward,2
+4,16,South San Francisco,1
+4,16,Union City,4
+4,16,Walnut Creek,3
+4,16,Warm Springs/South Fremont,1
+4,16,West Oakland,7
+4,17,,4
+4,17,12th St. Oakland City Center,3
+4,17,16th St. Mission,1
+4,17,19th St. Oakland,9
+4,17,24th St. Mission,2
+4,17,Ashby,2
+4,17,Balboa Park,1
+4,17,Bay Fair,5
+4,17,Castro Valley,2
+4,17,Civic Center/UN Plaza,7
+4,17,Coliseum,15
+4,17,Concord,3
+4,17,Daly City,5
+4,17,Dublin/Pleasanton,4
+4,17,El Cerrito Plaza,1
+4,17,El Cerrito del Norte,3
+4,17,Embarcadero,5
+4,17,Fremont,3
+4,17,Fruitvale,7
+4,17,Glen Park,2
+4,17,Hayward,6
+4,17,Lafayette,4
+4,17,Lake Merritt,6
+4,17,MacArthur,3
+4,17,Millbrae,1
+4,17,Montgomery St.,3
+4,17,North Concord/Martinez,3
+4,17,Pittsburg/Bay Point,9
+4,17,Pleasant Hill/Contra Costa Centre,2
+4,17,Powell St.,9
+4,17,Richmond,4
+4,17,San Leandro,3
+4,17,South Hayward,4
+4,17,Walnut Creek,3
+4,17,West Dublin/Pleasanton,1
+4,17,West Oakland,7
+4,18,,4
+4,18,12th St. Oakland City Center,4
+4,18,16th St. Mission,1
+4,18,19th St. Oakland,5
+4,18,24th St. Mission,7
+4,18,Antioch,2
+4,18,Ashby,3
+4,18,Balboa Park,2
+4,18,Bay Fair,5
+4,18,Castro Valley,2
+4,18,Civic Center/UN Plaza,7
+4,18,Coliseum,18
+4,18,Concord,6
+4,18,Daly City,3
+4,18,Downtown Berkeley,2
+4,18,Dublin/Pleasanton,3
+4,18,El Cerrito Plaza,3
+4,18,El Cerrito del Norte,5
+4,18,Embarcadero,1
+4,18,Fremont,1
+4,18,Fruitvale,9
+4,18,Glen Park,4
+4,18,Hayward,5
+4,18,Lafayette,3
+4,18,Lake Merritt,3
+4,18,MacArthur,6
+4,18,Montgomery St.,3
+4,18,North Berkeley,2
+4,18,North Concord/Martinez,3
+4,18,Orinda,1
+4,18,Pittsburg/Bay Point,6
+4,18,Pleasant Hill/Contra Costa Centre,2
+4,18,Powell St.,8
+4,18,Richmond,6
+4,18,Rockridge,3
+4,18,San Bruno,1
+4,18,San Leandro,5
+4,18,South Hayward,1
+4,18,South San Francisco,2
+4,18,Walnut Creek,1
+4,18,West Oakland,3
+4,19,12th St. Oakland City Center,2
+4,19,16th St. Mission,1
+4,19,19th St. Oakland,3
+4,19,24th St. Mission,3
+4,19,Balboa Park,2
+4,19,Bay Fair,6
+4,19,Castro Valley,2
+4,19,Civic Center/UN Plaza,6
+4,19,Coliseum,13
+4,19,Concord,5
+4,19,Daly City,6
+4,19,Downtown Berkeley,3
+4,19,Dublin/Pleasanton,1
+4,19,El Cerrito Plaza,1
+4,19,El Cerrito del Norte,4
+4,19,Fremont,1
+4,19,Fruitvale,10
+4,19,Hayward,4
+4,19,Lake Merritt,2
+4,19,MacArthur,1
+4,19,Montgomery St.,1
+4,19,North Berkeley,5
+4,19,Pittsburg/Bay Point,2
+4,19,Pleasant Hill/Contra Costa Centre,2
+4,19,Powell St.,9
+4,19,Richmond,7
+4,19,Rockridge,1
+4,19,San Bruno,1
+4,19,San Francisco International Airport,2
+4,19,San Leandro,4
+4,19,Union City,3
+4,19,Walnut Creek,1
+4,20,,1
+4,20,12th St. Oakland City Center,3
+4,20,16th St. Mission,2
+4,20,19th St. Oakland,3
+4,20,Antioch,1
+4,20,Balboa Park,3
+4,20,Bay Fair,4
+4,20,Castro Valley,1
+4,20,Civic Center/UN Plaza,8
+4,20,Coliseum,13
+4,20,Colma,1
+4,20,Concord,4
+4,20,Daly City,3
+4,20,Dublin/Pleasanton,1
+4,20,El Cerrito del Norte,1
+4,20,Embarcadero,3
+4,20,Fremont,4
+4,20,Fruitvale,5
+4,20,Hayward,4
+4,20,Lafayette,1
+4,20,Lake Merritt,7
+4,20,MacArthur,4
+4,20,Millbrae,2
+4,20,Montgomery St.,1
+4,20,North Berkeley,4
+4,20,Orinda,1
+4,20,Pittsburg/Bay Point,8
+4,20,Pleasant Hill/Contra Costa Centre,1
+4,20,Powell St.,10
+4,20,Richmond,5
+4,20,Rockridge,1
+4,20,San Bruno,2
+4,20,San Leandro,2
+4,20,South Hayward,2
+4,20,Union City,2
+4,20,Walnut Creek,3
+4,20,West Oakland,7
+4,21,12th St. Oakland City Center,3
+4,21,16th St. Mission,2
+4,21,19th St. Oakland,3
+4,21,24th St. Mission,2
+4,21,Antioch,1
+4,21,Ashby,7
+4,21,Balboa Park,1
+4,21,Bay Fair,7
+4,21,Castro Valley,3
+4,21,Civic Center/UN Plaza,11
+4,21,Coliseum,11
+4,21,Concord,4
+4,21,Daly City,3
+4,21,Downtown Berkeley,3
+4,21,Dublin/Pleasanton,8
+4,21,El Cerrito del Norte,5
+4,21,Embarcadero,4
+4,21,Fremont,4
+4,21,Fruitvale,7
+4,21,Hayward,6
+4,21,Lake Merritt,6
+4,21,MacArthur,7
+4,21,Millbrae,1
+4,21,North Berkeley,2
+4,21,North Concord/Martinez,2
+4,21,Orinda,2
+4,21,Pittsburg/Bay Point,4
+4,21,Pleasant Hill/Contra Costa Centre,2
+4,21,Powell St.,7
+4,21,Richmond,2
+4,21,Rockridge,1
+4,21,San Bruno,1
+4,21,San Francisco International Airport,1
+4,21,San Leandro,5
+4,21,South Hayward,4
+4,21,Walnut Creek,2
+4,21,West Dublin/Pleasanton,1
+4,21,West Oakland,5
+4,22,,4
+4,22,12th St. Oakland City Center,4
+4,22,16th St. Mission,1
+4,22,19th St. Oakland,2
+4,22,24th St. Mission,1
+4,22,Antioch,2
+4,22,Ashby,3
+4,22,Balboa Park,2
+4,22,Bay Fair,5
+4,22,Castro Valley,5
+4,22,Civic Center/UN Plaza,11
+4,22,Coliseum,11
+4,22,Concord,5
+4,22,Daly City,3
+4,22,Downtown Berkeley,3
+4,22,Dublin/Pleasanton,3
+4,22,El Cerrito Plaza,3
+4,22,El Cerrito del Norte,5
+4,22,Embarcadero,5
+4,22,Fremont,5
+4,22,Fruitvale,9
+4,22,Glen Park,1
+4,22,Hayward,10
+4,22,Lafayette,1
+4,22,Lake Merritt,5
+4,22,MacArthur,5
+4,22,Montgomery St.,3
+4,22,North Berkeley,2
+4,22,North Concord/Martinez,5
+4,22,Orinda,1
+4,22,Pittsburg/Bay Point,8
+4,22,Pleasant Hill/Contra Costa Centre,2
+4,22,Powell St.,14
+4,22,Richmond,4
+4,22,Rockridge,5
+4,22,San Bruno,1
+4,22,San Francisco International Airport,1
+4,22,San Leandro,4
+4,22,South Hayward,5
+4,22,Union City,1
+4,22,Walnut Creek,1
+4,22,West Oakland,6
+4,23,,5
+4,23,12th St. Oakland City Center,2
+4,23,16th St. Mission,3
+4,23,19th St. Oakland,2
+4,23,24th St. Mission,4
+4,23,Antioch,1
+4,23,Ashby,7
+4,23,Balboa Park,5
+4,23,Bay Fair,18
+4,23,Castro Valley,4
+4,23,Civic Center/UN Plaza,18
+4,23,Coliseum,20
+4,23,Colma,2
+4,23,Concord,6
+4,23,Daly City,4
+4,23,Dublin/Pleasanton,4
+4,23,El Cerrito del Norte,12
+4,23,Embarcadero,1
+4,23,Fremont,6
+4,23,Fruitvale,8
+4,23,Hayward,17
+4,23,Lafayette,2
+4,23,Lake Merritt,4
+4,23,MacArthur,10
+4,23,Millbrae,3
+4,23,Montgomery St.,1
+4,23,North Berkeley,7
+4,23,North Concord/Martinez,4
+4,23,Pittsburg/Bay Point,8
+4,23,Pleasant Hill/Contra Costa Centre,5
+4,23,Powell St.,8
+4,23,Richmond,12
+4,23,Rockridge,3
+4,23,San Francisco International Airport,1
+4,23,San Leandro,8
+4,23,South Hayward,4
+4,23,South San Francisco,2
+4,23,Union City,4
+4,23,Walnut Creek,7
+4,23,Warm Springs/South Fremont,1
+4,23,West Oakland,8
+5,0,,4
+5,0,12th St. Oakland City Center,3
+5,0,16th St. Mission,3
+5,0,19th St. Oakland,6
+5,0,24th St. Mission,3
+5,0,Antioch,2
+5,0,Ashby,4
+5,0,Balboa Park,1
+5,0,Bay Fair,10
+5,0,Castro Valley,4
+5,0,Civic Center/UN Plaza,7
+5,0,Coliseum,14
+5,0,Colma,2
+5,0,Concord,10
+5,0,Daly City,10
+5,0,Downtown Berkeley,2
+5,0,Dublin/Pleasanton,9
+5,0,El Cerrito Plaza,4
+5,0,El Cerrito del Norte,10
+5,0,Embarcadero,3
+5,0,Fremont,5
+5,0,Fruitvale,17
+5,0,Glen Park,1
+5,0,Hayward,12
+5,0,Lafayette,7
+5,0,Lake Merritt,10
+5,0,MacArthur,5
+5,0,Montgomery St.,2
+5,0,North Berkeley,8
+5,0,North Concord/Martinez,7
+5,0,Orinda,7
+5,0,Pittsburg/Bay Point,15
+5,0,Pleasant Hill/Contra Costa Centre,8
+5,0,Powell St.,12
+5,0,Richmond,8
+5,0,Rockridge,4
+5,0,San Bruno,1
+5,0,San Francisco International Airport,1
+5,0,San Leandro,11
+5,0,South Hayward,8
+5,0,Union City,6
+5,0,Walnut Creek,4
+5,0,West Dublin/Pleasanton,4
+5,0,West Oakland,11
+5,1,,7
+5,1,12th St. Oakland City Center,4
+5,1,16th St. Mission,5
+5,1,19th St. Oakland,7
+5,1,24th St. Mission,1
+5,1,Antioch,3
+5,1,Ashby,4
+5,1,Balboa Park,2
+5,1,Bay Fair,9
+5,1,Castro Valley,3
+5,1,Civic Center/UN Plaza,10
+5,1,Coliseum,14
+5,1,Colma,1
+5,1,Concord,20
+5,1,Daly City,8
+5,1,Downtown Berkeley,1
+5,1,Dublin/Pleasanton,9
+5,1,El Cerrito Plaza,1
+5,1,El Cerrito del Norte,11
+5,1,Embarcadero,5
+5,1,Fremont,11
+5,1,Fruitvale,15
+5,1,Glen Park,2
+5,1,Hayward,16
+5,1,Lafayette,6
+5,1,Lake Merritt,9
+5,1,MacArthur,9
+5,1,Millbrae,2
+5,1,Montgomery St.,3
+5,1,North Berkeley,9
+5,1,North Concord/Martinez,5
+5,1,Orinda,6
+5,1,Pittsburg/Bay Point,18
+5,1,Pleasant Hill/Contra Costa Centre,10
+5,1,Powell St.,19
+5,1,Richmond,10
+5,1,Rockridge,4
+5,1,San Leandro,11
+5,1,South Hayward,8
+5,1,South San Francisco,2
+5,1,Union City,8
+5,1,Walnut Creek,8
+5,1,West Dublin/Pleasanton,1
+5,1,West Oakland,11
+5,2,,3
+5,2,12th St. Oakland City Center,5
+5,2,16th St. Mission,1
+5,2,19th St. Oakland,3
+5,2,24th St. Mission,3
+5,2,Antioch,1
+5,2,Ashby,5
+5,2,Balboa Park,1
+5,2,Bay Fair,19
+5,2,Castro Valley,6
+5,2,Civic Center/UN Plaza,14
+5,2,Coliseum,34
+5,2,Colma,5
+5,2,Concord,6
+5,2,Daly City,7
+5,2,Downtown Berkeley,2
+5,2,Dublin/Pleasanton,13
+5,2,El Cerrito Plaza,2
+5,2,El Cerrito del Norte,11
+5,2,Embarcadero,4
+5,2,Fremont,20
+5,2,Fruitvale,19
+5,2,Glen Park,1
+5,2,Hayward,10
+5,2,Lafayette,3
+5,2,Lake Merritt,7
+5,2,MacArthur,2
+5,2,Millbrae,3
+5,2,Montgomery St.,1
+5,2,North Berkeley,2
+5,2,North Concord/Martinez,3
+5,2,Orinda,9
+5,2,Pittsburg/Bay Point,14
+5,2,Pleasant Hill/Contra Costa Centre,5
+5,2,Powell St.,18
+5,2,Richmond,7
+5,2,Rockridge,1
+5,2,San Francisco International Airport,1
+5,2,San Leandro,9
+5,2,South Hayward,9
+5,2,Union City,6
+5,2,Walnut Creek,8
+5,2,Warm Springs/South Fremont,1
+5,2,West Dublin/Pleasanton,3
+5,2,West Oakland,9
+5,3,,4
+5,3,12th St. Oakland City Center,8
+5,3,16th St. Mission,2
+5,3,19th St. Oakland,4
+5,3,Ashby,8
+5,3,Balboa Park,4
+5,3,Bay Fair,14
+5,3,Civic Center/UN Plaza,9
+5,3,Coliseum,10
+5,3,Colma,1
+5,3,Concord,8
+5,3,Daly City,1
+5,3,Downtown Berkeley,1
+5,3,Dublin/Pleasanton,10
+5,3,El Cerrito Plaza,6
+5,3,El Cerrito del Norte,10
+5,3,Embarcadero,5
+5,3,Fremont,11
+5,3,Fruitvale,20
+5,3,Hayward,8
+5,3,Lafayette,4
+5,3,Lake Merritt,10
+5,3,MacArthur,11
+5,3,Millbrae,2
+5,3,Montgomery St.,1
+5,3,North Berkeley,2
+5,3,North Concord/Martinez,4
+5,3,Orinda,3
+5,3,Pittsburg/Bay Point,5
+5,3,Pleasant Hill/Contra Costa Centre,3
+5,3,Powell St.,8
+5,3,Richmond,5
+5,3,Rockridge,1
+5,3,San Bruno,1
+5,3,San Francisco International Airport,1
+5,3,San Leandro,5
+5,3,South Hayward,9
+5,3,South San Francisco,1
+5,3,Union City,3
+5,3,Walnut Creek,1
+5,3,West Dublin/Pleasanton,2
+5,3,West Oakland,10
+5,4,,2
+5,4,12th St. Oakland City Center,2
+5,4,16th St. Mission,4
+5,4,19th St. Oakland,7
+5,4,24th St. Mission,2
+5,4,Ashby,7
+5,4,Balboa Park,3
+5,4,Bay Fair,8
+5,4,Castro Valley,3
+5,4,Civic Center/UN Plaza,13
+5,4,Coliseum,19
+5,4,Colma,2
+5,4,Concord,6
+5,4,Daly City,3
+5,4,Dublin/Pleasanton,4
+5,4,El Cerrito Plaza,4
+5,4,El Cerrito del Norte,10
+5,4,Embarcadero,6
+5,4,Fremont,15
+5,4,Fruitvale,9
+5,4,Glen Park,3
+5,4,Hayward,8
+5,4,Lafayette,7
+5,4,Lake Merritt,9
+5,4,MacArthur,15
+5,4,Millbrae,1
+5,4,Montgomery St.,2
+5,4,North Berkeley,3
+5,4,North Concord/Martinez,1
+5,4,Orinda,3
+5,4,Pittsburg/Bay Point,7
+5,4,Pleasant Hill/Contra Costa Centre,2
+5,4,Powell St.,16
+5,4,Richmond,5
+5,4,Rockridge,2
+5,4,San Bruno,1
+5,4,San Leandro,1
+5,4,South Hayward,4
+5,4,South San Francisco,1
+5,4,Union City,3
+5,4,Walnut Creek,4
+5,4,West Dublin/Pleasanton,1
+5,4,West Oakland,9
+5,5,,4
+5,5,12th St. Oakland City Center,1
+5,5,16th St. Mission,1
+5,5,19th St. Oakland,4
+5,5,24th St. Mission,2
+5,5,Ashby,2
+5,5,Balboa Park,2
+5,5,Bay Fair,9
+5,5,Castro Valley,2
+5,5,Civic Center/UN Plaza,5
+5,5,Coliseum,16
+5,5,Colma,2
+5,5,Concord,8
+5,5,Daly City,6
+5,5,Downtown Berkeley,1
+5,5,Dublin/Pleasanton,3
+5,5,El Cerrito del Norte,10
+5,5,Embarcadero,2
+5,5,Fremont,7
+5,5,Fruitvale,10
+5,5,Hayward,10
+5,5,Lake Merritt,4
+5,5,MacArthur,5
+5,5,Montgomery St.,2
+5,5,North Berkeley,1
+5,5,North Concord/Martinez,6
+5,5,Orinda,1
+5,5,Pittsburg/Bay Point,9
+5,5,Pleasant Hill/Contra Costa Centre,4
+5,5,Powell St.,7
+5,5,Richmond,2
+5,5,Rockridge,3
+5,5,San Leandro,7
+5,5,South Hayward,6
+5,5,South San Francisco,1
+5,5,Union City,1
+5,5,Walnut Creek,4
+5,5,West Dublin/Pleasanton,2
+5,5,West Oakland,8
+5,6,16th St. Mission,1
+5,6,19th St. Oakland,1
+5,6,24th St. Mission,3
+5,6,Antioch,2
+5,6,Ashby,3
+5,6,Balboa Park,2
+5,6,Bay Fair,8
+5,6,Castro Valley,2
+5,6,Civic Center/UN Plaza,9
+5,6,Coliseum,11
+5,6,Colma,1
+5,6,Concord,7
+5,6,Daly City,3
+5,6,Downtown Berkeley,3
+5,6,Dublin/Pleasanton,6
+5,6,El Cerrito Plaza,1
+5,6,El Cerrito del Norte,7
+5,6,Embarcadero,3
+5,6,Fremont,5
+5,6,Fruitvale,10
+5,6,Glen Park,1
+5,6,Hayward,6
+5,6,Lafayette,2
+5,6,Lake Merritt,4
+5,6,MacArthur,7
+5,6,Millbrae,1
+5,6,Montgomery St.,4
+5,6,North Berkeley,4
+5,6,North Concord/Martinez,6
+5,6,Orinda,1
+5,6,Pittsburg/Bay Point,6
+5,6,Pleasant Hill/Contra Costa Centre,5
+5,6,Powell St.,5
+5,6,Richmond,3
+5,6,Rockridge,4
+5,6,San Bruno,1
+5,6,San Francisco International Airport,1
+5,6,San Leandro,7
+5,6,South Hayward,1
+5,6,South San Francisco,1
+5,6,Union City,5
+5,6,Walnut Creek,1
+5,6,West Dublin/Pleasanton,1
+5,6,West Oakland,5
+5,7,,5
+5,7,12th St. Oakland City Center,2
+5,7,16th St. Mission,3
+5,7,19th St. Oakland,2
+5,7,24th St. Mission,1
+5,7,Ashby,3
+5,7,Balboa Park,4
+5,7,Bay Fair,5
+5,7,Castro Valley,4
+5,7,Civic Center/UN Plaza,2
+5,7,Coliseum,4
+5,7,Concord,3
+5,7,Daly City,5
+5,7,Downtown Berkeley,2
+5,7,Dublin/Pleasanton,7
+5,7,El Cerrito Plaza,1
+5,7,El Cerrito del Norte,4
+5,7,Embarcadero,3
+5,7,Fremont,3
+5,7,Fruitvale,1
+5,7,Glen Park,1
+5,7,Hayward,8
+5,7,Lafayette,1
+5,7,Lake Merritt,2
+5,7,MacArthur,7
+5,7,Millbrae,3
+5,7,Montgomery St.,1
+5,7,North Concord/Martinez,3
+5,7,Pittsburg/Bay Point,4
+5,7,Powell St.,5
+5,7,Richmond,5
+5,7,San Francisco International Airport,2
+5,7,San Leandro,3
+5,7,South Hayward,2
+5,7,South San Francisco,1
+5,7,Union City,1
+5,7,Walnut Creek,3
+5,7,Warm Springs/South Fremont,1
+5,7,West Oakland,6
+5,8,12th St. Oakland City Center,1
+5,8,16th St. Mission,2
+5,8,19th St. Oakland,2
+5,8,24th St. Mission,1
+5,8,Ashby,1
+5,8,Bay Fair,2
+5,8,Civic Center/UN Plaza,1
+5,8,Coliseum,4
+5,8,Colma,1
+5,8,Concord,4
+5,8,Daly City,3
+5,8,Dublin/Pleasanton,4
+5,8,El Cerrito del Norte,5
+5,8,Embarcadero,3
+5,8,Fremont,4
+5,8,Fruitvale,3
+5,8,Hayward,2
+5,8,Lafayette,3
+5,8,Lake Merritt,1
+5,8,MacArthur,2
+5,8,Millbrae,1
+5,8,North Berkeley,1
+5,8,Orinda,1
+5,8,Pittsburg/Bay Point,4
+5,8,Pleasant Hill/Contra Costa Centre,1
+5,8,Powell St.,4
+5,8,Richmond,3
+5,8,San Bruno,1
+5,8,San Francisco International Airport,4
+5,8,San Leandro,3
+5,8,South Hayward,1
+5,8,Union City,1
+5,8,Walnut Creek,1
+5,8,West Dublin/Pleasanton,2
+5,8,West Oakland,3
+5,9,,1
+5,9,12th St. Oakland City Center,3
+5,9,Antioch,1
+5,9,Balboa Park,2
+5,9,Bay Fair,1
+5,9,Coliseum,6
+5,9,Concord,2
+5,9,Daly City,2
+5,9,El Cerrito Plaza,1
+5,9,El Cerrito del Norte,3
+5,9,Fremont,1
+5,9,Fruitvale,1
+5,9,Hayward,1
+5,9,MacArthur,3
+5,9,Montgomery St.,1
+5,9,North Berkeley,1
+5,9,Pittsburg/Bay Point,3
+5,9,Pleasant Hill/Contra Costa Centre,2
+5,9,Powell St.,4
+5,9,Richmond,2
+5,9,San Francisco International Airport,2
+5,9,San Leandro,2
+5,9,Walnut Creek,2
+5,10,,2
+5,10,Civic Center/UN Plaza,1
+5,10,Coliseum,1
+5,10,Colma,1
+5,10,Concord,1
+5,10,Daly City,1
+5,10,Downtown Berkeley,1
+5,10,Fruitvale,1
+5,10,Hayward,1
+5,10,Lake Merritt,1
+5,10,Millbrae,1
+5,10,Pittsburg/Bay Point,1
+5,10,Powell St.,1
+5,10,Richmond,1
+5,10,San Francisco International Airport,1
+5,10,Union City,1
+5,10,West Oakland,1
+5,11,12th St. Oakland City Center,1
+5,11,19th St. Oakland,1
+5,11,Ashby,1
+5,11,Bay Fair,1
+5,11,Coliseum,4
+5,11,Colma,1
+5,11,Concord,1
+5,11,El Cerrito del Norte,1
+5,11,Embarcadero,1
+5,11,Fruitvale,1
+5,11,Hayward,2
+5,11,Lafayette,1
+5,11,Lake Merritt,2
+5,11,MacArthur,1
+5,11,Millbrae,1
+5,11,Montgomery St.,1
+5,11,North Berkeley,1
+5,11,North Concord/Martinez,2
+5,11,Pittsburg/Bay Point,3
+5,11,Pleasant Hill/Contra Costa Centre,2
+5,11,Powell St.,3
+5,11,Rockridge,1
+5,11,San Leandro,2
+5,11,South Hayward,1
+5,11,Union City,1
+5,11,Walnut Creek,1
+5,11,West Dublin/Pleasanton,1
+5,11,West Oakland,1
+5,12,,3
+5,12,16th St. Mission,1
+5,12,19th St. Oakland,3
+5,12,24th St. Mission,1
+5,12,Ashby,3
+5,12,Bay Fair,3
+5,12,Castro Valley,2
+5,12,Civic Center/UN Plaza,1
+5,12,Coliseum,3
+5,12,Concord,6
+5,12,Daly City,2
+5,12,Dublin/Pleasanton,2
+5,12,El Cerrito Plaza,1
+5,12,El Cerrito del Norte,1
+5,12,Embarcadero,1
+5,12,Fremont,1
+5,12,Lake Merritt,1
+5,12,MacArthur,5
+5,12,Millbrae,2
+5,12,Montgomery St.,3
+5,12,North Berkeley,4
+5,12,North Concord/Martinez,1
+5,12,Orinda,2
+5,12,Pittsburg/Bay Point,2
+5,12,Pleasant Hill/Contra Costa Centre,2
+5,12,Powell St.,3
+5,12,Richmond,7
+5,12,San Leandro,3
+5,12,South Hayward,3
+5,12,West Oakland,1
+5,13,,3
+5,13,12th St. Oakland City Center,4
+5,13,24th St. Mission,1
+5,13,Bay Fair,2
+5,13,Castro Valley,2
+5,13,Civic Center/UN Plaza,3
+5,13,Coliseum,4
+5,13,Concord,2
+5,13,Daly City,1
+5,13,Downtown Berkeley,2
+5,13,Dublin/Pleasanton,3
+5,13,El Cerrito del Norte,2
+5,13,Embarcadero,6
+5,13,Fremont,1
+5,13,Fruitvale,1
+5,13,Hayward,3
+5,13,Lake Merritt,5
+5,13,MacArthur,3
+5,13,Millbrae,1
+5,13,Pittsburg/Bay Point,3
+5,13,Pleasant Hill/Contra Costa Centre,1
+5,13,Powell St.,3
+5,13,Richmond,4
+5,13,Rockridge,1
+5,13,San Francisco International Airport,3
+5,13,San Leandro,1
+5,13,South Hayward,1
+5,13,South San Francisco,2
+5,13,Union City,1
+5,13,Walnut Creek,1
+5,13,West Dublin/Pleasanton,1
+5,13,West Oakland,2
+5,14,,1
+5,14,12th St. Oakland City Center,5
+5,14,16th St. Mission,1
+5,14,19th St. Oakland,3
+5,14,24th St. Mission,2
+5,14,Antioch,1
+5,14,Ashby,1
+5,14,Balboa Park,2
+5,14,Bay Fair,1
+5,14,Civic Center/UN Plaza,5
+5,14,Coliseum,11
+5,14,Concord,3
+5,14,Downtown Berkeley,2
+5,14,Dublin/Pleasanton,9
+5,14,El Cerrito Plaza,1
+5,14,El Cerrito del Norte,1
+5,14,Fremont,2
+5,14,Fruitvale,4
+5,14,Hayward,3
+5,14,Lake Merritt,5
+5,14,MacArthur,5
+5,14,Millbrae,3
+5,14,North Berkeley,1
+5,14,Orinda,1
+5,14,Pittsburg/Bay Point,5
+5,14,Powell St.,11
+5,14,Richmond,1
+5,14,San Bruno,1
+5,14,San Francisco International Airport,4
+5,14,San Leandro,2
+5,14,South Hayward,6
+5,14,South San Francisco,3
+5,14,Walnut Creek,3
+5,14,West Dublin/Pleasanton,1
+5,14,West Oakland,2
+5,15,,1
+5,15,12th St. Oakland City Center,3
+5,15,16th St. Mission,1
+5,15,19th St. Oakland,4
+5,15,24th St. Mission,2
+5,15,Antioch,1
+5,15,Ashby,2
+5,15,Balboa Park,2
+5,15,Bay Fair,3
+5,15,Castro Valley,2
+5,15,Civic Center/UN Plaza,5
+5,15,Coliseum,10
+5,15,Colma,1
+5,15,Concord,5
+5,15,Daly City,3
+5,15,Downtown Berkeley,1
+5,15,Dublin/Pleasanton,2
+5,15,El Cerrito Plaza,2
+5,15,El Cerrito del Norte,6
+5,15,Fremont,1
+5,15,Fruitvale,6
+5,15,Glen Park,1
+5,15,Hayward,7
+5,15,Lake Merritt,3
+5,15,MacArthur,5
+5,15,Millbrae,1
+5,15,Montgomery St.,4
+5,15,North Berkeley,4
+5,15,North Concord/Martinez,3
+5,15,Orinda,7
+5,15,Pittsburg/Bay Point,4
+5,15,Pleasant Hill/Contra Costa Centre,2
+5,15,Powell St.,7
+5,15,Richmond,2
+5,15,Rockridge,2
+5,15,San Bruno,1
+5,15,San Francisco International Airport,2
+5,15,San Leandro,2
+5,15,South Hayward,4
+5,15,Walnut Creek,1
+5,15,West Oakland,5
+5,16,,1
+5,16,12th St. Oakland City Center,1
+5,16,16th St. Mission,4
+5,16,19th St. Oakland,2
+5,16,24th St. Mission,3
+5,16,Ashby,2
+5,16,Balboa Park,1
+5,16,Bay Fair,5
+5,16,Castro Valley,2
+5,16,Civic Center/UN Plaza,7
+5,16,Coliseum,11
+5,16,Concord,1
+5,16,Daly City,5
+5,16,Downtown Berkeley,6
+5,16,Dublin/Pleasanton,3
+5,16,El Cerrito Plaza,5
+5,16,El Cerrito del Norte,6
+5,16,Embarcadero,2
+5,16,Fremont,4
+5,16,Fruitvale,9
+5,16,Hayward,7
+5,16,Lafayette,1
+5,16,Lake Merritt,3
+5,16,MacArthur,6
+5,16,Millbrae,1
+5,16,Montgomery St.,1
+5,16,North Berkeley,4
+5,16,North Concord/Martinez,3
+5,16,Pittsburg/Bay Point,2
+5,16,Pleasant Hill/Contra Costa Centre,2
+5,16,Powell St.,6
+5,16,Richmond,5
+5,16,Rockridge,1
+5,16,San Bruno,1
+5,16,San Francisco International Airport,1
+5,16,San Leandro,1
+5,16,South Hayward,4
+5,16,Union City,3
+5,16,Walnut Creek,3
+5,16,West Oakland,9
+5,17,,3
+5,17,12th St. Oakland City Center,3
+5,17,16th St. Mission,2
+5,17,19th St. Oakland,2
+5,17,24th St. Mission,3
+5,17,Ashby,3
+5,17,Balboa Park,3
+5,17,Bay Fair,5
+5,17,Castro Valley,1
+5,17,Civic Center/UN Plaza,5
+5,17,Coliseum,10
+5,17,Colma,3
+5,17,Concord,1
+5,17,Daly City,5
+5,17,Downtown Berkeley,2
+5,17,Dublin/Pleasanton,5
+5,17,El Cerrito del Norte,7
+5,17,Embarcadero,3
+5,17,Fremont,2
+5,17,Fruitvale,8
+5,17,Glen Park,1
+5,17,Hayward,8
+5,17,Lafayette,2
+5,17,Lake Merritt,5
+5,17,MacArthur,6
+5,17,Millbrae,1
+5,17,Montgomery St.,2
+5,17,North Berkeley,6
+5,17,Orinda,5
+5,17,Pittsburg/Bay Point,8
+5,17,Pleasant Hill/Contra Costa Centre,2
+5,17,Powell St.,10
+5,17,Richmond,5
+5,17,Rockridge,1
+5,17,San Bruno,1
+5,17,San Francisco International Airport,3
+5,17,San Leandro,6
+5,17,South Hayward,5
+5,17,South San Francisco,1
+5,17,Union City,3
+5,17,Walnut Creek,2
+5,17,West Oakland,4
+5,18,,2
+5,18,12th St. Oakland City Center,4
+5,18,16th St. Mission,2
+5,18,19th St. Oakland,2
+5,18,24th St. Mission,1
+5,18,Ashby,1
+5,18,Balboa Park,1
+5,18,Bay Fair,5
+5,18,Civic Center/UN Plaza,6
+5,18,Coliseum,14
+5,18,Concord,3
+5,18,Daly City,5
+5,18,Downtown Berkeley,2
+5,18,Dublin/Pleasanton,3
+5,18,El Cerrito Plaza,2
+5,18,El Cerrito del Norte,5
+5,18,Embarcadero,5
+5,18,Fremont,4
+5,18,Fruitvale,4
+5,18,Glen Park,2
+5,18,Hayward,4
+5,18,Lafayette,1
+5,18,Lake Merritt,3
+5,18,MacArthur,4
+5,18,Millbrae,2
+5,18,North Berkeley,4
+5,18,North Concord/Martinez,2
+5,18,Orinda,1
+5,18,Pittsburg/Bay Point,8
+5,18,Pleasant Hill/Contra Costa Centre,2
+5,18,Powell St.,2
+5,18,Richmond,2
+5,18,Rockridge,5
+5,18,San Bruno,1
+5,18,San Francisco International Airport,2
+5,18,San Leandro,2
+5,18,South Hayward,1
+5,18,Union City,1
+5,18,West Oakland,4
+5,19,,3
+5,19,12th St. Oakland City Center,4
+5,19,16th St. Mission,4
+5,19,19th St. Oakland,1
+5,19,24th St. Mission,1
+5,19,Antioch,1
+5,19,Ashby,3
+5,19,Balboa Park,2
+5,19,Bay Fair,5
+5,19,Castro Valley,1
+5,19,Civic Center/UN Plaza,11
+5,19,Coliseum,15
+5,19,Colma,1
+5,19,Concord,3
+5,19,Daly City,1
+5,19,Downtown Berkeley,2
+5,19,Dublin/Pleasanton,3
+5,19,El Cerrito Plaza,3
+5,19,El Cerrito del Norte,6
+5,19,Embarcadero,3
+5,19,Fremont,2
+5,19,Fruitvale,5
+5,19,Glen Park,2
+5,19,Hayward,3
+5,19,Lake Merritt,7
+5,19,MacArthur,4
+5,19,Montgomery St.,2
+5,19,North Concord/Martinez,1
+5,19,Orinda,1
+5,19,Pittsburg/Bay Point,6
+5,19,Powell St.,11
+5,19,Richmond,5
+5,19,San Francisco International Airport,1
+5,19,San Leandro,6
+5,19,South Hayward,2
+5,19,South San Francisco,1
+5,19,Union City,2
+5,19,Walnut Creek,1
+5,20,12th St. Oakland City Center,2
+5,20,16th St. Mission,5
+5,20,19th St. Oakland,2
+5,20,Ashby,4
+5,20,Balboa Park,2
+5,20,Bay Fair,2
+5,20,Castro Valley,1
+5,20,Civic Center/UN Plaza,9
+5,20,Coliseum,17
+5,20,Concord,3
+5,20,Daly City,5
+5,20,Downtown Berkeley,1
+5,20,Dublin/Pleasanton,3
+5,20,El Cerrito del Norte,3
+5,20,Embarcadero,3
+5,20,Fremont,2
+5,20,Fruitvale,11
+5,20,Glen Park,2
+5,20,Hayward,4
+5,20,Lafayette,2
+5,20,Lake Merritt,5
+5,20,MacArthur,2
+5,20,Millbrae,3
+5,20,Montgomery St.,2
+5,20,North Berkeley,1
+5,20,Pittsburg/Bay Point,3
+5,20,Pleasant Hill/Contra Costa Centre,1
+5,20,Powell St.,4
+5,20,Richmond,3
+5,20,San Bruno,2
+5,20,San Francisco International Airport,2
+5,20,San Leandro,3
+5,20,South Hayward,4
+5,20,South San Francisco,1
+5,20,Union City,2
+5,20,Walnut Creek,3
+5,20,West Dublin/Pleasanton,1
+5,20,West Oakland,7
+5,21,,1
+5,21,12th St. Oakland City Center,7
+5,21,16th St. Mission,3
+5,21,19th St. Oakland,5
+5,21,Antioch,1
+5,21,Ashby,2
+5,21,Bay Fair,7
+5,21,Civic Center/UN Plaza,4
+5,21,Coliseum,15
+5,21,Colma,2
+5,21,Concord,4
+5,21,Daly City,2
+5,21,Downtown Berkeley,3
+5,21,Dublin/Pleasanton,6
+5,21,El Cerrito Plaza,2
+5,21,El Cerrito del Norte,5
+5,21,Embarcadero,2
+5,21,Fremont,3
+5,21,Fruitvale,6
+5,21,Glen Park,1
+5,21,Hayward,7
+5,21,Lafayette,2
+5,21,Lake Merritt,7
+5,21,MacArthur,4
+5,21,Millbrae,2
+5,21,North Berkeley,1
+5,21,Orinda,2
+5,21,Pittsburg/Bay Point,4
+5,21,Pleasant Hill/Contra Costa Centre,2
+5,21,Powell St.,10
+5,21,Richmond,4
+5,21,Rockridge,1
+5,21,San Bruno,2
+5,21,San Francisco International Airport,1
+5,21,San Leandro,4
+5,21,South Hayward,3
+5,21,Union City,1
+5,21,Walnut Creek,3
+5,21,West Oakland,5
+5,22,,1
+5,22,12th St. Oakland City Center,2
+5,22,16th St. Mission,3
+5,22,19th St. Oakland,2
+5,22,24th St. Mission,2
+5,22,Antioch,1
+5,22,Ashby,2
+5,22,Balboa Park,2
+5,22,Bay Fair,13
+5,22,Castro Valley,1
+5,22,Civic Center/UN Plaza,4
+5,22,Coliseum,6
+5,22,Concord,4
+5,22,Daly City,9
+5,22,Downtown Berkeley,1
+5,22,Dublin/Pleasanton,3
+5,22,El Cerrito Plaza,1
+5,22,El Cerrito del Norte,6
+5,22,Embarcadero,4
+5,22,Fremont,2
+5,22,Fruitvale,5
+5,22,Glen Park,2
+5,22,Hayward,4
+5,22,Lafayette,4
+5,22,Lake Merritt,3
+5,22,MacArthur,4
+5,22,Montgomery St.,5
+5,22,North Berkeley,2
+5,22,North Concord/Martinez,3
+5,22,Orinda,2
+5,22,Pittsburg/Bay Point,6
+5,22,Pleasant Hill/Contra Costa Centre,4
+5,22,Powell St.,6
+5,22,Richmond,4
+5,22,San Bruno,2
+5,22,San Leandro,5
+5,22,South Hayward,7
+5,22,South San Francisco,1
+5,22,Union City,4
+5,22,Walnut Creek,6
+5,22,West Dublin/Pleasanton,1
+5,22,West Oakland,7
+5,23,,1
+5,23,12th St. Oakland City Center,5
+5,23,16th St. Mission,2
+5,23,19th St. Oakland,4
+5,23,24th St. Mission,1
+5,23,Antioch,2
+5,23,Ashby,7
+5,23,Balboa Park,3
+5,23,Bay Fair,8
+5,23,Castro Valley,1
+5,23,Civic Center/UN Plaza,10
+5,23,Coliseum,15
+5,23,Colma,1
+5,23,Concord,6
+5,23,Daly City,6
+5,23,Downtown Berkeley,3
+5,23,Dublin/Pleasanton,3
+5,23,El Cerrito Plaza,3
+5,23,El Cerrito del Norte,8
+5,23,Embarcadero,2
+5,23,Fremont,4
+5,23,Fruitvale,17
+5,23,Glen Park,1
+5,23,Hayward,10
+5,23,Lafayette,4
+5,23,Lake Merritt,5
+5,23,MacArthur,6
+5,23,Millbrae,2
+5,23,North Berkeley,2
+5,23,North Concord/Martinez,1
+5,23,Orinda,1
+5,23,Pittsburg/Bay Point,12
+5,23,Pleasant Hill/Contra Costa Centre,5
+5,23,Powell St.,5
+5,23,Richmond,8
+5,23,San Bruno,1
+5,23,San Leandro,6
+5,23,South Hayward,4
+5,23,South San Francisco,5
+5,23,Union City,8
+5,23,Walnut Creek,10
+5,23,West Dublin/Pleasanton,3
+5,23,West Oakland,7
+6,0,,2
+6,0,12th St. Oakland City Center,3
+6,0,16th St. Mission,1
+6,0,19th St. Oakland,7
+6,0,24th St. Mission,1
+6,0,Antioch,4
+6,0,Ashby,11
+6,0,Balboa Park,4
+6,0,Bay Fair,11
+6,0,Castro Valley,2
+6,0,Civic Center/UN Plaza,5
+6,0,Coliseum,15
+6,0,Colma,2
+6,0,Concord,8
+6,0,Daly City,7
+6,0,Downtown Berkeley,1
+6,0,Dublin/Pleasanton,12
+6,0,El Cerrito Plaza,4
+6,0,El Cerrito del Norte,9
+6,0,Embarcadero,6
+6,0,Fremont,4
+6,0,Fruitvale,16
+6,0,Glen Park,1
+6,0,Hayward,15
+6,0,Lafayette,3
+6,0,Lake Merritt,9
+6,0,MacArthur,10
+6,0,Millbrae,2
+6,0,North Berkeley,1
+6,0,North Concord/Martinez,8
+6,0,Orinda,5
+6,0,Pittsburg/Bay Point,17
+6,0,Pleasant Hill/Contra Costa Centre,3
+6,0,Powell St.,8
+6,0,Richmond,7
+6,0,Rockridge,4
+6,0,San Bruno,1
+6,0,San Leandro,8
+6,0,South Hayward,14
+6,0,South San Francisco,3
+6,0,Union City,2
+6,0,Walnut Creek,5
+6,0,West Dublin/Pleasanton,4
+6,0,West Oakland,6
+6,1,,2
+6,1,12th St. Oakland City Center,2
+6,1,16th St. Mission,3
+6,1,19th St. Oakland,4
+6,1,24th St. Mission,1
+6,1,Antioch,2
+6,1,Ashby,6
+6,1,Balboa Park,1
+6,1,Bay Fair,22
+6,1,Castro Valley,5
+6,1,Civic Center/UN Plaza,7
+6,1,Coliseum,17
+6,1,Concord,8
+6,1,Daly City,10
+6,1,Downtown Berkeley,5
+6,1,Dublin/Pleasanton,15
+6,1,El Cerrito Plaza,2
+6,1,El Cerrito del Norte,9
+6,1,Embarcadero,3
+6,1,Fremont,9
+6,1,Fruitvale,10
+6,1,Glen Park,2
+6,1,Hayward,9
+6,1,Lafayette,5
+6,1,Lake Merritt,3
+6,1,MacArthur,12
+6,1,Montgomery St.,2
+6,1,North Berkeley,4
+6,1,North Concord/Martinez,6
+6,1,Orinda,6
+6,1,Pittsburg/Bay Point,14
+6,1,Pleasant Hill/Contra Costa Centre,5
+6,1,Powell St.,7
+6,1,Richmond,6
+6,1,Rockridge,4
+6,1,San Bruno,1
+6,1,San Leandro,4
+6,1,South Hayward,12
+6,1,South San Francisco,3
+6,1,Union City,3
+6,1,Walnut Creek,9
+6,1,West Dublin/Pleasanton,4
+6,1,West Oakland,11
+6,2,,1
+6,2,12th St. Oakland City Center,8
+6,2,16th St. Mission,5
+6,2,19th St. Oakland,7
+6,2,24th St. Mission,2
+6,2,Antioch,1
+6,2,Ashby,10
+6,2,Balboa Park,1
+6,2,Bay Fair,11
+6,2,Castro Valley,2
+6,2,Civic Center/UN Plaza,4
+6,2,Coliseum,14
+6,2,Colma,1
+6,2,Concord,14
+6,2,Daly City,3
+6,2,Downtown Berkeley,3
+6,2,Dublin/Pleasanton,13
+6,2,El Cerrito Plaza,2
+6,2,El Cerrito del Norte,11
+6,2,Embarcadero,2
+6,2,Fremont,10
+6,2,Fruitvale,11
+6,2,Glen Park,3
+6,2,Hayward,11
+6,2,Lafayette,4
+6,2,Lake Merritt,4
+6,2,MacArthur,5
+6,2,Millbrae,3
+6,2,Montgomery St.,4
+6,2,North Berkeley,3
+6,2,North Concord/Martinez,7
+6,2,Orinda,1
+6,2,Pittsburg/Bay Point,10
+6,2,Pleasant Hill/Contra Costa Centre,6
+6,2,Powell St.,9
+6,2,Richmond,8
+6,2,Rockridge,4
+6,2,San Bruno,4
+6,2,San Leandro,11
+6,2,South Hayward,2
+6,2,South San Francisco,4
+6,2,Union City,1
+6,2,Walnut Creek,8
+6,2,West Dublin/Pleasanton,2
+6,2,West Oakland,12
+6,3,,1
+6,3,12th St. Oakland City Center,3
+6,3,16th St. Mission,1
+6,3,19th St. Oakland,3
+6,3,24th St. Mission,1
+6,3,Ashby,5
+6,3,Balboa Park,1
+6,3,Bay Fair,12
+6,3,Castro Valley,2
+6,3,Civic Center/UN Plaza,11
+6,3,Coliseum,14
+6,3,Colma,2
+6,3,Concord,7
+6,3,Daly City,10
+6,3,Downtown Berkeley,2
+6,3,Dublin/Pleasanton,4
+6,3,El Cerrito Plaza,2
+6,3,El Cerrito del Norte,8
+6,3,Embarcadero,3
+6,3,Fremont,6
+6,3,Fruitvale,15
+6,3,Glen Park,2
+6,3,Hayward,12
+6,3,Lafayette,3
+6,3,Lake Merritt,5
+6,3,MacArthur,6
+6,3,Millbrae,1
+6,3,Montgomery St.,1
+6,3,North Berkeley,4
+6,3,North Concord/Martinez,5
+6,3,Orinda,1
+6,3,Pittsburg/Bay Point,8
+6,3,Pleasant Hill/Contra Costa Centre,3
+6,3,Powell St.,12
+6,3,Richmond,7
+6,3,Rockridge,6
+6,3,San Bruno,2
+6,3,San Francisco International Airport,1
+6,3,San Leandro,11
+6,3,South Hayward,10
+6,3,Union City,2
+6,3,Walnut Creek,4
+6,3,West Dublin/Pleasanton,3
+6,3,West Oakland,5
+6,4,,3
+6,4,12th St. Oakland City Center,3
+6,4,16th St. Mission,3
+6,4,19th St. Oakland,5
+6,4,Ashby,8
+6,4,Balboa Park,3
+6,4,Bay Fair,16
+6,4,Castro Valley,1
+6,4,Civic Center/UN Plaza,8
+6,4,Coliseum,11
+6,4,Colma,1
+6,4,Concord,5
+6,4,Daly City,7
+6,4,Downtown Berkeley,1
+6,4,Dublin/Pleasanton,4
+6,4,El Cerrito Plaza,4
+6,4,El Cerrito del Norte,6
+6,4,Embarcadero,3
+6,4,Fremont,4
+6,4,Fruitvale,8
+6,4,Hayward,10
+6,4,Lafayette,2
+6,4,Lake Merritt,4
+6,4,MacArthur,4
+6,4,Millbrae,3
+6,4,North Berkeley,5
+6,4,North Concord/Martinez,4
+6,4,Orinda,7
+6,4,Pittsburg/Bay Point,9
+6,4,Pleasant Hill/Contra Costa Centre,1
+6,4,Powell St.,11
+6,4,Richmond,9
+6,4,Rockridge,7
+6,4,San Leandro,3
+6,4,South Hayward,4
+6,4,South San Francisco,1
+6,4,Union City,4
+6,4,Walnut Creek,5
+6,4,West Dublin/Pleasanton,1
+6,4,West Oakland,4
+6,5,,2
+6,5,12th St. Oakland City Center,3
+6,5,16th St. Mission,5
+6,5,19th St. Oakland,4
+6,5,24th St. Mission,3
+6,5,Antioch,1
+6,5,Ashby,7
+6,5,Bay Fair,6
+6,5,Castro Valley,4
+6,5,Civic Center/UN Plaza,6
+6,5,Coliseum,12
+6,5,Concord,7
+6,5,Daly City,1
+6,5,Downtown Berkeley,2
+6,5,Dublin/Pleasanton,4
+6,5,El Cerrito del Norte,7
+6,5,Embarcadero,1
+6,5,Fremont,7
+6,5,Fruitvale,4
+6,5,Glen Park,2
+6,5,Hayward,5
+6,5,Lafayette,1
+6,5,Lake Merritt,1
+6,5,MacArthur,5
+6,5,Millbrae,4
+6,5,Montgomery St.,3
+6,5,North Berkeley,3
+6,5,North Concord/Martinez,3
+6,5,Orinda,2
+6,5,Pittsburg/Bay Point,2
+6,5,Pleasant Hill/Contra Costa Centre,2
+6,5,Powell St.,15
+6,5,Richmond,1
+6,5,Rockridge,2
+6,5,San Leandro,5
+6,5,South Hayward,1
+6,5,Walnut Creek,3
+6,5,West Oakland,7
+6,6,,4
+6,6,12th St. Oakland City Center,2
+6,6,16th St. Mission,4
+6,6,19th St. Oakland,4
+6,6,Antioch,1
+6,6,Ashby,4
+6,6,Balboa Park,2
+6,6,Bay Fair,6
+6,6,Castro Valley,2
+6,6,Civic Center/UN Plaza,2
+6,6,Coliseum,14
+6,6,Concord,6
+6,6,Daly City,6
+6,6,Downtown Berkeley,3
+6,6,Dublin/Pleasanton,5
+6,6,El Cerrito Plaza,3
+6,6,El Cerrito del Norte,5
+6,6,Embarcadero,1
+6,6,Fremont,4
+6,6,Fruitvale,9
+6,6,Hayward,10
+6,6,Lafayette,2
+6,6,Lake Merritt,4
+6,6,MacArthur,5
+6,6,Millbrae,1
+6,6,Montgomery St.,2
+6,6,North Berkeley,2
+6,6,North Concord/Martinez,3
+6,6,Orinda,3
+6,6,Pittsburg/Bay Point,7
+6,6,Pleasant Hill/Contra Costa Centre,1
+6,6,Powell St.,5
+6,6,Richmond,2
+6,6,Rockridge,1
+6,6,San Bruno,1
+6,6,San Leandro,5
+6,6,South Hayward,6
+6,6,South San Francisco,1
+6,6,Walnut Creek,3
+6,6,West Dublin/Pleasanton,2
+6,6,West Oakland,3
+6,7,,2
+6,7,12th St. Oakland City Center,5
+6,7,16th St. Mission,1
+6,7,19th St. Oakland,3
+6,7,24th St. Mission,2
+6,7,Ashby,6
+6,7,Bay Fair,9
+6,7,Castro Valley,2
+6,7,Civic Center/UN Plaza,5
+6,7,Coliseum,11
+6,7,Colma,1
+6,7,Concord,2
+6,7,Daly City,3
+6,7,Downtown Berkeley,1
+6,7,Dublin/Pleasanton,3
+6,7,El Cerrito Plaza,1
+6,7,El Cerrito del Norte,5
+6,7,Embarcadero,1
+6,7,Fremont,2
+6,7,Fruitvale,7
+6,7,Hayward,5
+6,7,Lafayette,4
+6,7,Lake Merritt,1
+6,7,MacArthur,2
+6,7,Millbrae,2
+6,7,Montgomery St.,1
+6,7,North Berkeley,1
+6,7,North Concord/Martinez,3
+6,7,Orinda,1
+6,7,Pittsburg/Bay Point,5
+6,7,Pleasant Hill/Contra Costa Centre,4
+6,7,Powell St.,12
+6,7,Richmond,3
+6,7,Rockridge,2
+6,7,San Bruno,1
+6,7,San Francisco International Airport,1
+6,7,San Leandro,2
+6,7,South Hayward,3
+6,7,South San Francisco,2
+6,7,Union City,1
+6,7,Walnut Creek,3
+6,7,Warm Springs/South Fremont,1
+6,7,West Dublin/Pleasanton,2
+6,7,West Oakland,8
+6,8,,1
+6,8,12th St. Oakland City Center,1
+6,8,16th St. Mission,1
+6,8,19th St. Oakland,2
+6,8,24th St. Mission,1
+6,8,Antioch,1
+6,8,Ashby,4
+6,8,Balboa Park,1
+6,8,Bay Fair,8
+6,8,Castro Valley,1
+6,8,Civic Center/UN Plaza,3
+6,8,Coliseum,4
+6,8,Colma,2
+6,8,Concord,2
+6,8,Downtown Berkeley,1
+6,8,Dublin/Pleasanton,5
+6,8,El Cerrito Plaza,2
+6,8,El Cerrito del Norte,4
+6,8,Embarcadero,3
+6,8,Fremont,5
+6,8,Fruitvale,4
+6,8,Hayward,2
+6,8,Lafayette,1
+6,8,Lake Merritt,2
+6,8,MacArthur,6
+6,8,Millbrae,2
+6,8,Montgomery St.,1
+6,8,North Berkeley,1
+6,8,North Concord/Martinez,1
+6,8,Pittsburg/Bay Point,8
+6,8,Pleasant Hill/Contra Costa Centre,3
+6,8,Powell St.,3
+6,8,Richmond,8
+6,8,San Bruno,2
+6,8,San Francisco International Airport,3
+6,8,San Leandro,2
+6,8,South Hayward,3
+6,8,Union City,2
+6,8,Walnut Creek,4
+6,8,Warm Springs/South Fremont,1
+6,8,West Dublin/Pleasanton,1
+6,8,West Oakland,5
+6,9,,1
+6,9,12th St. Oakland City Center,3
+6,9,16th St. Mission,1
+6,9,19th St. Oakland,1
+6,9,24th St. Mission,1
+6,9,Ashby,1
+6,9,Bay Fair,1
+6,9,Civic Center/UN Plaza,1
+6,9,Coliseum,6
+6,9,Concord,1
+6,9,Daly City,1
+6,9,Dublin/Pleasanton,2
+6,9,El Cerrito Plaza,1
+6,9,El Cerrito del Norte,4
+6,9,Embarcadero,1
+6,9,Fremont,3
+6,9,Fruitvale,2
+6,9,Hayward,3
+6,9,Lafayette,1
+6,9,Lake Merritt,3
+6,9,MacArthur,2
+6,9,North Concord/Martinez,1
+6,9,Orinda,1
+6,9,Pittsburg/Bay Point,6
+6,9,Powell St.,1
+6,9,Richmond,2
+6,9,San Francisco International Airport,4
+6,9,San Leandro,4
+6,9,South Hayward,4
+6,9,Union City,1
+6,9,Walnut Creek,2
+6,9,West Oakland,4
+6,10,12th St. Oakland City Center,1
+6,10,19th St. Oakland,3
+6,10,Antioch,1
+6,10,Ashby,1
+6,10,Balboa Park,1
+6,10,Bay Fair,5
+6,10,Castro Valley,1
+6,10,Civic Center/UN Plaza,1
+6,10,Coliseum,7
+6,10,Concord,3
+6,10,Downtown Berkeley,2
+6,10,Dublin/Pleasanton,2
+6,10,El Cerrito Plaza,2
+6,10,Fremont,1
+6,10,Fruitvale,3
+6,10,Hayward,2
+6,10,Lake Merritt,2
+6,10,MacArthur,1
+6,10,North Berkeley,1
+6,10,Pittsburg/Bay Point,1
+6,10,Powell St.,1
+6,10,Richmond,3
+6,10,San Francisco International Airport,2
+6,10,San Leandro,2
+6,10,South Hayward,1
+6,10,West Dublin/Pleasanton,1
+6,10,West Oakland,1
+6,11,,3
+6,11,12th St. Oakland City Center,3
+6,11,16th St. Mission,1
+6,11,19th St. Oakland,2
+6,11,Balboa Park,1
+6,11,Bay Fair,2
+6,11,Castro Valley,1
+6,11,Civic Center/UN Plaza,2
+6,11,Coliseum,9
+6,11,Concord,1
+6,11,Daly City,3
+6,11,El Cerrito del Norte,2
+6,11,Fremont,2
+6,11,Fruitvale,2
+6,11,Hayward,3
+6,11,Lafayette,3
+6,11,MacArthur,4
+6,11,Millbrae,1
+6,11,Pittsburg/Bay Point,5
+6,11,Pleasant Hill/Contra Costa Centre,1
+6,11,Richmond,2
+6,11,Rockridge,1
+6,11,San Francisco International Airport,2
+6,11,San Leandro,3
+6,11,Union City,2
+6,11,Walnut Creek,2
+6,11,West Oakland,2
+6,12,,2
+6,12,12th St. Oakland City Center,2
+6,12,19th St. Oakland,2
+6,12,Antioch,1
+6,12,Ashby,2
+6,12,Balboa Park,1
+6,12,Bay Fair,4
+6,12,Castro Valley,1
+6,12,Civic Center/UN Plaza,1
+6,12,Coliseum,4
+6,12,Colma,1
+6,12,Dublin/Pleasanton,2
+6,12,El Cerrito del Norte,1
+6,12,Embarcadero,2
+6,12,Fremont,2
+6,12,Fruitvale,2
+6,12,Glen Park,1
+6,12,Hayward,1
+6,12,Lake Merritt,2
+6,12,MacArthur,3
+6,12,Millbrae,1
+6,12,Montgomery St.,1
+6,12,North Berkeley,2
+6,12,North Concord/Martinez,3
+6,12,Pittsburg/Bay Point,6
+6,12,Powell St.,2
+6,12,Richmond,5
+6,12,Rockridge,4
+6,12,San Francisco International Airport,2
+6,12,San Leandro,2
+6,12,Union City,1
+6,12,Walnut Creek,3
+6,12,West Oakland,3
+6,13,,2
+6,13,12th St. Oakland City Center,1
+6,13,16th St. Mission,1
+6,13,19th St. Oakland,1
+6,13,Ashby,1
+6,13,Bay Fair,4
+6,13,Castro Valley,1
+6,13,Coliseum,2
+6,13,Colma,1
+6,13,Concord,3
+6,13,Daly City,2
+6,13,El Cerrito Plaza,1
+6,13,El Cerrito del Norte,1
+6,13,Embarcadero,1
+6,13,Fruitvale,1
+6,13,Glen Park,1
+6,13,Hayward,3
+6,13,Lafayette,1
+6,13,Lake Merritt,3
+6,13,MacArthur,1
+6,13,Montgomery St.,2
+6,13,North Berkeley,1
+6,13,North Concord/Martinez,1
+6,13,Pittsburg/Bay Point,1
+6,13,Pleasant Hill/Contra Costa Centre,2
+6,13,Powell St.,3
+6,13,Richmond,1
+6,13,Rockridge,2
+6,13,San Francisco International Airport,1
+6,13,West Oakland,1
+6,14,12th St. Oakland City Center,4
+6,14,16th St. Mission,1
+6,14,19th St. Oakland,3
+6,14,Balboa Park,1
+6,14,Bay Fair,3
+6,14,Civic Center/UN Plaza,2
+6,14,Coliseum,5
+6,14,Colma,2
+6,14,Concord,3
+6,14,Daly City,5
+6,14,Downtown Berkeley,1
+6,14,Dublin/Pleasanton,1
+6,14,El Cerrito del Norte,2
+6,14,Embarcadero,2
+6,14,Fremont,3
+6,14,Fruitvale,4
+6,14,Hayward,5
+6,14,Lafayette,1
+6,14,Lake Merritt,3
+6,14,MacArthur,3
+6,14,Millbrae,1
+6,14,North Berkeley,1
+6,14,North Concord/Martinez,1
+6,14,Orinda,2
+6,14,Pittsburg/Bay Point,2
+6,14,Pleasant Hill/Contra Costa Centre,4
+6,14,Powell St.,8
+6,14,Richmond,2
+6,14,Rockridge,1
+6,14,San Leandro,2
+6,14,South Hayward,3
+6,14,Union City,1
+6,14,Walnut Creek,3
+6,14,West Oakland,4
+6,15,,5
+6,15,Antioch,1
+6,15,Ashby,3
+6,15,Bay Fair,2
+6,15,Castro Valley,1
+6,15,Civic Center/UN Plaza,5
+6,15,Coliseum,9
+6,15,Colma,1
+6,15,Concord,3
+6,15,Daly City,5
+6,15,Downtown Berkeley,2
+6,15,Dublin/Pleasanton,3
+6,15,El Cerrito Plaza,1
+6,15,Embarcadero,3
+6,15,Fremont,1
+6,15,Fruitvale,4
+6,15,Glen Park,1
+6,15,Hayward,4
+6,15,Lafayette,2
+6,15,Lake Merritt,1
+6,15,MacArthur,3
+6,15,Millbrae,1
+6,15,Montgomery St.,1
+6,15,North Concord/Martinez,1
+6,15,Pittsburg/Bay Point,5
+6,15,Pleasant Hill/Contra Costa Centre,2
+6,15,Powell St.,11
+6,15,Richmond,3
+6,15,Rockridge,1
+6,15,San Leandro,1
+6,15,South Hayward,1
+6,15,Union City,2
+6,15,Walnut Creek,3
+6,15,West Oakland,2
+6,16,,2
+6,16,12th St. Oakland City Center,4
+6,16,16th St. Mission,1
+6,16,Ashby,2
+6,16,Balboa Park,5
+6,16,Bay Fair,2
+6,16,Castro Valley,1
+6,16,Civic Center/UN Plaza,9
+6,16,Coliseum,9
+6,16,Colma,1
+6,16,Concord,4
+6,16,Downtown Berkeley,3
+6,16,Dublin/Pleasanton,1
+6,16,El Cerrito del Norte,4
+6,16,Embarcadero,1
+6,16,Fremont,3
+6,16,Fruitvale,2
+6,16,Glen Park,1
+6,16,Hayward,6
+6,16,Lafayette,3
+6,16,Lake Merritt,4
+6,16,MacArthur,3
+6,16,Montgomery St.,2
+6,16,North Berkeley,1
+6,16,North Concord/Martinez,2
+6,16,Pittsburg/Bay Point,4
+6,16,Pleasant Hill/Contra Costa Centre,3
+6,16,Powell St.,8
+6,16,Richmond,4
+6,16,Rockridge,4
+6,16,San Bruno,1
+6,16,San Leandro,4
+6,16,South Hayward,1
+6,16,South San Francisco,2
+6,16,Union City,1
+6,16,Walnut Creek,1
+6,16,Warm Springs/South Fremont,1
+6,16,West Dublin/Pleasanton,1
+6,16,West Oakland,7
+6,17,,2
+6,17,12th St. Oakland City Center,3
+6,17,16th St. Mission,2
+6,17,19th St. Oakland,1
+6,17,Ashby,2
+6,17,Bay Fair,4
+6,17,Civic Center/UN Plaza,4
+6,17,Coliseum,8
+6,17,Colma,1
+6,17,Concord,5
+6,17,Daly City,3
+6,17,Downtown Berkeley,6
+6,17,Dublin/Pleasanton,2
+6,17,El Cerrito Plaza,1
+6,17,El Cerrito del Norte,2
+6,17,Embarcadero,4
+6,17,Fremont,3
+6,17,Fruitvale,3
+6,17,Glen Park,1
+6,17,Hayward,9
+6,17,Lake Merritt,4
+6,17,MacArthur,7
+6,17,Millbrae,2
+6,17,Montgomery St.,2
+6,17,Orinda,1
+6,17,Pittsburg/Bay Point,8
+6,17,Pleasant Hill/Contra Costa Centre,3
+6,17,Powell St.,9
+6,17,Richmond,5
+6,17,Rockridge,1
+6,17,San Francisco International Airport,1
+6,17,San Leandro,1
+6,17,South Hayward,3
+6,17,Union City,2
+6,17,Walnut Creek,2
+6,17,West Dublin/Pleasanton,1
+6,17,West Oakland,6
+6,18,,5
+6,18,12th St. Oakland City Center,3
+6,18,16th St. Mission,2
+6,18,19th St. Oakland,7
+6,18,Ashby,8
+6,18,Balboa Park,2
+6,18,Bay Fair,9
+6,18,Castro Valley,4
+6,18,Civic Center/UN Plaza,4
+6,18,Coliseum,9
+6,18,Colma,1
+6,18,Concord,5
+6,18,Daly City,2
+6,18,Downtown Berkeley,1
+6,18,Dublin/Pleasanton,3
+6,18,El Cerrito Plaza,1
+6,18,El Cerrito del Norte,7
+6,18,Embarcadero,2
+6,18,Fremont,1
+6,18,Fruitvale,6
+6,18,Glen Park,1
+6,18,Hayward,7
+6,18,Lafayette,4
+6,18,Lake Merritt,4
+6,18,MacArthur,5
+6,18,Millbrae,3
+6,18,Montgomery St.,1
+6,18,North Berkeley,3
+6,18,North Concord/Martinez,3
+6,18,Orinda,1
+6,18,Pittsburg/Bay Point,4
+6,18,Pleasant Hill/Contra Costa Centre,3
+6,18,Powell St.,7
+6,18,Richmond,2
+6,18,Rockridge,3
+6,18,San Francisco International Airport,1
+6,18,San Leandro,4
+6,18,South Hayward,2
+6,18,Union City,1
+6,18,Walnut Creek,4
+6,18,West Dublin/Pleasanton,1
+6,18,West Oakland,4
+6,19,,2
+6,19,12th St. Oakland City Center,3
+6,19,16th St. Mission,1
+6,19,19th St. Oakland,1
+6,19,24th St. Mission,3
+6,19,Ashby,4
+6,19,Balboa Park,5
+6,19,Bay Fair,3
+6,19,Castro Valley,3
+6,19,Civic Center/UN Plaza,5
+6,19,Coliseum,11
+6,19,Colma,1
+6,19,Concord,4
+6,19,Daly City,1
+6,19,Downtown Berkeley,1
+6,19,Dublin/Pleasanton,4
+6,19,El Cerrito Plaza,4
+6,19,El Cerrito del Norte,7
+6,19,Embarcadero,3
+6,19,Fremont,2
+6,19,Fruitvale,4
+6,19,Glen Park,2
+6,19,Hayward,4
+6,19,Lafayette,1
+6,19,Lake Merritt,4
+6,19,MacArthur,3
+6,19,Millbrae,2
+6,19,North Berkeley,1
+6,19,North Concord/Martinez,7
+6,19,Pittsburg/Bay Point,7
+6,19,Pleasant Hill/Contra Costa Centre,2
+6,19,Powell St.,12
+6,19,Richmond,4
+6,19,Rockridge,3
+6,19,San Francisco International Airport,2
+6,19,San Leandro,2
+6,19,South Hayward,1
+6,19,Union City,2
+6,19,Walnut Creek,1
+6,19,West Dublin/Pleasanton,1
+6,19,West Oakland,9
+6,20,,1
+6,20,12th St. Oakland City Center,1
+6,20,16th St. Mission,1
+6,20,24th St. Mission,2
+6,20,Ashby,4
+6,20,Balboa Park,2
+6,20,Bay Fair,4
+6,20,Castro Valley,2
+6,20,Civic Center/UN Plaza,9
+6,20,Coliseum,9
+6,20,Colma,1
+6,20,Concord,7
+6,20,Daly City,8
+6,20,Downtown Berkeley,1
+6,20,Dublin/Pleasanton,1
+6,20,El Cerrito del Norte,4
+6,20,Embarcadero,1
+6,20,Fremont,3
+6,20,Fruitvale,8
+6,20,Glen Park,1
+6,20,Hayward,10
+6,20,Lafayette,1
+6,20,Lake Merritt,8
+6,20,MacArthur,9
+6,20,North Berkeley,3
+6,20,North Concord/Martinez,1
+6,20,Orinda,2
+6,20,Pittsburg/Bay Point,4
+6,20,Pleasant Hill/Contra Costa Centre,4
+6,20,Powell St.,8
+6,20,Richmond,3
+6,20,Rockridge,1
+6,20,San Francisco International Airport,2
+6,20,San Leandro,5
+6,20,South Hayward,1
+6,20,South San Francisco,1
+6,20,Union City,1
+6,20,Walnut Creek,2
+6,20,West Oakland,7
+6,21,,2
+6,21,12th St. Oakland City Center,3
+6,21,16th St. Mission,6
+6,21,19th St. Oakland,3
+6,21,24th St. Mission,1
+6,21,Ashby,7
+6,21,Bay Fair,6
+6,21,Castro Valley,1
+6,21,Civic Center/UN Plaza,6
+6,21,Coliseum,10
+6,21,Colma,1
+6,21,Concord,9
+6,21,Daly City,2
+6,21,Downtown Berkeley,2
+6,21,Dublin/Pleasanton,4
+6,21,El Cerrito del Norte,7
+6,21,Embarcadero,5
+6,21,Fremont,4
+6,21,Fruitvale,9
+6,21,Glen Park,3
+6,21,Hayward,11
+6,21,Lafayette,2
+6,21,Lake Merritt,3
+6,21,MacArthur,8
+6,21,Millbrae,3
+6,21,Montgomery St.,1
+6,21,North Berkeley,2
+6,21,North Concord/Martinez,1
+6,21,Orinda,3
+6,21,Pittsburg/Bay Point,6
+6,21,Pleasant Hill/Contra Costa Centre,2
+6,21,Powell St.,12
+6,21,Richmond,6
+6,21,San Leandro,5
+6,21,South Hayward,4
+6,21,Union City,2
+6,21,Walnut Creek,4
+6,21,West Dublin/Pleasanton,2
+6,21,West Oakland,4
+6,22,,1
+6,22,12th St. Oakland City Center,2
+6,22,16th St. Mission,2
+6,22,19th St. Oakland,4
+6,22,24th St. Mission,4
+6,22,Ashby,7
+6,22,Balboa Park,3
+6,22,Bay Fair,7
+6,22,Civic Center/UN Plaza,7
+6,22,Coliseum,15
+6,22,Colma,1
+6,22,Concord,7
+6,22,Daly City,1
+6,22,Downtown Berkeley,4
+6,22,Dublin/Pleasanton,2
+6,22,El Cerrito Plaza,2
+6,22,El Cerrito del Norte,9
+6,22,Embarcadero,4
+6,22,Fremont,3
+6,22,Fruitvale,7
+6,22,Glen Park,1
+6,22,Hayward,6
+6,22,Lafayette,3
+6,22,Lake Merritt,5
+6,22,MacArthur,8
+6,22,Montgomery St.,1
+6,22,North Berkeley,1
+6,22,North Concord/Martinez,2
+6,22,Orinda,1
+6,22,Pittsburg/Bay Point,6
+6,22,Pleasant Hill/Contra Costa Centre,4
+6,22,Powell St.,10
+6,22,Richmond,6
+6,22,Rockridge,2
+6,22,San Francisco International Airport,1
+6,22,San Leandro,6
+6,22,South Hayward,3
+6,22,South San Francisco,1
+6,22,Union City,1
+6,22,Walnut Creek,3
+6,22,West Dublin/Pleasanton,2
+6,22,West Oakland,3
+6,23,,3
+6,23,12th St. Oakland City Center,8
+6,23,16th St. Mission,1
+6,23,19th St. Oakland,2
+6,23,24th St. Mission,2
+6,23,Antioch,1
+6,23,Ashby,5
+6,23,Balboa Park,3
+6,23,Bay Fair,8
+6,23,Castro Valley,3
+6,23,Civic Center/UN Plaza,8
+6,23,Coliseum,9
+6,23,Concord,6
+6,23,Daly City,3
+6,23,Downtown Berkeley,2
+6,23,Dublin/Pleasanton,5
+6,23,El Cerrito Plaza,3
+6,23,El Cerrito del Norte,9
+6,23,Embarcadero,2
+6,23,Fremont,3
+6,23,Fruitvale,14
+6,23,Glen Park,2
+6,23,Hayward,5
+6,23,Lafayette,5
+6,23,Lake Merritt,4
+6,23,MacArthur,3
+6,23,Millbrae,1
+6,23,North Concord/Martinez,4
+6,23,Orinda,2
+6,23,Pittsburg Center,1
+6,23,Pittsburg/Bay Point,11
+6,23,Pleasant Hill/Contra Costa Centre,4
+6,23,Powell St.,23
+6,23,Richmond,6
+6,23,Rockridge,3
+6,23,San Bruno,3
+6,23,San Leandro,4
+6,23,South Hayward,2
+6,23,South San Francisco,1
+6,23,Union City,2
+6,23,West Dublin/Pleasanton,2
+6,23,West Oakland,4
+7,0,,1
+7,0,12th St. Oakland City Center,7
+7,0,16th St. Mission,2
+7,0,19th St. Oakland,8
+7,0,24th St. Mission,6
+7,0,Ashby,9
+7,0,Balboa Park,3
+7,0,Bay Fair,12
+7,0,Castro Valley,1
+7,0,Civic Center/UN Plaza,5
+7,0,Coliseum,12
+7,0,Colma,1
+7,0,Concord,7
+7,0,Daly City,4
+7,0,Downtown Berkeley,4
+7,0,Dublin/Pleasanton,4
+7,0,El Cerrito Plaza,4
+7,0,El Cerrito del Norte,12
+7,0,Embarcadero,4
+7,0,Fremont,3
+7,0,Fruitvale,21
+7,0,Glen Park,1
+7,0,Hayward,10
+7,0,Lafayette,4
+7,0,Lake Merritt,2
+7,0,MacArthur,4
+7,0,Millbrae,1
+7,0,North Berkeley,2
+7,0,North Concord/Martinez,3
+7,0,Orinda,1
+7,0,Pittsburg/Bay Point,8
+7,0,Pleasant Hill/Contra Costa Centre,2
+7,0,Powell St.,12
+7,0,Richmond,3
+7,0,Rockridge,1
+7,0,San Bruno,1
+7,0,San Leandro,7
+7,0,South Hayward,5
+7,0,South San Francisco,4
+7,0,Union City,1
+7,0,Walnut Creek,3
+7,0,West Dublin/Pleasanton,4
+7,0,West Oakland,7
+7,1,,4
+7,1,12th St. Oakland City Center,6
+7,1,16th St. Mission,1
+7,1,19th St. Oakland,5
+7,1,24th St. Mission,5
+7,1,Ashby,4
+7,1,Bay Fair,13
+7,1,Castro Valley,1
+7,1,Civic Center/UN Plaza,10
+7,1,Coliseum,17
+7,1,Colma,2
+7,1,Concord,4
+7,1,Daly City,5
+7,1,Dublin/Pleasanton,3
+7,1,El Cerrito del Norte,8
+7,1,Embarcadero,6
+7,1,Fremont,3
+7,1,Fruitvale,15
+7,1,Glen Park,1
+7,1,Hayward,9
+7,1,Lake Merritt,11
+7,1,MacArthur,13
+7,1,Millbrae,2
+7,1,Montgomery St.,2
+7,1,North Berkeley,3
+7,1,North Concord/Martinez,4
+7,1,Orinda,3
+7,1,Pittsburg/Bay Point,7
+7,1,Pleasant Hill/Contra Costa Centre,1
+7,1,Powell St.,12
+7,1,Richmond,14
+7,1,Rockridge,3
+7,1,San Bruno,1
+7,1,San Francisco International Airport,1
+7,1,San Leandro,9
+7,1,South Hayward,4
+7,1,South San Francisco,1
+7,1,Union City,2
+7,1,Walnut Creek,3
+7,1,West Dublin/Pleasanton,2
+7,1,West Oakland,13
+7,2,,1
+7,2,12th St. Oakland City Center,6
+7,2,16th St. Mission,2
+7,2,19th St. Oakland,4
+7,2,24th St. Mission,2
+7,2,Ashby,5
+7,2,Balboa Park,1
+7,2,Bay Fair,14
+7,2,Castro Valley,1
+7,2,Civic Center/UN Plaza,6
+7,2,Coliseum,17
+7,2,Concord,6
+7,2,Daly City,3
+7,2,Downtown Berkeley,4
+7,2,Dublin/Pleasanton,6
+7,2,El Cerrito Plaza,5
+7,2,El Cerrito del Norte,10
+7,2,Embarcadero,1
+7,2,Fremont,6
+7,2,Fruitvale,11
+7,2,Glen Park,1
+7,2,Hayward,4
+7,2,Lafayette,2
+7,2,Lake Merritt,4
+7,2,MacArthur,6
+7,2,Millbrae,1
+7,2,North Berkeley,6
+7,2,North Concord/Martinez,2
+7,2,Pittsburg/Bay Point,11
+7,2,Powell St.,18
+7,2,Richmond,5
+7,2,Rockridge,3
+7,2,San Bruno,2
+7,2,San Leandro,5
+7,2,South San Francisco,1
+7,2,Union City,6
+7,2,Walnut Creek,8
+7,2,West Dublin/Pleasanton,1
+7,2,West Oakland,12
+7,3,12th St. Oakland City Center,3
+7,3,16th St. Mission,2
+7,3,19th St. Oakland,3
+7,3,24th St. Mission,2
+7,3,Ashby,1
+7,3,Balboa Park,1
+7,3,Bay Fair,15
+7,3,Castro Valley,1
+7,3,Civic Center/UN Plaza,9
+7,3,Coliseum,21
+7,3,Concord,10
+7,3,Daly City,2
+7,3,Downtown Berkeley,1
+7,3,Dublin/Pleasanton,2
+7,3,El Cerrito Plaza,1
+7,3,El Cerrito del Norte,5
+7,3,Embarcadero,2
+7,3,Fremont,3
+7,3,Fruitvale,8
+7,3,Hayward,7
+7,3,Lafayette,1
+7,3,Lake Merritt,3
+7,3,MacArthur,8
+7,3,Millbrae,4
+7,3,Montgomery St.,1
+7,3,North Berkeley,5
+7,3,North Concord/Martinez,2
+7,3,Orinda,1
+7,3,Pittsburg/Bay Point,12
+7,3,Pleasant Hill/Contra Costa Centre,1
+7,3,Powell St.,11
+7,3,Richmond,8
+7,3,Rockridge,3
+7,3,San Leandro,3
+7,3,South Hayward,4
+7,3,South San Francisco,2
+7,3,Union City,5
+7,3,Walnut Creek,1
+7,3,West Dublin/Pleasanton,3
+7,3,West Oakland,6
+7,4,,4
+7,4,12th St. Oakland City Center,6
+7,4,16th St. Mission,2
+7,4,19th St. Oakland,3
+7,4,24th St. Mission,2
+7,4,Ashby,4
+7,4,Bay Fair,10
+7,4,Castro Valley,1
+7,4,Civic Center/UN Plaza,9
+7,4,Coliseum,12
+7,4,Colma,1
+7,4,Concord,6
+7,4,Daly City,2
+7,4,Downtown Berkeley,2
+7,4,Dublin/Pleasanton,6
+7,4,El Cerrito del Norte,6
+7,4,Embarcadero,3
+7,4,Fremont,3
+7,4,Fruitvale,7
+7,4,Hayward,12
+7,4,Lafayette,1
+7,4,Lake Merritt,5
+7,4,MacArthur,8
+7,4,Montgomery St.,2
+7,4,North Berkeley,2
+7,4,North Concord/Martinez,1
+7,4,Orinda,1
+7,4,Pittsburg/Bay Point,7
+7,4,Pleasant Hill/Contra Costa Centre,1
+7,4,Powell St.,14
+7,4,Richmond,4
+7,4,Rockridge,2
+7,4,San Bruno,3
+7,4,San Francisco International Airport,1
+7,4,San Leandro,9
+7,4,South Hayward,4
+7,4,South San Francisco,2
+7,4,Union City,2
+7,4,Walnut Creek,3
+7,4,West Oakland,14
+7,5,,3
+7,5,12th St. Oakland City Center,10
+7,5,16th St. Mission,2
+7,5,19th St. Oakland,3
+7,5,24th St. Mission,1
+7,5,Ashby,1
+7,5,Balboa Park,1
+7,5,Bay Fair,7
+7,5,Castro Valley,1
+7,5,Civic Center/UN Plaza,2
+7,5,Coliseum,19
+7,5,Concord,10
+7,5,Daly City,6
+7,5,Downtown Berkeley,4
+7,5,Dublin/Pleasanton,6
+7,5,El Cerrito Plaza,3
+7,5,El Cerrito del Norte,6
+7,5,Embarcadero,3
+7,5,Fremont,6
+7,5,Fruitvale,6
+7,5,Glen Park,1
+7,5,Hayward,12
+7,5,Lafayette,3
+7,5,Lake Merritt,5
+7,5,MacArthur,6
+7,5,Millbrae,1
+7,5,Montgomery St.,1
+7,5,North Berkeley,4
+7,5,North Concord/Martinez,3
+7,5,Orinda,6
+7,5,Pittsburg/Bay Point,4
+7,5,Pleasant Hill/Contra Costa Centre,2
+7,5,Powell St.,22
+7,5,Richmond,9
+7,5,Rockridge,2
+7,5,San Bruno,4
+7,5,San Francisco International Airport,1
+7,5,San Leandro,7
+7,5,South Hayward,2
+7,5,Union City,4
+7,5,Walnut Creek,3
+7,5,West Oakland,11
+7,6,,2
+7,6,12th St. Oakland City Center,6
+7,6,16th St. Mission,3
+7,6,19th St. Oakland,4
+7,6,24th St. Mission,5
+7,6,Ashby,5
+7,6,Bay Fair,11
+7,6,Civic Center/UN Plaza,9
+7,6,Coliseum,5
+7,6,Concord,6
+7,6,Daly City,1
+7,6,Downtown Berkeley,2
+7,6,Dublin/Pleasanton,3
+7,6,El Cerrito Plaza,2
+7,6,El Cerrito del Norte,6
+7,6,Embarcadero,3
+7,6,Fremont,4
+7,6,Fruitvale,10
+7,6,Hayward,8
+7,6,Lafayette,1
+7,6,Lake Merritt,2
+7,6,MacArthur,7
+7,6,Montgomery St.,5
+7,6,North Berkeley,3
+7,6,North Concord/Martinez,4
+7,6,Orinda,1
+7,6,Pittsburg/Bay Point,7
+7,6,Pleasant Hill/Contra Costa Centre,4
+7,6,Powell St.,12
+7,6,Richmond,5
+7,6,Rockridge,2
+7,6,San Bruno,2
+7,6,San Leandro,2
+7,6,South Hayward,3
+7,6,Union City,1
+7,6,West Dublin/Pleasanton,1
+7,6,West Oakland,7
+7,7,,4
+7,7,12th St. Oakland City Center,4
+7,7,16th St. Mission,2
+7,7,19th St. Oakland,4
+7,7,24th St. Mission,2
+7,7,Antioch,1
+7,7,Ashby,2
+7,7,Balboa Park,1
+7,7,Bay Fair,13
+7,7,Castro Valley,3
+7,7,Civic Center/UN Plaza,5
+7,7,Coliseum,8
+7,7,Colma,2
+7,7,Concord,5
+7,7,Daly City,3
+7,7,Downtown Berkeley,3
+7,7,Dublin/Pleasanton,5
+7,7,El Cerrito del Norte,2
+7,7,Fremont,5
+7,7,Fruitvale,14
+7,7,Hayward,3
+7,7,Lafayette,2
+7,7,Lake Merritt,5
+7,7,MacArthur,7
+7,7,Millbrae,2
+7,7,North Berkeley,2
+7,7,North Concord/Martinez,2
+7,7,Pittsburg/Bay Point,11
+7,7,Pleasant Hill/Contra Costa Centre,5
+7,7,Powell St.,6
+7,7,Richmond,4
+7,7,Rockridge,5
+7,7,San Bruno,1
+7,7,San Francisco International Airport,1
+7,7,San Leandro,7
+7,7,South Hayward,2
+7,7,Walnut Creek,2
+7,7,Warm Springs/South Fremont,1
+7,7,West Oakland,8
+7,8,12th St. Oakland City Center,2
+7,8,16th St. Mission,1
+7,8,19th St. Oakland,5
+7,8,Ashby,2
+7,8,Balboa Park,2
+7,8,Bay Fair,1
+7,8,Coliseum,5
+7,8,Concord,5
+7,8,Dublin/Pleasanton,6
+7,8,El Cerrito del Norte,6
+7,8,Embarcadero,1
+7,8,Fremont,1
+7,8,Fruitvale,5
+7,8,Hayward,2
+7,8,Lafayette,1
+7,8,Lake Merritt,1
+7,8,MacArthur,5
+7,8,North Berkeley,1
+7,8,Pittsburg/Bay Point,8
+7,8,Pleasant Hill/Contra Costa Centre,2
+7,8,Powell St.,1
+7,8,Richmond,2
+7,8,San Bruno,1
+7,8,San Francisco International Airport,2
+7,8,South Hayward,1
+7,8,Union City,1
+7,8,Walnut Creek,3
+7,8,West Oakland,3
+7,9,,4
+7,9,12th St. Oakland City Center,1
+7,9,19th St. Oakland,1
+7,9,24th St. Mission,2
+7,9,Ashby,1
+7,9,Bay Fair,1
+7,9,Castro Valley,1
+7,9,Civic Center/UN Plaza,4
+7,9,Coliseum,12
+7,9,Concord,1
+7,9,Downtown Berkeley,1
+7,9,Dublin/Pleasanton,2
+7,9,El Cerrito del Norte,3
+7,9,Embarcadero,1
+7,9,Fremont,5
+7,9,Fruitvale,2
+7,9,Hayward,5
+7,9,Lake Merritt,2
+7,9,MacArthur,2
+7,9,Millbrae,1
+7,9,North Concord/Martinez,1
+7,9,Pittsburg/Bay Point,5
+7,9,Pleasant Hill/Contra Costa Centre,1
+7,9,Powell St.,3
+7,9,Richmond,2
+7,9,Rockridge,1
+7,9,San Bruno,1
+7,9,San Francisco International Airport,1
+7,9,San Leandro,3
+7,9,South San Francisco,1
+7,9,Walnut Creek,1
+7,9,Warm Springs/South Fremont,1
+7,10,,2
+7,10,16th St. Mission,1
+7,10,19th St. Oakland,1
+7,10,Balboa Park,1
+7,10,Bay Fair,2
+7,10,Coliseum,4
+7,10,Daly City,2
+7,10,El Cerrito del Norte,1
+7,10,Fremont,5
+7,10,MacArthur,2
+7,10,Millbrae,2
+7,10,North Concord/Martinez,1
+7,10,Pittsburg/Bay Point,6
+7,10,Pleasant Hill/Contra Costa Centre,1
+7,10,Powell St.,1
+7,10,Richmond,5
+7,10,San Bruno,1
+7,10,South Hayward,1
+7,10,West Oakland,2
+7,11,12th St. Oakland City Center,3
+7,11,19th St. Oakland,1
+7,11,Bay Fair,1
+7,11,Castro Valley,1
+7,11,Coliseum,5
+7,11,Colma,1
+7,11,Concord,1
+7,11,Daly City,1
+7,11,Dublin/Pleasanton,1
+7,11,El Cerrito del Norte,2
+7,11,Fremont,1
+7,11,Fruitvale,3
+7,11,Hayward,1
+7,11,Lake Merritt,1
+7,11,MacArthur,1
+7,11,Millbrae,1
+7,11,North Berkeley,1
+7,11,Pittsburg/Bay Point,1
+7,11,Powell St.,1
+7,11,San Francisco International Airport,1
+7,11,West Oakland,1
+7,12,,1
+7,12,12th St. Oakland City Center,2
+7,12,16th St. Mission,2
+7,12,19th St. Oakland,1
+7,12,Bay Fair,4
+7,12,Castro Valley,1
+7,12,Civic Center/UN Plaza,1
+7,12,Coliseum,1
+7,12,Concord,1
+7,12,Daly City,1
+7,12,Downtown Berkeley,1
+7,12,Dublin/Pleasanton,1
+7,12,El Cerrito del Norte,1
+7,12,Fremont,1
+7,12,Fruitvale,1
+7,12,Hayward,3
+7,12,MacArthur,5
+7,12,North Berkeley,1
+7,12,Pittsburg/Bay Point,5
+7,12,Powell St.,2
+7,12,Richmond,6
+7,12,Rockridge,2
+7,12,South Hayward,2
+7,12,Walnut Creek,1
+7,12,West Oakland,1
+7,13,,3
+7,13,Ashby,1
+7,13,Bay Fair,3
+7,13,Coliseum,3
+7,13,Concord,1
+7,13,Fremont,2
+7,13,Fruitvale,1
+7,13,Lake Merritt,1
+7,13,MacArthur,4
+7,13,Millbrae,3
+7,13,Montgomery St.,1
+7,13,Powell St.,1
+7,13,Richmond,3
+7,13,Rockridge,2
+7,13,South Hayward,1
+7,13,Walnut Creek,1
+7,13,West Oakland,5
+7,14,,1
+7,14,12th St. Oakland City Center,1
+7,14,24th St. Mission,1
+7,14,Ashby,1
+7,14,Castro Valley,2
+7,14,Coliseum,4
+7,14,Colma,1
+7,14,Concord,1
+7,14,Daly City,1
+7,14,Dublin/Pleasanton,2
+7,14,Embarcadero,1
+7,14,Fruitvale,3
+7,14,Hayward,2
+7,14,MacArthur,3
+7,14,Millbrae,1
+7,14,Montgomery St.,1
+7,14,Pittsburg/Bay Point,3
+7,14,Powell St.,1
+7,14,Richmond,4
+7,14,San Leandro,1
+7,14,South Hayward,1
+7,14,Walnut Creek,1
+7,14,West Oakland,1
+7,15,,3
+7,15,16th St. Mission,1
+7,15,19th St. Oakland,1
+7,15,Antioch,1
+7,15,Bay Fair,3
+7,15,Civic Center/UN Plaza,1
+7,15,Coliseum,9
+7,15,Colma,1
+7,15,Concord,2
+7,15,Daly City,1
+7,15,Dublin/Pleasanton,3
+7,15,El Cerrito del Norte,2
+7,15,Embarcadero,2
+7,15,Fremont,1
+7,15,Fruitvale,4
+7,15,Hayward,7
+7,15,Lafayette,1
+7,15,Lake Merritt,2
+7,15,MacArthur,3
+7,15,Millbrae,1
+7,15,Montgomery St.,2
+7,15,Pittsburg/Bay Point,4
+7,15,Pleasant Hill/Contra Costa Centre,2
+7,15,Powell St.,11
+7,15,Richmond,3
+7,15,San Leandro,1
+7,15,South Hayward,3
+7,15,South San Francisco,1
+7,15,Walnut Creek,2
+7,15,West Dublin/Pleasanton,2
+7,15,West Oakland,2
+7,16,,1
+7,16,12th St. Oakland City Center,4
+7,16,16th St. Mission,3
+7,16,19th St. Oakland,1
+7,16,Ashby,2
+7,16,Balboa Park,3
+7,16,Bay Fair,3
+7,16,Castro Valley,2
+7,16,Civic Center/UN Plaza,5
+7,16,Coliseum,8
+7,16,Concord,2
+7,16,Daly City,2
+7,16,Downtown Berkeley,1
+7,16,Dublin/Pleasanton,3
+7,16,El Cerrito Plaza,1
+7,16,El Cerrito del Norte,6
+7,16,Embarcadero,2
+7,16,Fruitvale,4
+7,16,Glen Park,1
+7,16,Hayward,2
+7,16,Lafayette,1
+7,16,Lake Merritt,1
+7,16,MacArthur,5
+7,16,Millbrae,1
+7,16,Montgomery St.,1
+7,16,North Berkeley,1
+7,16,North Concord/Martinez,2
+7,16,Orinda,3
+7,16,Pittsburg/Bay Point,3
+7,16,Pleasant Hill/Contra Costa Centre,3
+7,16,Powell St.,9
+7,16,Richmond,3
+7,16,San Bruno,1
+7,16,San Leandro,3
+7,16,South San Francisco,1
+7,16,Union City,2
+7,16,Walnut Creek,2
+7,16,West Dublin/Pleasanton,1
+7,16,West Oakland,2
+7,17,,2
+7,17,12th St. Oakland City Center,1
+7,17,16th St. Mission,1
+7,17,19th St. Oakland,4
+7,17,24th St. Mission,2
+7,17,Antioch,1
+7,17,Ashby,4
+7,17,Balboa Park,4
+7,17,Bay Fair,6
+7,17,Civic Center/UN Plaza,3
+7,17,Coliseum,8
+7,17,Colma,1
+7,17,Concord,3
+7,17,Downtown Berkeley,1
+7,17,Dublin/Pleasanton,2
+7,17,El Cerrito Plaza,1
+7,17,El Cerrito del Norte,7
+7,17,Embarcadero,4
+7,17,Fremont,2
+7,17,Fruitvale,2
+7,17,Glen Park,2
+7,17,Hayward,6
+7,17,Lafayette,3
+7,17,Lake Merritt,3
+7,17,MacArthur,5
+7,17,Millbrae,3
+7,17,Montgomery St.,1
+7,17,North Berkeley,3
+7,17,North Concord/Martinez,1
+7,17,Orinda,1
+7,17,Pittsburg/Bay Point,6
+7,17,Pleasant Hill/Contra Costa Centre,5
+7,17,Powell St.,10
+7,17,Richmond,3
+7,17,Rockridge,2
+7,17,San Francisco International Airport,2
+7,17,San Leandro,3
+7,17,South Hayward,2
+7,17,Union City,2
+7,17,Walnut Creek,3
+7,17,West Oakland,8
+7,18,,5
+7,18,12th St. Oakland City Center,5
+7,18,16th St. Mission,2
+7,18,19th St. Oakland,3
+7,18,24th St. Mission,1
+7,18,Ashby,2
+7,18,Balboa Park,2
+7,18,Bay Fair,9
+7,18,Castro Valley,3
+7,18,Civic Center/UN Plaza,5
+7,18,Coliseum,10
+7,18,Concord,6
+7,18,Daly City,4
+7,18,Downtown Berkeley,2
+7,18,Dublin/Pleasanton,5
+7,18,El Cerrito Plaza,1
+7,18,El Cerrito del Norte,7
+7,18,Fremont,3
+7,18,Fruitvale,7
+7,18,Glen Park,1
+7,18,Hayward,5
+7,18,Lake Merritt,6
+7,18,MacArthur,7
+7,18,Montgomery St.,3
+7,18,North Berkeley,2
+7,18,North Concord/Martinez,2
+7,18,Orinda,2
+7,18,Pittsburg/Bay Point,3
+7,18,Pleasant Hill/Contra Costa Centre,2
+7,18,Powell St.,7
+7,18,Richmond,4
+7,18,Rockridge,1
+7,18,San Bruno,1
+7,18,San Francisco International Airport,1
+7,18,San Leandro,2
+7,18,South Hayward,2
+7,18,South San Francisco,1
+7,18,Union City,1
+7,18,Walnut Creek,2
+7,18,West Oakland,8
+7,19,,1
+7,19,12th St. Oakland City Center,4
+7,19,16th St. Mission,1
+7,19,19th St. Oakland,2
+7,19,Ashby,14
+7,19,Balboa Park,1
+7,19,Bay Fair,8
+7,19,Civic Center/UN Plaza,2
+7,19,Coliseum,10
+7,19,Colma,1
+7,19,Daly City,3
+7,19,Dublin/Pleasanton,2
+7,19,El Cerrito del Norte,4
+7,19,Embarcadero,3
+7,19,Fremont,2
+7,19,Fruitvale,7
+7,19,Hayward,13
+7,19,Lake Merritt,7
+7,19,MacArthur,5
+7,19,Millbrae,3
+7,19,North Concord/Martinez,1
+7,19,Orinda,3
+7,19,Pittsburg/Bay Point,1
+7,19,Pleasant Hill/Contra Costa Centre,5
+7,19,Powell St.,7
+7,19,Richmond,2
+7,19,Rockridge,1
+7,19,San Bruno,1
+7,19,San Francisco International Airport,2
+7,19,San Leandro,7
+7,19,South Hayward,1
+7,19,South San Francisco,1
+7,19,Union City,2
+7,19,Walnut Creek,1
+7,19,West Oakland,2
+7,20,,2
+7,20,16th St. Mission,1
+7,20,19th St. Oakland,2
+7,20,Ashby,2
+7,20,Balboa Park,3
+7,20,Bay Fair,9
+7,20,Castro Valley,2
+7,20,Civic Center/UN Plaza,5
+7,20,Coliseum,9
+7,20,Concord,3
+7,20,Daly City,5
+7,20,Downtown Berkeley,1
+7,20,Dublin/Pleasanton,4
+7,20,El Cerrito Plaza,3
+7,20,El Cerrito del Norte,8
+7,20,Embarcadero,1
+7,20,Fremont,1
+7,20,Fruitvale,12
+7,20,Glen Park,2
+7,20,Hayward,5
+7,20,Lafayette,1
+7,20,Lake Merritt,8
+7,20,MacArthur,5
+7,20,Millbrae,2
+7,20,Montgomery St.,1
+7,20,North Berkeley,2
+7,20,North Concord/Martinez,1
+7,20,Orinda,2
+7,20,Pittsburg/Bay Point,7
+7,20,Pleasant Hill/Contra Costa Centre,3
+7,20,Powell St.,16
+7,20,Richmond,7
+7,20,Rockridge,4
+7,20,San Leandro,2
+7,20,South Hayward,5
+7,20,Walnut Creek,1
+7,20,Warm Springs/South Fremont,1
+7,20,West Oakland,5
+7,21,,1
+7,21,12th St. Oakland City Center,1
+7,21,16th St. Mission,1
+7,21,19th St. Oakland,2
+7,21,24th St. Mission,1
+7,21,Ashby,6
+7,21,Bay Fair,5
+7,21,Castro Valley,1
+7,21,Civic Center/UN Plaza,10
+7,21,Coliseum,13
+7,21,Concord,1
+7,21,Daly City,2
+7,21,Downtown Berkeley,3
+7,21,Dublin/Pleasanton,6
+7,21,El Cerrito del Norte,7
+7,21,Embarcadero,3
+7,21,Fruitvale,6
+7,21,Hayward,4
+7,21,Lafayette,1
+7,21,Lake Merritt,6
+7,21,MacArthur,4
+7,21,North Berkeley,3
+7,21,Pittsburg/Bay Point,2
+7,21,Pleasant Hill/Contra Costa Centre,6
+7,21,Powell St.,8
+7,21,Richmond,7
+7,21,Rockridge,2
+7,21,San Bruno,2
+7,21,San Francisco International Airport,1
+7,21,San Leandro,7
+7,21,Union City,1
+7,21,Walnut Creek,2
+7,21,West Dublin/Pleasanton,1
+7,21,West Oakland,10
+7,22,,2
+7,22,12th St. Oakland City Center,3
+7,22,16th St. Mission,3
+7,22,19th St. Oakland,4
+7,22,24th St. Mission,3
+7,22,Ashby,7
+7,22,Balboa Park,4
+7,22,Bay Fair,5
+7,22,Castro Valley,2
+7,22,Civic Center/UN Plaza,9
+7,22,Coliseum,12
+7,22,Colma,1
+7,22,Concord,8
+7,22,Daly City,4
+7,22,Downtown Berkeley,3
+7,22,Dublin/Pleasanton,3
+7,22,El Cerrito del Norte,6
+7,22,Embarcadero,6
+7,22,Fremont,1
+7,22,Fruitvale,10
+7,22,Hayward,6
+7,22,Lafayette,1
+7,22,Lake Merritt,12
+7,22,MacArthur,3
+7,22,Millbrae,1
+7,22,Montgomery St.,1
+7,22,North Concord/Martinez,1
+7,22,Orinda,1
+7,22,Pittsburg/Bay Point,10
+7,22,Pleasant Hill/Contra Costa Centre,2
+7,22,Powell St.,15
+7,22,Richmond,2
+7,22,Rockridge,2
+7,22,San Leandro,4
+7,22,Walnut Creek,3
+7,22,West Dublin/Pleasanton,1
+7,22,West Oakland,9
+7,23,,3
+7,23,12th St. Oakland City Center,3
+7,23,16th St. Mission,6
+7,23,19th St. Oakland,7
+7,23,24th St. Mission,5
+7,23,Ashby,6
+7,23,Balboa Park,2
+7,23,Bay Fair,9
+7,23,Civic Center/UN Plaza,7
+7,23,Coliseum,17
+7,23,Concord,7
+7,23,Daly City,1
+7,23,Downtown Berkeley,1
+7,23,Dublin/Pleasanton,7
+7,23,El Cerrito Plaza,2
+7,23,El Cerrito del Norte,8
+7,23,Embarcadero,3
+7,23,Fremont,3
+7,23,Fruitvale,11
+7,23,Glen Park,1
+7,23,Hayward,8
+7,23,Lake Merritt,2
+7,23,MacArthur,7
+7,23,Millbrae,4
+7,23,Montgomery St.,1
+7,23,North Berkeley,1
+7,23,North Concord/Martinez,1
+7,23,Orinda,1
+7,23,Pittsburg/Bay Point,4
+7,23,Powell St.,14
+7,23,Richmond,2
+7,23,Rockridge,3
+7,23,San Bruno,1
+7,23,San Francisco International Airport,1
+7,23,San Leandro,13
+7,23,South Hayward,1
+7,23,Union City,2
+7,23,Walnut Creek,5
+7,23,West Oakland,10
+1,0,all,230
+1,1,all,206
+1,2,all,206
+1,3,all,169
+1,4,all,165
+1,5,all,130
+1,6,all,115
+1,7,all,111
+1,8,all,80
+1,9,all,30
+1,10,all,47
+1,11,all,57
+1,12,all,46
+1,13,all,77
+1,14,all,107
+1,15,all,137
+1,16,all,150
+1,17,all,151
+1,18,all,180
+1,19,all,148
+1,20,all,166
+1,21,all,161
+1,22,all,184
+1,23,all,261
+2,0,all,315
+2,1,all,336
+2,2,all,288
+2,3,all,253
+2,4,all,197
+2,5,all,148
+2,6,all,126
+2,7,all,133
+2,8,all,84
+2,9,all,38
+2,10,all,24
+2,11,all,26
+2,12,all,93
+2,13,all,94
+2,14,all,87
+2,15,all,146
+2,16,all,140
+2,17,all,144
+2,18,all,115
+2,19,all,114
+2,20,all,97
+2,21,all,120
+2,22,all,158
+2,23,all,244
+3,0,all,339
+3,1,all,347
+3,2,all,345
+3,3,all,238
+3,4,all,199
+3,5,all,190
+3,6,all,192
+3,7,all,133
+3,8,all,91
+3,9,all,32
+3,10,all,18
+3,11,all,39
+3,12,all,77
+3,13,all,85
+3,14,all,93
+3,15,all,130
+3,16,all,147
+3,17,all,152
+3,18,all,128
+3,19,all,132
+3,20,all,147
+3,21,all,120
+3,22,all,197
+3,23,all,232
+4,0,all,343
+4,1,all,364
+4,2,all,302
+4,3,all,274
+4,4,all,218
+4,5,all,220
+4,6,all,162
+4,7,all,134
+4,8,all,82
+4,9,all,37
+4,10,all,23
+4,11,all,31
+4,12,all,83
+4,13,all,91
+4,14,all,105
+4,15,all,123
+4,16,all,151
+4,17,all,152
+4,18,all,161
+4,19,all,114
+4,20,all,128
+4,21,all,150
+4,22,all,177
+4,23,all,251
+5,0,all,285
+5,1,all,328
+5,2,all,316
+5,3,all,236
+5,4,all,237
+5,5,all,180
+5,6,all,170
+5,7,all,123
+5,8,all,80
+5,9,all,47
+5,10,all,18
+5,11,all,40
+5,12,all,73
+5,13,all,73
+5,14,all,112
+5,15,all,130
+5,16,all,144
+5,17,all,163
+5,18,all,124
+5,19,all,135
+5,20,all,132
+5,21,all,146
+5,22,all,156
+5,23,all,218
+6,0,all,271
+6,1,all,275
+6,2,all,262
+6,3,all,227
+6,4,all,202
+6,5,all,153
+6,6,all,156
+6,7,all,142
+6,8,all,117
+6,9,all,70
+6,10,all,52
+6,11,all,65
+6,12,all,72
+6,13,all,47
+6,14,all,89
+6,15,all,94
+6,16,all,118
+6,17,all,124
+6,18,all,150
+6,19,all,142
+6,20,all,143
+6,21,all,172
+6,22,all,168
+6,23,all,192
+7,0,all,216
+7,1,all,233
+7,2,all,209
+7,3,all,183
+7,4,all,187
+7,5,all,213
+7,6,all,164
+7,7,all,164
+7,8,all,76
+7,9,all,73
+7,10,all,41
+7,11,all,30
+7,12,all,48
+7,13,all,36
+7,14,all,38
+7,15,all,82
+7,16,all,101
+7,17,all,133
+7,18,all,145
+7,19,all,130
+7,20,all,153
+7,21,all,136
+7,22,all,170
+7,23,all,190

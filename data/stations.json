@@ -1,0 +1,864 @@
+[ {
+    "url": "",
+    "id": 47,
+    "info_url": "https://www.bart.gov/stations/antc",
+    "incidents": {
+      "total": 110
+    },
+    "name": "Antioch",
+    "abbreviation": "ANTC",
+    "latitude": 37.995608,
+    "longitude": -121.780399,
+    "address": "1600 Slatten Ranch Road",
+    "city": "Antioch",
+    "county": "contra costa",
+    "state": "CA",
+    "zipcode": 94509,
+    "date": "May 26, 2018"
+  },{
+    "url": "",
+    "id": 46,
+    "info_url": "https://www.bart.gov/stations/pctr",
+    "incidents": {
+      "total": 5
+    },
+    "name": "Pittsburg Center",
+    "abbreviation": "PCTR",
+    "latitude": 38.016981,
+    "longitude": -121.889115,
+    "address": "2099 Railroad Ave, Pittsburg, CA 94565",
+    "city": "Pittsburg",
+    "county": "contra costa",
+    "state": "CA",
+    "zipcode": 94565,
+    "date": "May 26, 2018"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/45/",
+    "id": 45,
+    "info_url": "http://www.bart.gov/stations/WOAK",
+    "incidents": {
+      "total": 865
+    },
+    "name": "West Oakland",
+    "abbreviation": "WOAK",
+    "latitude": 37.804872,
+    "longitude": -122.29514,
+    "address": "1451 7th Street",
+    "city": "Oakland",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94607,
+    "date": "September 16, 1974"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/44/",
+    "id": 44,
+    "info_url": "http://www.bart.gov/stations/WDUB",
+    "incidents": {
+      "total": 161
+    },
+    "name": "West Dublin/Pleasanton",
+    "abbreviation": "WDUB",
+    "latitude": 37.699756,
+    "longitude": -121.92824,
+    "address": "6501 Golden Gate Drive",
+    "city": "Dublin",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94568,
+    "date": "February 19, 2011"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/43/",
+    "id": 43,
+    "info_url": "http://www.bart.gov/stations/WCRK",
+    "incidents": {
+      "total": 426
+    },
+    "name": "Walnut Creek",
+    "abbreviation": "WCRK",
+    "latitude": 37.905522,
+    "longitude": -122.067527,
+    "address": "200 Ygnacio Valley Road",
+    "city": "Walnut Creek",
+    "county": "contracosta",
+    "state": "CA",
+    "zipcode": 94596,
+    "date": "September 11, 1972"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/46/",
+    "id": 46,
+    "info_url": "http://www.bart.gov/stations/WARM",
+    "incidents": {
+      "total": 30
+    },
+    "name": "Warm Springs/South Fremont",
+    "abbreviation": "WARM",
+    "latitude": 37.502171,
+    "longitude": -121.939313,
+    "address": "45193 Warm Springs Blvd",
+    "city": "Fremont",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94539,
+    "date": "March 25, 2017"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/42/",
+    "id": 42,
+    "info_url": "http://www.bart.gov/stations/UCTY",
+    "incidents": {
+      "total": 289
+    },
+    "name": "Union City",
+    "abbreviation": "UCTY",
+    "latitude": 37.59063,
+    "longitude": -122.017388,
+    "address": "10 Union Square",
+    "city": "Union City",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94587,
+    "date": "September 11, 1972"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/41/",
+    "id": 41,
+    "info_url": "http://www.bart.gov/stations/SSAN",
+    "incidents": {
+      "total": 140
+    },
+    "name": "South San Francisco",
+    "abbreviation": "SSAN",
+    "latitude": 37.664245,
+    "longitude": -122.44396,
+    "address": "1333 Mission Road",
+    "city": "South San Francisco",
+    "county": "sanmateo",
+    "state": "CA",
+    "zipcode": 94080,
+    "date": "June 22, 2003"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/40/",
+    "id": 40,
+    "info_url": "http://www.bart.gov/stations/SHAY",
+    "incidents": {
+      "total": 479
+    },
+    "name": "South Hayward",
+    "abbreviation": "SHAY",
+    "latitude": 37.634375,
+    "longitude": -122.057189,
+    "address": "28601 Dixon Street",
+    "city": "Hayward",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94544,
+    "date": "September 11, 1972"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/38/",
+    "id": 38,
+    "info_url": "http://www.bart.gov/stations/SFIA",
+    "incidents": {
+      "total": 77
+    },
+    "name": "San Francisco International Airport",
+    "abbreviation": "SFIA",
+    "latitude": 37.615966,
+    "longitude": -122.392409,
+    "address": "International Terminal, Level 3",
+    "city": "San Francisco International Airport",
+    "county": "sanmateo",
+    "state": "CA",
+    "zipcode": 94128,
+    "date": "June 22, 2003"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/37/",
+    "id": 37,
+    "info_url": "http://www.bart.gov/stations/SBRN",
+    "incidents": {
+      "total": 134
+    },
+    "name": "San Bruno",
+    "abbreviation": "SBRN",
+    "latitude": 37.637761,
+    "longitude": -122.416287,
+    "address": "1151 Huntington Avenue",
+    "city": "San Bruno",
+    "county": "sanmateo",
+    "state": "CA",
+    "zipcode": 94066,
+    "date": "June 22, 2003"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/39/",
+    "id": 39,
+    "info_url": "http://www.bart.gov/stations/SANL",
+    "incidents": {
+      "total": 672
+    },
+    "name": "San Leandro",
+    "abbreviation": "SANL",
+    "latitude": 37.721947,
+    "longitude": -122.160844,
+    "address": "1401 San Leandro Blvd.",
+    "city": "San Leandro",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94577,
+    "date": "September 11, 1972"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/36/",
+    "id": 36,
+    "info_url": "http://www.bart.gov/stations/ROCK",
+    "incidents": {
+      "total": 283
+    },
+    "name": "Rockridge",
+    "abbreviation": "ROCK",
+    "latitude": 37.844702,
+    "longitude": -122.251371,
+    "address": "5660 College Avenue",
+    "city": "Oakland",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94618,
+    "date": "May 21, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/35/",
+    "id": 35,
+    "info_url": "http://www.bart.gov/stations/RICH",
+    "incidents": {
+      "total": 692
+    },
+    "name": "Richmond",
+    "abbreviation": "RICH",
+    "latitude": 37.936853,
+    "longitude": -122.353099,
+    "address": "1700 Nevin Avenue",
+    "city": "Richmond",
+    "county": "contracosta",
+    "state": "CA",
+    "zipcode": 94801,
+    "date": "January 29, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/34/",
+    "id": 34,
+    "info_url": "http://www.bart.gov/stations/POWL",
+    "incidents": {
+      "total": 1283
+    },
+    "name": "Powell St.",
+    "abbreviation": "POWL",
+    "latitude": 37.784471,
+    "longitude": -122.407974,
+    "address": "899 Market Street",
+    "city": "San Francisco",
+    "county": "sanfrancisco",
+    "state": "CA",
+    "zipcode": 94102,
+    "date": "November 5, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/17/",
+    "id": 17,
+    "info_url": "http://www.bart.gov/stations/PLZA",
+    "incidents": {
+      "total": 235
+    },
+    "name": "El Cerrito Plaza",
+    "abbreviation": "PLZA",
+    "latitude": 37.902632,
+    "longitude": -122.298904,
+    "address": "6699 Fairmount Avenue",
+    "city": "El Cerrito",
+    "county": "contracosta",
+    "state": "CA",
+    "zipcode": 94530,
+    "date": "January 29, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/32/",
+    "id": 32,
+    "info_url": "http://www.bart.gov/stations/PITT",
+    "incidents": {
+      "total": 1021
+    },
+    "name": "Pittsburg/Bay Point",
+    "abbreviation": "PITT",
+    "latitude": 38.018914,
+    "longitude": -121.945154,
+    "address": "1700 West Leland Road",
+    "city": "Pittsburg",
+    "county": "contracosta",
+    "state": "CA",
+    "zipcode": 94565,
+    "date": "December 7, 1996"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/33/",
+    "id": 33,
+    "info_url": "http://www.bart.gov/stations/PHIL",
+    "incidents": {
+      "total": 445
+    },
+    "name": "Pleasant Hill/Contra Costa Centre",
+    "abbreviation": "PHIL",
+    "latitude": 37.928468,
+    "longitude": -122.056012,
+    "address": "1365 Treat Blvd.",
+    "city": "Walnut Creek",
+    "county": "contracosta",
+    "state": "CA",
+    "zipcode": 94597,
+    "date": "May 21, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/31/",
+    "id": 31,
+    "info_url": "http://www.bart.gov/stations/ORIN",
+    "incidents": {
+      "total": 278
+    },
+    "name": "Orinda",
+    "abbreviation": "ORIN",
+    "latitude": 37.87836087,
+    "longitude": -122.1837911,
+    "address": "11 Camino Pablo",
+    "city": "Orinda",
+    "county": "contracosta",
+    "state": "CA",
+    "zipcode": 94563,
+    "date": "May 21, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/30/",
+    "id": 30,
+    "info_url": "http://www.bart.gov/stations/OAKL",
+    "incidents": {
+      "total": 1
+    },
+    "name": "Oakland International Airport",
+    "abbreviation": "OAKL",
+    "latitude": 37.713238,
+    "longitude": -122.212191,
+    "address": "4 Airport Drive",
+    "city": "Oakland",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94621,
+    "date": "November 22, 2014"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/29/",
+    "id": 29,
+    "info_url": "http://www.bart.gov/stations/NCON",
+    "incidents": {
+      "total": 364
+    },
+    "name": "North Concord/Martinez",
+    "abbreviation": "NCON",
+    "latitude": 38.003193,
+    "longitude": -122.024653,
+    "address": "3700 Port Chicago Highway",
+    "city": "Concord",
+    "county": "contracosta",
+    "state": "CA",
+    "zipcode": 94520,
+    "date": "December 16, 1995"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/28/",
+    "id": 28,
+    "info_url": "http://www.bart.gov/stations/NBRK",
+    "incidents": {
+      "total": 633
+    },
+    "name": "North Berkeley",
+    "abbreviation": "NBRK",
+    "latitude": 37.873967,
+    "longitude": -122.28344,
+    "address": "1750 Sacramento Street",
+    "city": "Berkeley",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94702,
+    "date": "January 29, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/27/",
+    "id": 27,
+    "info_url": "http://www.bart.gov/stations/MONT",
+    "incidents": {
+      "total": 209
+    },
+    "name": "Montgomery St.",
+    "abbreviation": "MONT",
+    "latitude": 37.789405,
+    "longitude": -122.401066,
+    "address": "598 Market Street",
+    "city": "San Francisco",
+    "county": "sanfrancisco",
+    "state": "CA",
+    "zipcode": 94104,
+    "date": "November 5, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/26/",
+    "id": 26,
+    "info_url": "http://www.bart.gov/stations/MLBR",
+    "incidents": {
+      "total": 205
+    },
+    "name": "Millbrae",
+    "abbreviation": "MLBR",
+    "latitude": 37.600271,
+    "longitude": -122.386702,
+    "address": "200 North Rollins Road",
+    "city": "Millbrae",
+    "county": "sanmateo",
+    "state": "CA",
+    "zipcode": 94030,
+    "date": "June 22, 2003"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/25/",
+    "id": 25,
+    "info_url": "http://www.bart.gov/stations/MCAR",
+    "incidents": {
+      "total": 836
+    },
+    "name": "MacArthur",
+    "abbreviation": "MCAR",
+    "latitude": 37.829065,
+    "longitude": -122.26704,
+    "address": "555 40th Street",
+    "city": "Oakland",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94609,
+    "date": "September 11, 1972"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/24/",
+    "id": 24,
+    "info_url": "http://www.bart.gov/stations/LAKE",
+    "incidents": {
+      "total": 671
+    },
+    "name": "Lake Merritt",
+    "abbreviation": "LAKE",
+    "latitude": 37.797027,
+    "longitude": -122.26518,
+    "address": "800 Madison Street",
+    "city": "Oakland",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94607,
+    "date": "September 11, 1972"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/23/",
+    "id": 23,
+    "info_url": "http://www.bart.gov/stations/LAFY",
+    "incidents": {
+      "total": 307
+    },
+    "name": "Lafayette",
+    "abbreviation": "LAFY",
+    "latitude": 37.893176,
+    "longitude": -122.12463,
+    "address": "3601 Deer Hill Road",
+    "city": "Lafayette",
+    "county": "contracosta",
+    "state": "CA",
+    "zipcode": 94549,
+    "date": "May 21, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/22/",
+    "id": 22,
+    "info_url": "http://www.bart.gov/stations/HAYW",
+    "incidents": {
+      "total": 962
+    },
+    "name": "Hayward",
+    "abbreviation": "HAYW",
+    "latitude": 37.669723,
+    "longitude": -122.087018,
+    "address": "699 'B' Street",
+    "city": "Hayward",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94541,
+    "date": "September 11, 1972"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/21/",
+    "id": 21,
+    "info_url": "http://www.bart.gov/stations/GLEN",
+    "incidents": {
+      "total": 124
+    },
+    "name": "Glen Park",
+    "abbreviation": "GLEN",
+    "latitude": 37.733064,
+    "longitude": -122.433817,
+    "address": "2901 Diamond Street",
+    "city": "San Francisco",
+    "county": "sanfrancisco",
+    "state": "CA",
+    "zipcode": 94131,
+    "date": "November 5, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/20/",
+    "id": 20,
+    "info_url": "http://www.bart.gov/stations/FTVL",
+    "incidents": {
+      "total": 1221
+    },
+    "name": "Fruitvale",
+    "abbreviation": "FTVL",
+    "latitude": 37.774836,
+    "longitude": -122.224175,
+    "address": "3401 East 12th Street",
+    "city": "Oakland",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94601,
+    "date": "September 11, 1972"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/19/",
+    "id": 19,
+    "info_url": "http://www.bart.gov/stations/FRMT",
+    "incidents": {
+      "total": 589
+    },
+    "name": "Fremont",
+    "abbreviation": "FRMT",
+    "latitude": 37.557465,
+    "longitude": -121.976608,
+    "address": "2000 BART Way",
+    "city": "Fremont",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94536,
+    "date": "September 11, 1972"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/18/",
+    "id": 18,
+    "info_url": "http://www.bart.gov/stations/EMBR",
+    "incidents": {
+      "total": 395
+    },
+    "name": "Embarcadero",
+    "abbreviation": "EMBR",
+    "latitude": 37.792874,
+    "longitude": -122.39702,
+    "address": "298 Market Street",
+    "city": "San Francisco",
+    "county": "sanfrancisco",
+    "state": "CA",
+    "zipcode": 94111,
+    "date": "May 27, 1976"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/15/",
+    "id": 15,
+    "info_url": "http://www.bart.gov/stations/DUBL",
+    "incidents": {
+      "total": 648
+    },
+    "name": "Dublin/Pleasanton",
+    "abbreviation": "DUBL",
+    "latitude": 37.701687,
+    "longitude": -121.899179,
+    "address": "5801 Owens Dr.",
+    "city": "Pleasanton",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94588,
+    "date": "May 10, 1997"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/16/",
+    "id": 16,
+    "info_url": "http://www.bart.gov/stations/DELN",
+    "incidents": {
+      "total": 822
+    },
+    "name": "El Cerrito del Norte",
+    "abbreviation": "DELN",
+    "latitude": 37.925086,
+    "longitude": -122.316794,
+    "address": "6400 Cutting Blvd.",
+    "city": "El Cerrito",
+    "county": "contracosta",
+    "state": "CA",
+    "zipcode": 94530,
+    "date": "January 29, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/14/",
+    "id": 14,
+    "info_url": "http://www.bart.gov/stations/DBRK",
+    "incidents": {
+      "total": 7
+    },
+    "name": "Downtown Berkeley",
+    "abbreviation": "DBRK",
+    "latitude": 37.870104,
+    "longitude": -122.268133,
+    "address": "2160 Shattuck Avenue",
+    "city": "Berkeley",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94704,
+    "date": "January 29, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/13/",
+    "id": 13,
+    "info_url": "http://www.bart.gov/stations/DALY",
+    "incidents": {
+      "total": 527
+    },
+    "name": "Daly City",
+    "abbreviation": "DALY",
+    "latitude": 37.70612055,
+    "longitude": -122.4690807,
+    "address": "500 John Daly Blvd.",
+    "city": "Daly City",
+    "county": "sanmateo",
+    "state": "CA",
+    "zipcode": 94014,
+    "date": "November 5, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/12/",
+    "id": 12,
+    "info_url": "http://www.bart.gov/stations/CONC",
+    "incidents": {
+      "total": 743
+    },
+    "name": "Concord",
+    "abbreviation": "CONC",
+    "latitude": 37.973737,
+    "longitude": -122.029095,
+    "address": "1451 Oakland Avenue",
+    "city": "Concord",
+    "county": "contracosta",
+    "state": "CA",
+    "zipcode": 94520,
+    "date": "May 21, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/10/",
+    "id": 10,
+    "info_url": "http://www.bart.gov/stations/COLS",
+    "incidents": {
+      "total": 1670
+    },
+    "name": "Coliseum",
+    "abbreviation": "COLS",
+    "latitude": 37.753661,
+    "longitude": -122.196869,
+    "address": "7200 San Leandro St.",
+    "city": "Oakland",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94621,
+    "date": "September 11, 1972"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/11/",
+    "id": 11,
+    "info_url": "http://www.bart.gov/stations/COLM",
+    "incidents": {
+      "total": 120
+    },
+    "name": "Colma",
+    "abbreviation": "COLM",
+    "latitude": 37.684638,
+    "longitude": -122.466233,
+    "address": "365 D Street",
+    "city": "Colma",
+    "county": "sanmateo",
+    "state": "CA",
+    "zipcode": 94014,
+    "date": "February 24, 1996"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/9/",
+    "id": 9,
+    "info_url": "http://www.bart.gov/stations/CIVC",
+    "incidents": {
+      "total": 995
+    },
+    "name": "Civic Center/UN Plaza",
+    "abbreviation": "CIVC",
+    "latitude": 37.779732,
+    "longitude": -122.414123,
+    "address": "1150 Market Street",
+    "city": "San Francisco",
+    "county": "sanfrancisco",
+    "state": "CA",
+    "zipcode": 94102,
+    "date": "November 5, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/8/",
+    "id": 8,
+    "info_url": "http://www.bart.gov/stations/CAST",
+    "incidents": {
+      "total": 235
+    },
+    "name": "Castro Valley",
+    "abbreviation": "CAST",
+    "latitude": 37.690746,
+    "longitude": -122.075602,
+    "address": "3301 Norbridge Dr.",
+    "city": "Castro Valley",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94546,
+    "date": "May 10, 1997"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/7/",
+    "id": 7,
+    "info_url": "http://www.bart.gov/stations/BAYF",
+    "incidents": {
+      "total": 1081
+    },
+    "name": "Bay Fair",
+    "abbreviation": "BAYF",
+    "latitude": 37.696924,
+    "longitude": -122.126514,
+    "address": "15242 Hesperian Blvd.",
+    "city": "San Leandro",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94578,
+    "date": "September 11, 1972"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/6/",
+    "id": 6,
+    "info_url": "http://www.bart.gov/stations/BALB",
+    "incidents": {
+      "total": 213
+    },
+    "name": "Balboa Park",
+    "abbreviation": "BALB",
+    "latitude": 37.721585,
+    "longitude": -122.447506,
+    "address": "401 Geneva Avenue",
+    "city": "San Francisco",
+    "county": "sanfrancisco",
+    "state": "CA",
+    "zipcode": 94112,
+    "date": "November 5, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/5/",
+    "id": 5,
+    "info_url": "http://www.bart.gov/stations/ASHB",
+    "incidents": {
+      "total": 510
+    },
+    "name": "Ashby",
+    "abbreviation": "ASHB",
+    "latitude": 37.852803,
+    "longitude": -122.270062,
+    "address": "3100 Adeline Street",
+    "city": "Berkeley",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94703,
+    "date": "January 29, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/4/",
+    "id": 4,
+    "info_url": "http://www.bart.gov/stations/24TH",
+    "incidents": {
+      "total": 235
+    },
+    "name": "24th St. Mission",
+    "abbreviation": "24TH",
+    "latitude": 37.75247,
+    "longitude": -122.418143,
+    "address": "2800 Mission Street",
+    "city": "San Francisco",
+    "county": "sanfrancisco",
+    "state": "CA",
+    "zipcode": 94110,
+    "date": "November 5, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/3/",
+    "id": 3,
+    "info_url": "http://www.bart.gov/stations/19TH",
+    "incidents": {
+      "total": 526
+    },
+    "name": "19th St. Oakland",
+    "abbreviation": "19TH",
+    "latitude": 37.80835,
+    "longitude": -122.268602,
+    "address": "1900 Broadway",
+    "city": "Oakland",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94612,
+    "date": "September 11, 1972"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/2/",
+    "id": 2,
+    "info_url": "http://www.bart.gov/stations/16TH",
+    "incidents": {
+      "total": 274
+    },
+    "name": "16th St. Mission",
+    "abbreviation": "16TH",
+    "latitude": 37.765062,
+    "longitude": -122.419694,
+    "address": "2000 Mission Street",
+    "city": "San Francisco",
+    "county": "sanfrancisco",
+    "state": "CA",
+    "zipcode": 94110,
+    "date": "November 5, 1973"
+  },
+  {
+    "url": "https://www.bartcrimes.com/api/v0/stations/1/",
+    "id": 1,
+    "info_url": "http://www.bart.gov/stations/12TH",
+    "incidents": {
+      "total": 492
+    },
+    "name": "12th St. Oakland City Center",
+    "abbreviation": "12TH",
+    "latitude": 37.803768,
+    "longitude": -122.27145,
+    "address": "1245 Broadway",
+    "city": "Oakland",
+    "county": "alameda",
+    "state": "CA",
+    "zipcode": 94612,
+    "date": "September 11, 1972"
+  }
+]
